@@ -1,0 +1,4004 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#FOLDER
+	ID=31
+	NAME=回收站
+	CREATED=1342667853
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+-
+
+#SEPERATOR
+	ID=119
+	UNIQUEID=464D321657459A479CEB13D7F8DEF1CD
+
+#FOLDER
+	ID=120
+	NAME=技术论坛
+	CREATED=1342667853
+	UNIQUEID=2AB2F238251DB249947B7C5809BC9535
+
+#URL
+	ID=121
+	NAME=【软件论坛】_中关村在线圈天下社区
+	URL=http://q.zol.com.cn/bbs/index.php
+	CREATED=1291296802
+	VISITED=1334924044
+	DESCRIPTION= 【软件论坛】_中关村在线圈天下社区 软件论坛-中关村在线圈天下社区,提供最新最全的IT业界新闻资讯和各类软件资讯,涵盖系统,编辑,技术,销售,股票等各项IT领域,现已成为国内规模最大,最具人气的软件论坛社区.圈天下,圈聚行业精英! - Discuz! Board
+	UNIQUEID=E00CEF412315F44D848F319C89AD9C48
+
+#URL
+	ID=122
+	NAME=TT86综合社区 Q宠猪猪伴侣官方网站|Q宠猪猪伴侣|QQ空间人气精灵|QQ空间小秘书|TT86用心服务,与您共创! - powered by phpwind.net
+	URL=http://bbs.tt86.com/
+	CREATED=1297241109
+	VISITED=1328533225
+	DESCRIPTION=Q宠猪猪辅助软件,Q宠猪猪喂养软件,绿色软件,常用软件下载,刷Qzone人气,QQ空间超级互踩
+	UNIQUEID=0CF49D192954244DBA4B20242B9F492A
+
+#URL
+	ID=123
+	NAME=爱上KEY网-找KEY网论坛 为您提供卡巴斯基KEY激活码 NOD32升级ID及各类软件的授权KEY注册码和破解补丁 - 破解爱好者论坛!
+	URL=http://www.23key.com/forum.php
+	CREATED=1309484442
+	VISITED=1319086531
+	DESCRIPTION=您需要的软件，我们来提供破解码、KEY、激活码、补丁、注册码
+	UNIQUEID=FA871AE0071C6E41938CBB2EDFF9F759
+
+#URL
+	ID=124
+	NAME=霏凡论坛 - 非凡软件站 bbs.crsky.com - powered by phpwind.net
+	URL=http://bbs.crsky.com/
+	CREATED=1297325001
+	VISITED=1333332646
+	DESCRIPTION=bbs.crsky.com
+	UNIQUEID=468C224269D65D40B1FF4F3673AD44C3
+
+#URL
+	ID=125
+	NAME=精睿(vc52).网络安全 _杀毒软件推荐|免费杀毒软件|杀毒软件排行|排名|麦田守望者论坛 - Powered by Discuz!
+	URL=http://bbs.vc52.cn/
+	CREATED=1297244655
+	VISITED=1338526835
+	DESCRIPTION= 精睿(vc52).网络安全 麦田守望者博客,杀毒软件免费下载,精锐,精锐网络,精锐论坛,杀毒软件排名,免费杀毒软件下载!~ - Discuz! Board
+	UNIQUEID=02C33D5F8862B940A48C5BFAC1812ED3
+
+#URL
+	ID=126
+	NAME=菊花论坛--IT认证家园 IT认证|IT考试|网络工程师|10年专业IT论坛|MCSE|CCNA|CCNP|CCIE|MCSD|CISCO|H3C|IBM|编程|认证考试专业站点 - Powered by Discuz!
+	URL=http://www.sharecenter.net/
+	CREATED=1300437511
+	VISITED=1333332619
+	DESCRIPTION= 菊花论坛--IT认证家园 菊花IT认证论坛,著名IT技术社区,IT认证考试资源免费共享,微软认证,思科认证,MCSE,MCSD,CCNP,CCNA,CCIE等认证资源,提供业界资讯,IT培训资讯,技术交流,1999年始建中国第一IT认证社区 - Discuz! Board
+	UNIQUEID=ED284428363CEC47B2C3BD1D663E366A
+
+#URL
+	ID=127
+	NAME=卡饭论坛_计算机安全_杀毒软件论坛
+	URL=http://bbs.kafan.cn/
+	CREATED=1294029033
+	VISITED=1334924149
+	DESCRIPTION=是国内最著名的杀毒软件论坛,防火墙论坛,HIPS论坛的优秀反病毒论坛，有关各种杀毒软件,防火墙,HIPS的讨论尽在卡饭论坛！你将学会用好各种计算机安全软件！ ,卡饭 - 计算机安全 -信息安全
+	UNIQUEID=619DC75B93FF0D4380E93175BDA4C237
+
+#URL
+	ID=128
+	NAME=论坛首页 - 欢迎来到程序员之家论坛
+	URL=http://www.sunxin.org/forum/
+	CREATED=1288142151
+	VISITED=1334924052
+	UNIQUEID=9DDC8FA97C17C249A7637933639E7B47
+
+#URL
+	ID=129
+	NAME=萝卜家园论坛 - 新萝卜家园 - Powered by Discuz!
+	URL=http://bbs.cnsers.cn/
+	CREATED=1301888156
+	VISITED=1334924072
+	DESCRIPTION=萝卜家园系统技术爱好者临时站点，系萝卜家园原版主层管理。 ,萝卜家园
+	UNIQUEID=E4C7EF735E958E44B5ACE45FD8D19AB2
+
+#URL
+	ID=130
+	NAME=深度技术论坛 - Powered by Discuz!
+	URL=http://bbs.deepin.org/
+	CREATED=1297240416
+	VISITED=1350955701
+	DESCRIPTION= 深度技术论坛  - Discuz! Board
+	UNIQUEID=6824456A486B2F4FA60B23BF435235F5
+
+#URL
+	ID=131
+	NAME=数码之家 - 专业数字产品爱好者社区
+	URL=http://bbs.mydigit.cn/index.php?m=bbs
+	CREATED=1299128683
+	VISITED=1356399250
+	DESCRIPTION=数码之家 - 专业数字产品爱好者社区
+	UNIQUEID=CAE036BE1796A24D83E0F7410A0C27A7
+
+#URL
+	ID=132
+	NAME=思远技术社区
+	URL=http://bbs.seeyoon.com/
+	CREATED=1287745346
+	VISITED=1356499648
+	UNIQUEID=3002D795A49D9549B1DC9F2F4913ED68
+
+#URL
+	ID=133
+	NAME=速达社区
+	URL=http://bbs.suda123.com/
+	CREATED=1293979401
+	VISITED=1354541560
+	DESCRIPTION=速达论坛
+	UNIQUEID=4687243D2B04EF4988F6298491A04DF3
+
+#URL
+	ID=134
+	NAME=信念技术论坛 - xnBeta.COM
+	URL=http://bbs.xnbeta.com/
+	CREATED=1297239640
+	VISITED=1328152086
+	DESCRIPTION=信念技术论坛 - 信念，创造无限
+	UNIQUEID=40E17F9666DBC64DAA3F1F8994BD4970
+
+#URL
+	ID=135
+	NAME=雨林木风交流论坛 -
+	URL=http://bbs.ylmf.net/
+	CREATED=1297240595
+	VISITED=1337918844
+	DESCRIPTION=雨林木风论坛是一个以电脑网络技术为主题， 电影音乐为娱乐焦点的新型站点；站内提供大量常用实用网络资源的免费下载，欢迎大家常来！ ,雨林木风交流论坛[BBS.YLMF.NET]-专业的电脑技术精英培养基地！
+	UNIQUEID=B9D7E68BB74048489EB24AF5B4FCE5D8
+
+#URL
+	ID=136
+	NAME=远景在线 - 提供Windows7资讯中文版旗舰版下载,主题桌面及软件
+	URL=http://www.pcbeta.com/
+	CREATED=1299742645
+	VISITED=1353374999
+	DESCRIPTION=远景在线 是国内知名的Windows电脑技术网站，将最新、最快、最专业的IT资讯、应用技巧、丰富的资源奉献给所有网络科技爱好者。
+	UNIQUEID=2C5578B71DC9DE4D93FC6BD52D43966A
+
+#URL
+	ID=137
+	NAME=自由天空技术论坛 - e驱动、Easy Sysprep 官方站,自由天空提供智能驱动安装工具,解决电脑用户的驱动安装问题,分享精品主题壁纸和软件
+	URL=http://sky123.org/forum.php
+	CREATED=1297239921
+	VISITED=1351499194
+	DESCRIPTION=国内知名技术论坛,你身边的电脑顾问,系统和软件爱好者的交流平台,e驱动官方站,为业界提供最完善的智能驱动安装工具和系统部署解决方案,软件资源丰富,网友讨论气氛浓厚 ,自由天空技术论坛
+	UNIQUEID=6EFB63914FC78040BFD785E787F82CC6
+
+#URL
+	ID=138
+	NAME=金狐电脑工作室-Jinhu Computer Studio
+	URL=http://www.jinhu.me/
+	CREATED=1328152080
+	VISITED=1357046031
+	DESCRIPTION=金狐电脑工作室 - Jinhu Computer Studio
+	UNIQUEID=9196F5F9BBF5574693368FF935B6341F
+
+#URL
+	ID=139
+	NAME=Timus Online Judge
+	URL=http://acm.timus.ru/Default.aspx?locale=en
+	CREATED=1345440171
+	UNIQUEID=DAFF956EE58A764E8411FF70CD9B6C6A
+
+-
+
+#FOLDER
+	ID=140
+	NAME=在线教程
+	CREATED=1342667853
+	UNIQUEID=67A984008A2FF94D876EAD00E49CB7D0
+
+#URL
+	ID=141
+	NAME=首页 - OPhone SDN [OPhone 开发者网络]
+	URL=http://www.ophonesdn.com/
+	CREATED=1291553780
+	DESCRIPTION=OPhone开发者社区为您提供最权威的OPhone手机信息、OPhone新闻、OPhone SDK下载、OPhone论坛、OPhone文档、OPhone项目等,OPhone开发经验分享、移动OPhone手机使用心得,一切尽在OPhone SDN
+	UNIQUEID=989A0F953D16784BA7F903620E97B5EF
+
+#URL
+	ID=142
+	NAME=InfoQ: Tracking change and innovation in the enterprise software development community
+	URL=http://www.infoq.com/
+	CREATED=1289459363
+	VISITED=1350547502
+	DESCRIPTION=InfoQ.com (Information Queue) is an independent online community focused on change and innovation in enterprise software development, targeted primarily at the technical architect, technical team lead (senior developer), and project manager. InfoQ serves the Java, .NET, Ruby, SOA, and Agile communities with daily news written by domain experts, articles, video interviews, video conference presentations, and mini-books.  InfoQ offers personalization features allowing you to customize the site and your RSS feed to the specific subset of content you are interested in.
+	UNIQUEID=8E84C215AC2E384094E06C23F048E6AB
+
+#URL
+	ID=143
+	NAME=Developer.com: Your Home for Java and Open Source Development Knowledge
+	URL=http://www.developer.com/
+	CREATED=1291946237
+	VISITED=1324010354
+	DESCRIPTION=Developer.com is your source for Java and Open Source information, how-tos, news, and reports. Developer.com is the place for the latest programming techniques, need-to-know details on Java and Open Source releases, forward-looking introductions to emerging java and OSS technologies, and relevent Current news.
+	UNIQUEID=B27ED394191E264894292FD7EF381D32
+
+#URL
+	ID=144
+	NAME=沪江英语网—最具亲和力的原创英语学习网站，英语学习者的理想家园
+	URL=http://www.hjenglish.com/
+	CREATED=1295860795
+	VISITED=1320239480
+	DESCRIPTION=沪江英语是国内最具亲和力的原创英语学习网站，也是领先的英语学习门户网站，拥有最受欢迎的免费在线英语学习测试系统，专注于打造最具人气的英语学习交流互动平台，为全国数千万英语学习者提供专业服务。
+	UNIQUEID=026FC87FC9F56748B060E1B7E2821067
+
+#URL
+	ID=145
+	NAME=腾讯WSD用户体验设计团队
+	URL=http://wsd.tencent.com/
+	CREATED=1295939878
+	DESCRIPTION=腾讯WSD是腾讯无线业务系统一个致力于提升移动设备上用户体验的专业设计团队。工作领域覆盖移动设备上的网站、软件、游戏等产品的用户研究、交互设计、视觉设计和网页重构。
+	UNIQUEID=91F1F0616E20004A9FECD1976F505719
+
+#URL
+	ID=146
+	NAME=80创意设计-创意源于灵感 设计来自创意
+	URL=http://www.sheji80.com/
+	CREATED=1298468997
+	VISITED=1324010544
+	DESCRIPTION=鉴赏创意设计,提升设计灵感与技巧,传播先进设计理念 推动原创设计发展专业的数字艺术设计领域垂直门户网, 致力于为中国的设计者--80创意设计
+	UNIQUEID=EA1853FCC73B3F44A4D04F9AB077B715
+
+#URL
+	ID=147
+	NAME=中国云计算－中国最大的云计算资料和交流中心
+	URL=http://www.chinacloud.cn/default.aspx
+	CREATED=1298882304
+	VISITED=1328501704
+	DESCRIPTION=云计算(Cloud Computing)的一切均在里面，包括云计算概念、云计算技术、云计算应用、云计算学习、云计算机、云存储、云安全、云服务等。本站是资源丰富、分析深入、更新及时的云计算知识共享平台。本站由中国云计算专家委员会委员刘鹏教授主办，是中国网格信息中转站(http://www.chinagrid.net)的姊妹网站。
+	UNIQUEID=FE36F663FF82194DABF9336874EC3030
+
+#URL
+	ID=148
+	NAME=51CTO.COM - 技术成就梦想 - 中国领先的IT技术网站
+	URL=http://www.51cto.com/
+	CREATED=1299658904
+	VISITED=1356483294
+	DESCRIPTION=中国领先的IT技术网站51CTO(www.51cto.com)是一个为CTO、IT技术经理、系统工程师、网络工程师、安全工程师、数据库工程师、网络管理员、开发工程师、项目管理人员等IT技术人员搭建的互动媒体平台，主要为IT技术人员提供新闻资讯、技术文档、BBS、博客、技术圈、培训课程、人才交流等专业服务。
+	UNIQUEID=1BBF926581C80B4DAE9FD87D46DD3ADF
+
+#URL
+	ID=149
+	NAME=iCos - Welcome
+	URL=http://www.icos.in/web/ostd/home
+	CREATED=1301402353
+	UNIQUEID=E58105D96E037743A3195CD4F2928DF0
+
+#URL
+	ID=150
+	NAME=论坛: 论坛主页
+	URL=http://www.chinajavaworld.com/index.jspa
+	CREATED=1303041679
+	UNIQUEID=681A60B068EA11E08DE196CCE2BC3B92
+
+#URL
+	ID=151
+	NAME=SNDA Code - 概述 - SNDACode - www.sndacode.com - 盛大开源
+	URL=http://www.sndacode.com/projects/snda
+	CREATED=1305423848
+	DESCRIPTION=www.sndacode.com,Redmine
+	UNIQUEID=B459C81BD2C119408D73FBBA4BC9F4AB
+
+#URL
+	ID=152
+	NAME=265PS---专业PhotoShop教程网 - Powered by phpwind
+	URL=http://www.265ps.com/
+	CREATED=1315202580
+	VISITED=1319119964
+	DESCRIPTION=265PS---专业PhotoShop教程网
+	UNIQUEID=4ED2E78A2AB66E4E8E3E737DE9CDBCE1
+
+#FOLDER
+	ID=153
+	NAME=视频教程
+	CREATED=1342667853
+	UNIQUEID=509E23E019E9A448A91D2E5F6C06769D
+
+#URL
+	ID=154
+	NAME=我要自学网-视频教程|免费教程|自学电脑|3D教程|平面教程|多媒体教程|办公教程|机械设计教程|网站制作教程|电脑培训-我要自学网
+	URL=http://www.51zxw.net/
+	CREATED=1298469275
+	VISITED=1320157020
+	DESCRIPTION=我要自学网-免费视频教程,提供全方位软件学习，有3D教程，平面教程，多媒体制作教程，办公信息化教程，机械设计教程，网站制作教程,电脑培训
+	UNIQUEID=0CCBA30400889D4AA3D9AEF0DB527204
+
+#URL
+	ID=155
+	NAME=超星学术视频-百家讲坛_名师讲座_教育视频_学术搜索-全球最大中文学术视频库
+	URL=http://video.chaoxing.com/
+	CREATED=1330508227
+	VISITED=1330508296
+	UNIQUEID=092362032A605F488CE1633E6931827F
+
+#URL
+	ID=156
+	NAME=Python GUI Programming with wxPython - video tutorials for information, solution, cross-platform, language, develop, user, GUI, power, source, set
+	URL=http://showmedo.com/videotutorials/series?name=PythonWxPythonBeginnersSeries
+	CREATED=1347031536
+	UNIQUEID=60A697DFBBFE754A8BB739B282675C7E
+
+-
+
+#URL
+	ID=157
+	NAME=控制板 — 微软虚拟学院
+	URL=https://www.microsoftvirtualacademy.com/MyMVA/Dashboard.aspx
+	CREATED=1328256600
+	VISITED=1332080096
+	DESCRIPTION=在学院的控制板中，随着您的进度更新个人资料，使每个人都了解您的成绩。
+	UNIQUEID=08EA02022B4BA5458610EB9796E89720
+
+#URL
+	ID=158
+	NAME=Microsoft Showcase: Watch videos from Microsoft's online video collection
+	URL=http://www.microsoft.com/en-us/showcase/
+	CREATED=1328754932
+	DESCRIPTION=Microsoft Showcase is your central location for viewing rich media from Microsoft. Scan our Quick Picks for the latest videos, enter a search, or choose a category from our Video Guide.
+	UNIQUEID=D13EBADD72139049A637134EC8608007
+
+-
+
+#FOLDER
+	ID=159
+	NAME=技术博客
+	CREATED=1342667853
+	UNIQUEID=A41EC59D95308B4EB93F28438E455B3C
+
+#URL
+	ID=160
+	NAME=维梦
+	URL=http://www.ideautil.com/
+	CREATED=1306903971
+	VISITED=1328151979
+	DESCRIPTION=维梦，让技术变得更方便，简洁，自然。
+	UNIQUEID=3F1846DC60CE49488E4F7CCF292FE438
+
+#URL
+	ID=161
+	NAME=心理学从这里开始|Psytopic
+	URL=http://www.psytopic.com/
+	CREATED=1308230235
+	DESCRIPTION=中国心理学爱好者的8小时之外！作为一个具有独特风格和品牌形象的心理学网站，Psytopic一直致力于为大家提供有趣，实用和科学的心理学知识；被网友们称为心理学爱好者8小时之外的必游之地。
+	UNIQUEID=79BDD29B7EFC6D4DB418167AD09448D9
+
+#URL
+	ID=162
+	NAME=Sean's Favorites - 博客大巴
+	URL=http://micki.blogbus.com/
+	CREATED=1316496417
+	UNIQUEID=43E9B8A8F74D0E46A668949E8B357528
+
+#URL
+	ID=163
+	NAME=专题总汇-51CTO.COM - 技术成就梦想 - 领先的中文IT技术网站
+	URL=http://www.51cto.com/col/35/
+	CREATED=1318160978
+	VISITED=1322224375
+	DESCRIPTION=领先的中文IT技术网站51CTO(www.51cto.com)是一个为CTO、IT技术经理、系统工程师、网络工程师、安全工程师、数据库工程师、网络管理员、开发工程师、项目管理人员等IT技术人员搭建的互动媒体平台，主要为IT技术人员提供新闻资讯、技术文档、BBS、博客、技术圈、培训课程、人才交流等专业服务。
+	UNIQUEID=726860ACF5BFB4429E4863A15559DC38
+
+#URL
+	ID=164
+	NAME=知识库_博客园
+	URL=http://kb.cnblogs.com/
+	CREATED=1328001380
+	VISITED=1328002288
+	UNIQUEID=7EAECEC057FEF946A93C0ABF18A3BF90
+
+#URL
+	ID=165
+	NAME=Mainz - 博客园
+	URL=http://www.cnblogs.com/Mainz/
+	CREATED=1328364681
+	UNIQUEID=AC633D7B371737498D97CE05B6CB7125
+
+#URL
+	ID=166
+	NAME=云界漫步 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://virtualman.blog.51cto.com/
+	CREATED=1328506265
+	VISITED=1328542195
+	DESCRIPTION=云界漫步 (http://virtualman.blog.51cto.com)
+	UNIQUEID=FDF6461CC868DF4CB0E2ACB907E61C54
+
+#URL
+	ID=167
+	NAME=下里巴人的家 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://rickyfang.blog.51cto.com/
+	CREATED=1328506428
+	VISITED=1328506559
+	DESCRIPTION=下里巴人的家 (http://rickyfang.blog.51cto.com)
+	UNIQUEID=91BA61B20E8EF3478600E0891C7D6865
+
+#URL
+	ID=168
+	NAME=生命需要不断的学习 - 云界漫步 - 51CTO技术博客
+	URL=http://virtualman.blog.51cto.com/200540/692380
+	CREATED=1328506782
+	VISITED=1328506797
+	DESCRIPTION=有个老人在河边钓鱼，一个小孩走过去看他钓鱼。老人技术纯熟，没多久就钓上了满篓的鱼，老人见小孩很可爱，要把满篓的鱼送给他，小孩摇头，老人惊异的问道“为何不要”？小孩回答：“我想要你手中..
+	UNIQUEID=2C352BB4702C3942BB26D8109B2D22B0
+
+#URL
+	ID=169
+	NAME=李晨光原创技术博客 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://chenguang.blog.51cto.com/
+	CREATED=1328506850
+	DESCRIPTION=李晨光原创技术博客 (http://chenguang.blog.51cto.com)
+	UNIQUEID=A223830DA0768F4B813ADE4E13E8BA43
+
+#URL
+	ID=170
+	NAME=Marvin - 博客园
+	URL=http://www.cnblogs.com/chrome
+	CREATED=1328664195
+	UNIQUEID=1783E6EA4F8B824BBE2E7AF74F4681DB
+
+#URL
+	ID=171
+	NAME=技术教程
+	URL=http://www.huweishen.com/help/tech/
+	CREATED=1328684418
+	DESCRIPTION=技术教程
+	UNIQUEID=86C3BF568BD09640A1DFB9C46285EA21
+
+#URL
+	ID=172
+	NAME=断尘居 - 断尘伤痕 - 网易博客
+	URL=http://zhaohe162.blog.163.com/
+	CREATED=1329444487
+	DESCRIPTION=程序员新年要做的10个决定,Visual GC - Visual Garbage Collection Monitoring Tool,JVM启动参数设置、分析,Java 6 JVM启动参数选项详解,JDK5.0中JVM堆模型、GC垃圾收集详细解析,关注性能: 谈论垃圾,Ubuntu最大化最小化按钮位置调整,【烟影如画】这一季错过了花期，只怪我比你先入戏,FAQ about Garbage Collection in the HotspotTM JavaTM Virtual Machine,【三寸天堂】不再看天上太阳透过云彩的光，不再找约定了的天堂,断尘伤痕的网易博客,J2EE丨Spring框架丨 JVM调优丨PHP丨Android移动编程,知其然而不知其所以然只能做一个名义上的程序员而已。
+	UNIQUEID=7509FEEDB7CAC34AA7B42EEB0CA1BFB1
+
+#URL
+	ID=173
+	NAME=罗伯特的技术博客 - 博客频道 - CSDN.NET
+	URL=http://blog.csdn.net/robertleepeak
+	CREATED=1329468804
+	UNIQUEID=9FA688790DC5BF488EC4D4774BA18F68
+
+#URL
+	ID=174
+	NAME=Taobao QA Team
+	URL=http://qa.taobao.com/
+	CREATED=1330233328
+	VISITED=1330233346
+	UNIQUEID=DB1277DEA605144FA616286C371DAC85
+
+#URL
+	ID=175
+	NAME=搜索技术博客－淘宝 — 关注技术 关注搜索 关注淘宝
+	URL=http://www.searchtb.com/
+	CREATED=1330233371
+	UNIQUEID=752AB145A8052A4D9F38F3153B9A8F5C
+
+#URL
+	ID=176
+	NAME=淘宝核心系统团队博客
+	URL=http://rdc.taobao.com/blog/cs/
+	CREATED=1330233383
+	UNIQUEID=CF5B9BC2D69F8742BC10D1E387C5403B
+
+#URL
+	ID=177
+	NAME=Think with Google - Your resource for industry trends & insights
+	URL=http://www.thinkwithgoogle.com/
+	CREATED=1330265328
+	VISITED=1330265353
+	DESCRIPTION=Think with Google brings together industry trends, insights, and research from the most compelling thought leaders, marketers, and academics.
+	UNIQUEID=2A795748C3A4A540ADDAAF045386AB14
+
+#URL
+	ID=178
+	NAME=Posts | Swaroop C H - India, Technology, Life Skills
+	URL=http://www.swaroopch.com/posts/
+	CREATED=1330400738
+	VISITED=1330400741
+	UNIQUEID=B91FE54E433FC44C992736537FFA32BD
+
+#URL
+	ID=179
+	NAME=博客@英特尔中国
+	URL=http://blogs.intel.com/china/
+	CREATED=1330436747
+	VISITED=1344589965
+	UNIQUEID=C9D251D06DEBD64D9680465841AD2F93
+
+#URL
+	ID=180
+	NAME=宁采臣_新浪博客
+	URL=http://blog.sina.com.cn/ningcaichen66
+	CREATED=1330594142
+	VISITED=1330594153
+	DESCRIPTION=宁采臣_新浪博客,宁采臣,统一知识界---让天下没有难学的知识,《好爽》系列所有视频下载
+	UNIQUEID=7BDFFCA3A794A3419E1688839D08ABE7
+
+#URL
+	ID=181
+	NAME=JavaChen on Java
+	URL=http://www.javachen.com/
+	CREATED=1331358629
+	UNIQUEID=3B4BFAA3BD0AFC46985D50C5322F8487
+
+#URL
+	ID=182
+	NAME=庄周梦蝶 - BlogJava
+	URL=http://www.blogjava.net/killme2008/
+	CREATED=1332330687
+	UNIQUEID=FC5CD0C70569EA46AC81C4D9D9483C9E
+
+#URL
+	ID=183
+	NAME=Archive of Interesting Code
+	URL=http://www.keithschwarz.com/interesting/
+	CREATED=1332595891
+	VISITED=1332596052
+	UNIQUEID=07D200ECDDF7A84794890A7A9976269A
+
+#URL
+	ID=184
+	NAME=Matrix67: My Blog
+	URL=http://www.matrix67.com/blog/
+	CREATED=1333632082
+	VISITED=1333632099
+	UNIQUEID=4CA1EBD53643AF45A9F60EE3949533EB
+
+#URL
+	ID=185
+	NAME=Windows 帮助和操作方法 - Microsoft Windows
+	URL=http://windows.microsoft.com/zh-CN/windows/help
+	CREATED=1333890548
+	VISITED=1333890755
+	DESCRIPTION=获取以下 Microsoft 产品的帮助：Windows 7、Windows Vista、Windows XP、Windows Live、Windows Mobile 和 Internet Explorer。
+	UNIQUEID=189E3B619027DB46A44E756A804CF36B
+
+#URL
+	ID=186
+	NAME=陈沙克日志_百度空间
+	URL=http://hi.baidu.com/chenshake/home
+	CREATED=1336966899
+	VISITED=1339143212
+	UNIQUEID=6CFCC783F5EA8348B27793E572F88FF9
+
+#URL
+	ID=187
+	NAME=programming security hack
+	URL=http://blog.nvirus.net/
+	CREATED=1336967185
+	UNIQUEID=B09AC293B5D72744AC935FEDA52428B4
+
+#URL
+	ID=188
+	NAME=系统运维 | RHEL/CentOS/Debian/Ubuntu Linux FreeBSD 服务器教程 | Windows Server 2003/2008服务器教程
+	URL=http://www.osyunwei.com/
+	CREATED=1336968831
+	VISITED=1354694062
+	DESCRIPTION=本博客与大家一起分享Linux、Windows服务器系统运维相关的经验和技巧，所有文章均为作者原创内容，并且通过实战验证，如需转载，请注明出处及原文链接。
+	UNIQUEID=37BE096AF2B0734390C64B9316835B8B
+
+#URL
+	ID=189
+	NAME=阿里巴巴（中国站）用户体验设计部博客
+	URL=http://www.aliued.cn/
+	CREATED=1337044957
+	VISITED=1337044972
+	DESCRIPTION=阿里巴巴（中文站）用户体验设计部博客
+	UNIQUEID=421FD8116BCBC94D9971E665F7888FC4
+
+#URL
+	ID=190
+	NAME=Xah Lee Web 李杀网
+	URL=http://xahlee.org/index.html
+	CREATED=1337749526
+	VISITED=1337922112
+	DESCRIPTION=XahLee.org — a intellectual excursion in math, programing, visual arts, and humanities. Math reference works, programing tutorials, photo galleries, social commentaries, classical literature collection.
+	UNIQUEID=CC24CEAB8F6A5B4090D9CF3004C164AA
+
+#URL
+	ID=191
+	NAME=王乾De技术Blog[爱生活，爱学习] - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://redking.blog.51cto.com/
+	CREATED=1340007167
+	DESCRIPTION=王乾De技术Blog[爱生活，爱学习] (http://redking.blog.51cto.com)
+	UNIQUEID=E3FA35E88B61654C959E48E3183AA1C6
+
+#URL
+	ID=192
+	NAME=搜索研发部官方博客
+	URL=http://stblog.baidu-tech.com/
+	CREATED=1344909049
+	VISITED=1357274549
+	UNIQUEID=75CB2AC0E684314C943F684E786E56F9
+
+#URL
+	ID=193
+	NAME=似梦非梦，似醒非醒 - moose - 网易博客
+	URL=http://blog.163.com/wangpeng922@126/
+	CREATED=1345078807
+	VISITED=1353051419
+	DESCRIPTION=Python抓取网页上的图片,Python下载百度空间文章,VBScript连接mysql数据库,VBScript为域用户添加邮箱等信息,VBScript拷贝或删除远程主机上的文件（需要登录）,vbscript获得所有域用户的登录名,纯真IP数据库格式详解,VBScript 随机密码生成器 - 第三版,VBScript二维数组示例,VBScript 随机密码生成器 - 第一版,moose的网易博客,一个梦醒，接着另一个梦又把我拉入。于是我在现实与不现实中徘徊......,
+	UNIQUEID=F72B3CA1B29F374FB4D615FC40A3F543
+
+#URL
+	ID=194
+	NAME=没有比人更高的山 | Where there is a will there is a way.
+	URL=http://www.zhlwish.com/
+	CREATED=1346895300
+	VISITED=1346895476
+	UNIQUEID=9ECF94BC2B859348A9A53202D00FB153
+
+#URL
+	ID=195
+	NAME=Vimer的程序世界
+	URL=http://www.vimer.cn/
+	CREATED=1346912754
+	UNIQUEID=D4B32646CA553B4D8592DD9AA9C8B27B
+
+#URL
+	ID=196
+	NAME=韩峰
+	URL=http://hfcc8685.github.com/
+	CREATED=1334844318
+	VISITED=1334844369
+	DESCRIPTION=故事一： 背景介绍：RT是一个外包公司，ZWZX是项目承接公司，YD是甲方。 RT公司每天下班的时候都会接到ZWZX负责人的电话，询问一天的工作情况，然后布置任务要求晚上加班做完，RT公司的员工很无奈也很气愤因为每天都要加班，员工们就问项目经理：“为什么天天加班赶需求，今天才提一个需求， …
+	UNIQUEID=2FE15134852566458DD8867A2D15BE11
+
+#URL
+	ID=197
+	NAME=陈沙克日志
+	URL=http://www.chenshake.com/
+	CREATED=1341071880
+	VISITED=1356505963
+	UNIQUEID=5DCEB3D0C2CC11E18C46A0FC11C0AD4C
+
+#URL
+	ID=198
+	NAME=飞鱼博客
+	URL=http://blog.e-520.com.cn/
+	CREATED=1352179804
+	UNIQUEID=981F33E3E86E864FA9859E0A23AE96DF
+
+-
+
+#FOLDER
+	ID=199
+	NAME=虚拟化
+	CREATED=1342667853
+	UNIQUEID=B4D2AE25A76D0B409F65D2F4BA36AB5B
+
+#URL
+	ID=200
+	NAME=Welcome to xen.org, home of the Xen® hypervisor, the powerful open source industry standard for virtualization.
+	URL=http://www.xen.org/
+	CREATED=1328956790
+	VISITED=1328962090
+	DESCRIPTION=Xen.org, home of the Xen hypervisor, the powerful open source industry standard for virtualization.
+	UNIQUEID=E7F282412542C1458C217B69392ACD4D
+
+#URL
+	ID=201
+	NAME=虚拟机之家
+	URL=http://www.xuniji.com/
+	CREATED=1299740541
+	VISITED=1333283860
+	DESCRIPTION=虚拟机之家是专注于虚拟机技术的专业网站
+	UNIQUEID=1304BFF7C8EBC5459B750D7690D9804C
+
+#URL
+	ID=202
+	NAME=中国云计算论坛-中国最大的云计算交流中心 - Powered by Discuz!NT
+	URL=http://bbs.chinacloud.cn/
+	CREATED=1298883732
+	DESCRIPTION=云计算(Cloud Computing)的一切均在里面，包括云计算概念、云计算技术、云计算应用、云计算学习、云计算机、云存储、云安全、云服务等。本站是资源丰富、分析深入、更新及时的云计算知识共享平台。本站由中国云计算专家委员会委员刘鹏教授主办，是中国网格信息中转站(http://www.chinagrid.net)的姊妹网站。
+	UNIQUEID=FBDBDBC0251F8445BA4DDBDF04A7E331
+
+#URL
+	ID=203
+	NAME=IBM - 虚拟化 - 中国
+	URL=http://www-03.ibm.com/systems/cn/dihub/virtualization/
+	CREATED=1324543872
+	VISITED=1331451364
+	DESCRIPTION=在智慧的地球上，IBM虚拟化基础结构可以使企业的业务更加敏捷。带有集成服务管理的虚拟化启用了智慧基础结构，可以有效提高业务灵活性。登陆IBM了解更多虚拟化详情。
+	UNIQUEID=984B9CA1B59BB048B5BA75DF220BA560
+
+#URL
+	ID=204
+	NAME=IBM 虚拟化技术 - 虚拟化解决方案 - 中国
+	URL=http://www-900.ibm.com/cn/itmanager/virtualization/solutions/
+	CREATED=1324543897
+	VISITED=1326348144
+	DESCRIPTION=我们提供全面的虚拟化解决方案，能够帮助您构建经济高效性、管理简便性和高灵活性的优化基础设施。
+	UNIQUEID=25B06CF46293F940A1366E4AA6BE4729
+
+#URL
+	ID=205
+	NAME=Planet V12n
+	URL=http://www.vmware.com/vmtn/planet/v12n/
+	CREATED=1328108467
+	UNIQUEID=9AA13CE465638249A6A11D3F1C157D4B
+
+#URL
+	ID=206
+	NAME=VmSky虚拟化论坛 -
+	URL=http://bbs.vmsky.com/forum.php
+	CREATED=1328107453
+	VISITED=1337593197
+	DESCRIPTION=VmSky虚拟化论坛
+	UNIQUEID=AA93FC6A957273459C9D7C3AE90F89C4
+
+#URL
+	ID=207
+	NAME=VMware: Benefits of Virtualization, Increase IT Efficiency and Virtual Management
+	URL=http://www.vmware.com/virtualization/
+	CREATED=1325148253
+	DESCRIPTION=Solutions for server consolidation, energy efficiency, green IT, business continuity, disaster recovery, data protection, enterprise desktop management, and software development lifecycle.
+	UNIQUEID=3758A67692420942BF5A473F1D310B0D
+
+#URL
+	ID=208
+	NAME=虚拟化技术 - 服务器虚拟化解决方案 | Dell 中国大陆
+	URL=http://content.dell.com/cn/zh/enterprise/virtualization.aspx
+	CREATED=1324543747
+	VISITED=1335166979
+	DESCRIPTION=应用戴尔虚拟化技术提升企业在商业领域的优势，使用戴尔虚拟化技术指导和实践指南评估您的企业环境。戴尔高效的虚拟化解决方案帮助企业简化运营, 降低成本。
+	UNIQUEID=C59B2009BA94B1469F93189239D24C39
+
+#URL
+	ID=209
+	NAME=virtualization.info | News digest about virtualization technologies, products, market trends. Since 2003.
+	URL=http://virtualization.info/en/
+	CREATED=1328257264
+	DESCRIPTION=News digest about virtualization technologies, products, market trends. Since 2003.
+	UNIQUEID=76EEE784FF8BC04593AB825D58EFEB7E
+
+#URL
+	ID=210
+	NAME=威客云: 专业的虚拟化解决方案提供商和服务商,桌面虚拟化资讯网站
+	URL=http://www.virtualclient.cn/Index.aspx
+	CREATED=1328362573
+	DESCRIPTION=苏州最专业的服务器虚拟化,桌面虚拟化,应用虚拟化解决方案提供商,代理Vmware，Citrix，Netapp存储，升腾瘦客户机，HP瘦客户机，深信服VPN，Double Take软件等产品
+	UNIQUEID=268CBF0304179E418BEDEAD82F48DA1D
+
+#URL
+	ID=211
+	NAME=虚拟化技术 - delxu的Live记事本 - 51CTO技术博客
+	URL=http://delxu.blog.51cto.com/975660/d-1
+	CREATED=1328502803
+	DESCRIPTION=delxu的Live记事本 (http://delxu.blog.51cto.com)
+	UNIQUEID=E11B1B19BEB1C546B859EB8653A6A7B1
+
+#URL
+	ID=212
+	NAME=虚拟化技术 - ccfxny - 博客园
+	URL=http://www.cnblogs.com/ccfxny/category/194934.html
+	CREATED=1328505373
+	VISITED=1348204410
+	UNIQUEID=DE5B5438DE26DC4D9B99035750D31022
+
+#URL
+	ID=213
+	NAME=XenMe | Citrix中文技术博客，关注云计算与虚拟化
+	URL=http://xenme.com/
+	CREATED=1328506006
+	VISITED=1331772031
+	DESCRIPTION=Citrix中文技术博客，关注云计算与虚拟化
+	UNIQUEID=E791E501652AD0498AB2C9A0FAF77A5B
+
+#URL
+	ID=214
+	NAME=Bisheng.Hu - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://bisheng.blog.51cto.com/
+	CREATED=1328506052
+	VISITED=1328506223
+	DESCRIPTION=Bisheng.Hu (http://bisheng.blog.51cto.com)
+	UNIQUEID=9FFB34ED2E714740B2130A3E1722C243
+
+#URL
+	ID=215
+	NAME=王春海的博客 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://wangchunhai.blog.51cto.com/
+	CREATED=1328506081
+	VISITED=1328542165
+	DESCRIPTION=王春海的博客 (http://wangchunhai.blog.51cto.com)
+	UNIQUEID=4CE5D19EDA8162429C9892A139E6240F
+
+#URL
+	ID=216
+	NAME=Windows Virtualization Team Blog - Site Home - TechNet Blogs
+	URL=http://blogs.technet.com/b/virtualization/
+	CREATED=1328506281
+	VISITED=1337847648
+	UNIQUEID=9DA8CED8D12B7949A9D0740B4338F224
+
+#URL
+	ID=217
+	NAME=虚拟化 - 岳雷的微软网络课堂 - 51CTO技术博客
+	URL=http://yuelei.blog.51cto.com/202879/d-11
+	CREATED=1328506299
+	DESCRIPTION=岳雷的微软网络课堂 (http://yuelei.blog.51cto.com)
+	UNIQUEID=033B60D20914954E9F00E42A5054A098
+
+#URL
+	ID=218
+	NAME=Xtravirt | The Virtualization Knowledge Portal
+	URL=http://xtravirt.com/
+	CREATED=1328506437
+	VISITED=1328506460
+	DESCRIPTION=Leading online resources for the virtualization industry
+	UNIQUEID=3D49974C793B5B4BAEA52F9A2972E62F
+
+#URL
+	ID=219
+	NAME=虚拟的天堂 - 51cto技术圈
+	URL=http://g.51cto.com/virtual
+	CREATED=1328506478
+	VISITED=1333548318
+	DESCRIPTION=    虚拟化技术在企业当中越来越被重视和使用，建立这个平台希望可以和虚拟化爱好者和研究者一个交流的平台。
+	UNIQUEID=8D6E242533705E4686083C2C29DA8300
+
+#URL
+	ID=220
+	NAME=虚事待发_新浪圈子_新浪网
+	URL=http://q.blog.sina.com.cn/virtualization
+	CREATED=1328506649
+	DESCRIPTION=虚拟化是实现动态IT的重要基石；中国虚拟化市场还处在初期阶段，绿色IT将推动虚拟化在中国市场的发展。欢迎IT精英、企业管理者、以及有兴趣了解虚拟化的朋友一起来交流探讨！
+	UNIQUEID=01C6799D03C9A143B0FAD985249A9464
+
+#URL
+	ID=221
+	NAME=虚声一片 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://datoucan.blog.51cto.com/
+	CREATED=1328506877
+	VISITED=1335166914
+	DESCRIPTION=虚声一片 (http://datoucan.blog.51cto.com)
+	UNIQUEID=66C38889F7BC684B8F89AE8EF4340B76
+
+#URL
+	ID=222
+	NAME=中国最专业的VMware培训机构 - Managed By vManager
+	URL=http://bbs.vmanager.cn/forum.php
+	CREATED=1328540448
+	VISITED=1337669381
+	DESCRIPTION=VMware培训,国内知名VMware论坛
+	UNIQUEID=AD9549603969404C86FC5AF131CDDDED
+
+#URL
+	ID=223
+	NAME=Hyper-V
+	URL=http://technet.microsoft.com/zh-cn/library/cc753637(WS.10).aspx
+	CREATED=1328540582
+	VISITED=1328615382
+	UNIQUEID=FE5CA2BE567345478E5627C38CEBCBEE
+
+#URL
+	ID=224
+	NAME=TechNet IT 影城 - 产品 - Virtualization
+	URL=http://technet.microsoft.com/zh-cn/ee815807.aspx
+	CREATED=1328542868
+	VISITED=1345708931
+	UNIQUEID=F6989039D9CE6549A27062A1EAB06EE2
+
+#URL
+	ID=225
+	NAME=CIO频道-专注中国CIO、CTO-硅谷动力网站
+	URL=http://www.enet.com.cn/cio/aklist0_%D0%E9%C4⻯.html
+	CREATED=1328622909
+	DESCRIPTION=eNet 硅谷动力CIO频道是专注于中国CIO、CTO群体的中文门户中心，为CIO、CTO提供专业的信息化服务,聚焦业界资讯,关注全球视野,提供各种最新信息化资讯,企业信息化管理技巧,信息化项目选型及实施案例,业界专家看法,CIO视点等企业信息化建设相关信息。为CIO、CTO提供交流、资讯、咨询平台。
+	UNIQUEID=2430657FA45A04438843D59E96B2C95F
+
+#URL
+	ID=226
+	NAME=VMware Communities: Social Media & Community for VMware
+	URL=http://communities.vmware.com/index.jspa
+	CREATED=1328795697
+	VISITED=1328796760
+	DESCRIPTION=Meet online with VMware, virtualization and cloud computing experts who use the technology every day. Share your experiences to gain exposure and strengthen your relationship with the VMware community.
+	UNIQUEID=5FFFFB8B3F913D4E918D5770363DE07F
+
+#URL
+	ID=227
+	NAME=Microsoft TechNet 论坛
+	URL=http://social.technet.microsoft.com/Forums/zh-CN/categories
+	CREATED=1328795757
+	VISITED=1337847947
+	UNIQUEID=F74AB040BC236E4A803E46F9B8124A7E
+
+#URL
+	ID=228
+	NAME=VMware Communities: China VMware User Group
+	URL=http://communities.vmware.com/community/vmtn/vmug/forums/asia_pacific/china
+	CREATED=1328795994
+	VISITED=1328796033
+	DESCRIPTION=China VMware User Group
+	UNIQUEID=2855F104716BD24CA0FBB4581ADAD06F
+
+#URL
+	ID=229
+	NAME=Xen
+	URL=http://wiki.xen.org/wiki/Main_Page
+	CREATED=1329111738
+	VISITED=1350868556
+	UNIQUEID=3FF945DC79FC79438ABF5B05DE294ED9
+
+#URL
+	ID=230
+	NAME=戴尔知道
+	URL=http://www.dellzhidao.com/
+	CREATED=1329277882
+	VISITED=1335152515
+	UNIQUEID=42886335F2DF6F4FBCB6A20B3023B005
+
+#URL
+	ID=231
+	NAME=QEMU
+	URL=http://wiki.qemu.org/Main_Page
+	CREATED=1330244172
+	VISITED=1340612727
+	UNIQUEID=7566F5125D89BB4FA80036EC51AC3FDB
+
+#URL
+	ID=232
+	NAME=中文支持社区
+	URL=http://communities.intel.com/community/chinesesupport?iid=gg_support-cn+home_community
+	CREATED=1330436574
+	VISITED=1337756784
+	DESCRIPTION=中文支持社区
+	UNIQUEID=D4AD12EF95EFE1418FB1531944DCCC40
+
+#URL
+	ID=233
+	NAME=DevStack - Deploying OpenStack for Developers
+	URL=http://devstack.org/
+	CREATED=1331358421
+	UNIQUEID=2F07FD76CD03CC459902C81EA02FFEC5
+
+#URL
+	ID=234
+	NAME=Eucalyptus Community
+	URL=http://open.eucalyptus.com/
+	CREATED=1331380982
+	VISITED=1335272878
+	UNIQUEID=569A90A750BECE4AAED25C31F5DA58AB
+
+#FOLDER
+	ID=249
+	NAME=十大公司
+	CREATED=1342667853
+	UNIQUEID=77F56457BD72164B9F16E5E4E8B1F4AD
+
+#URL
+	ID=250
+	NAME=Virtualization and Automation Solutions for Desktops, Servers, Hosting, SaaS - Parallels
+	URL=http://www.parallels.com/
+	CREATED=1331739056
+	VISITED=1331739061
+	DESCRIPTION=Parallels offers virtualization and automation solutions for desktops, servers, hosting, SaaS and more. Please visit parallels.com to learn more about our products for consumers, businesses, and service providers to meet their need of hardware, operating system and virtualization platforms.
+	UNIQUEID=9C6A8F3F56C27D47810E9A2F97D81A98
+
+#URL
+	ID=251
+	NAME=Proxmox - Start page
+	URL=http://www.proxmox.org/
+	CREATED=1331738843
+	DESCRIPTION=Proxmox Server Solutions GmbH
+	UNIQUEID=6E6EA91BC3B3454BA15B436A126ED110
+
+#URL
+	ID=252
+	NAME=Virtualization of Desktop | Virtual Bridges
+	URL=http://www.vbridges.com/home.php
+	CREATED=1331738732
+	VISITED=1331738816
+	DESCRIPTION=Welcome to the Future of Virtualized Desktop Infrastructure and Virtualization. V Bridges makes Virtual Desktops and infrastructures easy!
+	UNIQUEID=DF4F25B2A66BA044BBA17D2C5A5FE6A0
+
+#URL
+	ID=253
+	NAME=VMware：虚拟化的优点, 提高 IT 效率和改进虚拟管理
+	URL=http://www.vmware.com/cn/virtualization/
+	CREATED=1324543340
+	VISITED=1331455033
+	DESCRIPTION=用于实现服务器整合、能效、绿色 IT、业务连续性、灾难恢复、数据保护、企业桌面管理和软件开发生命周期管理的解决方案。
+	UNIQUEID=A4921AB6B8BBB947805A17FB1D4F8EC4
+
+#URL
+	ID=254
+	NAME=Main Page - KVM
+	URL=http://www.linux-kvm.org/page/Main_Page
+	CREATED=1330244147
+	UNIQUEID=B6EF69128D28AF4A9C425B27D064C0FB
+
+-
+
+#URL
+	ID=255
+	NAME=婉兮清扬
+	URL=http://www.qyjohn.net/
+	CREATED=1335924464
+	VISITED=1335924516
+	UNIQUEID=ADF3105C323F774A90F0BF4D596B9EE8
+
+#URL
+	ID=256
+	NAME=KVM教程 - KVM虚拟化、KVM虚拟机、KVM QEMU
+	URL=http://kvmvirtualization.com/
+	CREATED=1335951053
+	UNIQUEID=CDC970159C16F542A002B0B4206E3817
+
+#URL
+	ID=257
+	NAME=EMC中国研究院_新浪轻博客_Qing: 记录生活 分享兴趣
+	URL=http://qing.weibo.com/emclabschina
+	CREATED=1344331334
+	VISITED=1344331840
+	DESCRIPTION=EMC中国研究院,这是EMC中国研究院的官方轻博客， 主要关注于云计算和大数据。
+	UNIQUEID=2EFB0BCF2AA9F0449E1ABBC7654BC621
+
+#URL
+	ID=258
+	NAME=中国OpenStack用户组-论坛 - Powered by Discuz!
+	URL=http://www.openstack.org.cn/bbs/forum.php
+	CREATED=1348535130
+	DESCRIPTION=中国OpenStack用户组-论坛
+	UNIQUEID=2AAF9C4BA54E104B940853ECE9829B0F
+
+#URL
+	ID=259
+	NAME=libvirt: The virtualization API
+	URL=http://libvirt.org/
+	CREATED=1335882140
+	DESCRIPTION=libvirt, virtualization, virtualization API
+	UNIQUEID=C8BC076E72D327478AAD955A1C97EF41
+
+#URL
+	ID=260
+	NAME=ReadWrite – Tagged: cloud
+	URL=http://readwrite.com/tag/cloud
+	CREATED=1353484603
+	VISITED=1353484614
+	UNIQUEID=F3DC8D3CA46EE145AFC5856F514A0F0B
+
+-
+
+#FOLDER
+	ID=261
+	NAME=Linux
+	CREATED=1342667853
+	UNIQUEID=B9AA222F97A0684CB67F6471181C08A0
+
+#URL
+	ID=262
+	NAME=Ubuntu中文论坛 • 首页
+	URL=http://forum.ubuntu.org.cn/index.php
+	CREATED=1302094195
+	VISITED=1331438347
+	UNIQUEID=2F3DA0B7D17B9C468EB46685165AF31E
+
+#URL
+	ID=263
+	NAME=Ubuntu中文论坛 • 首页
+	URL=http://forum.ubuntu.org.cn/
+	CREATED=1305011128
+	VISITED=1347513093
+	UNIQUEID=E2B3B0B07AD311E08A219B5B0BE7C1E2
+
+#URL
+	ID=264
+	NAME=首页 - openSUSE
+	URL=http://zh.opensuse.org/首页
+	CREATED=1305102476
+	VISITED=1335951432
+	UNIQUEID=92938B207BA811E08695C8330BE0600F
+
+#URL
+	ID=265
+	NAME=Welcome to Sohu.com Open Source Mirror Site
+	URL=http://mirrors.sohu.com/
+	CREATED=1302508366
+	VISITED=1336968519
+	UNIQUEID=568B8A30317BE54285CFE1C00BF187B3
+
+#URL
+	ID=266
+	NAME=Linux公社-Linux|Ubuntu|Fedora|新闻|下载|教程|安装|SUSE|Linux发行版|编程|服务器
+	URL=http://www.linuxidc.com/
+	CREATED=1312854064
+	VISITED=1338017967
+	DESCRIPTION=Linux,redhat,suse,ubuntu,SQL,PHP,SITE,unix,FreeBSD,board,mysql,apache
+	UNIQUEID=188A8443EC62C842877155A2CB02F9D1
+
+#URL
+	ID=267
+	NAME=论坛首页 - 中国最大的Linux/Unix技术社区 - IT人的网上社区 - bbs.ChinaUnix.net
+	URL=http://bbs.chinaunix.net/
+	CREATED=1312854119
+	DESCRIPTION= ChinaUnix.net  - Discuz! Board
+	UNIQUEID=250F84C542E4414881785DFE169A535D
+
+#URL
+	ID=268
+	NAME=欢迎访问网易开源镜像站
+	URL=http://mirrors.163.com/
+	CREATED=1312855269
+	VISITED=1354970359
+	UNIQUEID=C7CF1F222C5D0A4DBCA863FC19420B42
+
+#URL
+	ID=269
+	NAME=openSUSE Linux 論壇 • 首頁
+	URL=http://opensuse.linux.org.tw/forum/index.php
+	CREATED=1313285016
+	VISITED=1334292244
+	UNIQUEID=79517F9571C2A34B821897D9DD003A51
+
+#URL
+	ID=270
+	NAME=博客_winland0704的空间_百度空间
+	URL=http://hi.baidu.com/winland0704/blog
+	CREATED=1313285857
+	UNIQUEID=7C2FDF6F972F6A42ACD0FAC6B992372F
+
+#URL
+	ID=271
+	NAME=openSUSE 11.4 | SUSE Linux | Beginner's guide to multimedia codecs MP3 DVD 3D nvidia ati wireless wi-fi netbook
+	URL=http://opensuse-guide.org/
+	CREATED=1313286759
+	VISITED=1326267939
+	UNIQUEID=ED78AD05237A374D8AFBC465CC02DBF5
+
+#URL
+	ID=272
+	NAME=SDB:Live USB stick - openSUSE
+	URL=http://en.opensuse.org/SDB:Live_USB_stick#Create_a_Live_USB_.28GUI.29
+	CREATED=1313384424
+	VISITED=1326268021
+	UNIQUEID=0CE2C24B3568E94086A939AE5BCC6C75
+
+#URL
+	ID=273
+	NAME=Linux常用命令全集
+	URL=http://linux.chinaitlab.com/special/linuxcom/
+	CREATED=1313477828
+	DESCRIPTION=linux命令,linux指令,操作系统,专题，文件管理,磁盘管理,文档管理,文件传输,磁盘维护,网络通讯,系统管理,系统设置,备份压缩,设备管理
+	UNIQUEID=065AA57CD15AA24D94B2B49ACE4C13DE
+
+#URL
+	ID=274
+	NAME=Ubuntu中文
+	URL=http://wiki.ubuntu.org.cn/首页
+	CREATED=1327976002
+	VISITED=1350280834
+	UNIQUEID=B167916D773F3D4CA6C2270D42F8E5B4
+
+#URL
+	ID=275
+	NAME=论坛 - IXPUB技术社区
+	URL=http://www.ixpub.net/forum.php
+	CREATED=1328107535
+	VISITED=1328107678
+	DESCRIPTION=论坛 ,IXPUB技术社区
+	UNIQUEID=8BB6CD5D624165469CA8C8974293F5FD
+
+#URL
+	ID=276
+	NAME=Vim zh-cn:序言 - Notes
+	URL=http://www.swaroopch.com/notes/Vim_zh-cn:序言
+	CREATED=1330401024
+	UNIQUEID=39069DB1625C064CBC3FB97BD292CAD9
+
+#URL
+	ID=277
+	NAME=鳥哥的 Linux 私房菜
+	URL=http://linux.vbird.org/
+	CREATED=1331552576
+	VISITED=1348039806
+	DESCRIPTION=鳥哥的Linux私房菜, VBird's Linux Technical Documents
+	UNIQUEID=9BDE7A017E28A14BADD6D0F137141F81
+
+#URL
+	ID=278
+	NAME=C++爱好者博客™ | 内外相应，言行相称
+	URL=http://www.cppfans.org/
+	CREATED=1331808185
+	VISITED=1331808216
+	DESCRIPTION=C++爱好者博客是一个以程序开发、IT资讯为主的个人博客，旨在与各位网友交流开发经验，分享知识。
+	UNIQUEID=D02E8228DF5088468BDF959887336F87
+
+#URL
+	ID=279
+	NAME=Home » LibreOffice
+	URL=http://www.libreoffice.org/
+	CREATED=1332604296
+	VISITED=1332607067
+	DESCRIPTION=LibreOffice is the free power-packed Open Source personal productivity suite for Windows, Macintosh and Linux, that gives you six feature-rich applications for all your document production and data processing needs.
+	UNIQUEID=CF97AC87228D8040A411087464E6B961
+
+#URL
+	ID=280
+	NAME=Eyecandy for your GNOME-Desktop - GNOME-Look.org
+	URL=http://gnome-look.org/?xsection=home&PHPSESSID=a1e1848558011e44a7a8d9c9b5711eaa
+	CREATED=1333629100
+	DESCRIPTION=Eyecandy for your GNOME-Desktop -  GNOME-Look.org Community Portal for Gnome Themes Wallpapers Icons Screenshots Schemes Skins Skinz Screensavers GTK Linux
+	UNIQUEID=BDFC4BB45A32FA46BBA1B3DA0E1BA761
+
+#URL
+	ID=281
+	NAME=Linux OS | SUSE Linux Enterprise
+	URL=http://www.suse.com/#
+	CREATED=1334293218
+	VISITED=1334293303
+	DESCRIPTION=Linux OS by SUSE. SUSE Linux Enterprise is the premier Linux operating system for the enterprise.
+	UNIQUEID=4E550E935424D34C8315E753F875C174
+
+#URL
+	ID=282
+	NAME=鸟哥的 Linux 私房菜 -- 浅谈备份策略
+	URL=http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php#part1
+	CREATED=1334898597
+	VISITED=1334900921
+	DESCRIPTION=浅谈备份策略啊！
+	UNIQUEID=E23569A553857D449DC11448AB5B32A0
+
+#URL
+	ID=283
+	NAME=Ubuntusoft | Ubuntu Linux软件、游戏、下载、新闻、技巧、杂志、数据
+	URL=http://www.ubuntusoft.com/
+	CREATED=1335143342
+	VISITED=1339146791
+	DESCRIPTION=Ubuntusoft|Ubuntu Linux软件、游戏、下载、新闻、技巧、杂志、数据 ..
+	UNIQUEID=B301008F94FE114E9A12257B446C9DBD
+
+#URL
+	ID=284
+	NAME=Free Software Resources — Free Software Foundation — working together for free software
+	URL=https://www.fsf.org/resources
+	CREATED=1335145995
+	UNIQUEID=E102A3AA9DFDA44594496A1597924176
+
+#URL
+	ID=285
+	NAME=Study Area
+	URL=http://www.study-area.org/2freebsd/
+	CREATED=1335159283
+	VISITED=1335159284
+	UNIQUEID=664075148A16F74DB45BDCD9C599E8AA
+
+#URL
+	ID=286
+	NAME=Open Compute Project - Hacking Conventional Computing Infrastructure
+	URL=http://opencompute.org/
+	CREATED=1336031276
+	VISITED=1343121290
+	UNIQUEID=314824956861CF42AF55EA628523F1A7
+
+#URL
+	ID=287
+	NAME=All Applications | Linux App Finder
+	URL=http://linuxappfinder.com/all?page=2
+	CREATED=1338184744
+	DESCRIPTION=Browse applications in All Applications | Linux App Finder
+	UNIQUEID=677B182E0187134F91E864AC4B946D46
+
+#URL
+	ID=288
+	NAME=自由软件库 - 下载 - 自由软件库 - ChinaUnix.net
+	URL=http://download.chinaunix.net/
+	CREATED=1338184813
+	VISITED=1338879104
+	DESCRIPTION=Download.ChinaUnix.net软件下载频道是ChinaUnix.net重要栏目之一。提供全面、实用、快速、安全的免费软件下载
+	UNIQUEID=B392D14A52C2194C840C49AA0436D010
+
+#URL
+	ID=289
+	NAME=Linux软件-IT168下载
+	URL=http://down.it168.com/356.htm
+	CREATED=1338185437
+	DESCRIPTION=IT168下载频道【Linux软件】分类列表，为您提供有关行业软件的软件下载!IT168下载，优质下载！
+	UNIQUEID=3C0A74B339DB904A82E3B51F88107204
+
+#URL
+	ID=290
+	NAME=Linuxeden.com-软件下载
+	URL=http://download.linuxeden.com/
+	CREATED=1338185927
+	VISITED=1338879182
+	UNIQUEID=502EE7F92901D74284738D6548E0D912
+
+#URL
+	ID=291
+	NAME=LinuxTOY
+	URL=http://linuxtoy.org/
+	CREATED=1338261652
+	VISITED=1338261743
+	UNIQUEID=9C472175FFED874F97225CA3DFACACF6
+
+#URL
+	ID=292
+	NAME=Emacs中文网
+	URL=http://emacser.com/
+	CREATED=1338262544
+	DESCRIPTION=Emacs中文网致力于让更多的人知道Emacs, 让更多的人知道Emacs的强大, 为广大的Emacser提供更好的学习资料.
+	UNIQUEID=FDA1231683DAAB46B071A0D265AABE08
+
+#URL
+	ID=293
+	NAME=Audacious - An Advanced Audio Player
+	URL=http://audacious-media-player.org/
+	CREATED=1338266190
+	VISITED=1338343712
+	UNIQUEID=1ACF34A6C52EC44C96788D65795A07A8
+
+#URL
+	ID=294
+	NAME=Ubuntu Forums
+	URL=http://ubuntuforums.org/index.php?s=8c61c6deef2939a3921710f7162dd80e
+	CREATED=1338451145
+	DESCRIPTION=A help and support forum for Ubuntu Linux.
+	UNIQUEID=CD641F239DAEFD47A802F805E514E4D7
+
+#URL
+	ID=295
+	NAME=Planet CentOS
+	URL=http://planet.centos.org/
+	CREATED=1338452190
+	VISITED=1338452212
+	UNIQUEID=FE643D61A35578448F147841AE076499
+
+#URL
+	ID=296
+	NAME=TipsAndTricks - CentOS Wiki
+	URL=http://wiki.centos.org/TipsAndTricks
+	CREATED=1338452323
+	VISITED=1341369826
+	UNIQUEID=0481DB78F993934A9FCAFD2FC156609F
+
+#URL
+	ID=297
+	NAME=HowTos - CentOS Wiki
+	URL=http://wiki.centos.org/HowTos
+	CREATED=1338452348
+	VISITED=1357261378
+	UNIQUEID=A6EFD43C3918DD468D4707597438C365
+
+#URL
+	ID=298
+	NAME=Share Happy
+	URL=http://www.cnpameng.com/#
+	CREATED=1338520263
+	VISITED=1338520303
+	UNIQUEID=A4A1DDC69990924CACC900B97002AF29
+
+#URL
+	ID=299
+	NAME=GitHub
+	URL=https://github.com/
+	CREATED=1338771284
+	VISITED=1357305558
+	UNIQUEID=718C9C9EF0C8A8478211996401CD5996
+
+#URL
+	ID=300
+	NAME=xen | CentOS教程
+	URL=http://www.centos.bz/tag/xen/
+	CREATED=1338787308
+	UNIQUEID=4FAE1BBFDC6E2E4D87E6D1802C28343A
+
+#URL
+	ID=301
+	NAME=老男孩的linux博客 - 51CTO技术博客 - 领先的IT技术博客
+	URL=http://oldboy.blog.51cto.com/
+	CREATED=1338873330
+	DESCRIPTION=老男孩的linux博客 (http://oldboy.blog.51cto.com)
+	UNIQUEID=C10E908186C94E4CAE8046DD2D110CCC
+
+#URL
+	ID=302
+	NAME=Ask Ubuntu
+	URL=http://askubuntu.com/
+	CREATED=1339045575
+	VISITED=1339146727
+	UNIQUEID=0338C91D7A60F146966DEF25F0B7F153
+
+#URL
+	ID=303
+	NAME=Wow! Ubuntu
+	URL=http://wowubuntu.com/
+	CREATED=1339045670
+	VISITED=1342068995
+	DESCRIPTION=Ubuntu 及 Linux 新闻、技巧、软件、美化及游戏！
+	UNIQUEID=54CF221684DA2A40B21C3E7A868E82BE
+
+#URL
+	ID=304
+	NAME=Fedora Project Wiki - FedoraProject
+	URL=http://fedoraproject.org/wiki/Fedora_Project_Wiki
+	CREATED=1340761065
+	UNIQUEID=15EC7FB5DCCC1640A276140446EF97AF
+
+#URL
+	ID=305
+	NAME=Mailing List Archive
+	URL=http://www.gossamer-threads.com/lists/
+	CREATED=1346206735
+	VISITED=1346206760
+	UNIQUEID=376B19115E932148867EE0062917E625
+
+#URL
+	ID=306
+	NAME=zh_CN/FrontPage - Debian Wiki
+	URL=http://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5
+	CREATED=1346829961
+	VISITED=1355403445
+	UNIQUEID=047B7788ABF6D24BA352282C92395527
+
+#URL
+	ID=307
+	NAME=UNIX / Linux Tutorial for Beginners
+	URL=http://www.ee.surrey.ac.uk/Teaching/Unix/
+	CREATED=1347416379
+	DESCRIPTION=Beginners guide to the UNIX / Linux operating system.  Eight simple tutorials which cover the basics of UNIX.
+	UNIQUEID=0439FE92899A6B48A60EFF7AED3969D1
+
+#URL
+	ID=308
+	NAME=BASHELL-Bash Shell
+	URL=http://www.bashell.org/
+	CREATED=1347512951
+	VISITED=1347512987
+	UNIQUEID=A3369585929FDE4EB716397B531FB64F
+
+#URL
+	ID=309
+	NAME=Gentoo Linux -- Gentoo Linux News
+	URL=http://www.gentoo.org/
+	CREATED=1334577118
+	VISITED=1348328826
+	UNIQUEID=35810229514D1B4C8C19C57567F01814
+
+#URL
+	ID=310
+	NAME=VIM Adventures
+	URL=http://vim-adventures.com/
+	CREATED=1335452339
+	DESCRIPTION=VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
+	UNIQUEID=5DF24545D4CA4F4BBA0E2EFF5C263C4D
+
+#URL
+	ID=311
+	NAME=多媒体工具 - 下载 - 自由软件库 - ChinaUnix.net
+	URL=http://download.chinaunix.net/multimedia/
+	CREATED=1338108551
+	VISITED=1338108605
+	DESCRIPTION=Download.ChinaUnix.net软件下载频道是ChinaUnix.net重要栏目之一。提供全面、实用、快速、安全的免费软件下载
+	UNIQUEID=D4615A70A7D811E1946E87B77F85DC22
+
+#URL
+	ID=312
+	NAME=vimwiki - Personal Wiki for Vim : vim online
+	URL=http://www.vim.org/scripts/script.php?script_id=2226
+	CREATED=1338470507
+	UNIQUEID=92F0DF90AB2311E1912EF86B215BEC52
+
+#URL
+	ID=313
+	NAME=Index of /
+	URL=http://pkgs.repoforge.org/
+	CREATED=1338559813
+	VISITED=1340109049
+	UNIQUEID=81554FC0ABF311E1904088B70069CDB0
+
+#URL
+	ID=314
+	NAME=Wine的完全使用指南 - Linux note - 博客大巴
+	URL=http://lnote.blogbus.com/logs/10151273.html
+	CREATED=1338561389
+	VISITED=1338564594
+	DESCRIPTION=1.1Wine is not an emulator这个我就不翻译了，没有多少技术介绍。 1.2使用最新的Wine记住最新版的Wine会包含一些旧版本里没有的bug。在feisty的软件仓库里包含了 0.9.33，而最新的Wine是0.9.44（我翻译文章时）。0.9.33更加稳定，但是最新的版本包含重大的DirectX改进。有一些不能在 0.9.33下运行的游戏能够在0....
+	UNIQUEID=2CAD1D00ABF711E19041F44AE7653673
+
+#URL
+	ID=315
+	NAME=VPSee | 虚拟技术 云计算 Linux/Mac 性能优化 服务器架构 | Xen VPS 服务商
+	URL=http://www.vpsee.com/
+	CREATED=1340112421
+	VISITED=1356955176
+	DESCRIPTION=关注虚拟技术、云计算、服务器架构、性能优化、超大数据存储、Xen、10美元 VPS、Linux、Mac
+	UNIQUEID=73A534D0BA1211E19063A9CC7A231E1F
+
+#URL
+	ID=316
+	NAME=Downloads – Oracle VM VirtualBox
+	URL=https://www.virtualbox.org/wiki/Downloads
+	CREATED=1340290914
+	VISITED=1342237290
+	UNIQUEID=0A58A560BBB211E184DCB6E08FF4F107
+
+#URL
+	ID=317
+	NAME=Arch Linux Forums
+	URL=https://bbs.archlinux.org/
+	CREATED=1348329079
+	UNIQUEID=E3ED8013B2878545AD463478E0588182
+
+#URL
+	ID=318
+	NAME=Gentoo Linux文档 -- Gentoo手册
+	URL=http://www.gentoo.org/doc/zh_cn/handbook/
+	CREATED=1348329091
+	UNIQUEID=76BB159743017A4F9E04E11852E9A396
+
+#URL
+	ID=319
+	NAME=LFS Project Homepage
+	URL=http://www.linuxfromscratch.org/lfs/
+	CREATED=1348670476
+	VISITED=1349706786
+	UNIQUEID=4141A0A338F27742A9C9C40451A0EB62
+
+#URL
+	ID=320
+	NAME=LFS中文用户组 | Lfs.linuxsir.org
+	URL=http://lfs.linuxsir.org/main/
+	CREATED=1348670860
+	VISITED=1353305515
+	UNIQUEID=EF2632CA09064444B9D75C4B426C720E
+
+#URL
+	ID=321
+	NAME=ftp.osuosl.org :: Oregon State University Open Source Lab
+	URL=http://ftp.osuosl.org/pub/
+	CREATED=1349705221
+	VISITED=1349705221
+	UNIQUEID=AF24E33615F1CC4E93C418760B6744DA
+
+#URL
+	ID=322
+	NAME=centos论坛,linux论坛,linux系统安装,linux服务器搭建 - CentOS !
+	URL=http://www.51buyhost.com/
+	CREATED=1351607922
+	VISITED=1352035427
+	DESCRIPTION=centos论坛是专业为运维人员打造最齐全最充足的linux的资料论坛,论坛里具备了网站服务器,邮件服务器,的详细搭建方案,和linux系统维护方案
+	UNIQUEID=85469BFE093BBB49B776ED893906E618
+
+#URL
+	ID=323
+	NAME=LinuxCast.net - 免费的专业Linux视频、教学、问答及交流平台。 Linux学习从此不再晦涩难懂
+	URL=http://www.linuxcast.net/
+	CREATED=1351680588
+	VISITED=1357391591
+	DESCRIPTION=免费的专业IT播客、视频、新闻资讯、问答及交流平台。 IT播客每日更新，内容由您决定.内容涉及：数据库,开发,运维,监控,网络,cisco,ccna,ccnp,ccie,linux,rhct,rhce,mysql,oracle,ruby,java,ruby on rails,免费视频,IT播客
+	UNIQUEID=C8A09D15853F63458F80D6E28984908A
+
+-
+
+#FOLDER
+	ID=324
+	NAME=Web
+	CREATED=1342667853
+	UNIQUEID=55D4F03BB7180A46B8197B3B72FB6751
+
+#URL
+	ID=325
+	NAME=but does it float
+	URL=http://butdoesitfloat.com/index/
+	CREATED=1315365295
+	VISITED=1322631901
+	DESCRIPTION=but does it float
+	UNIQUEID=B9F5B58A69205D45A7CC10CEB3FE9984
+
+#URL
+	ID=326
+	NAME=自助建站-Tap.cn
+	URL=http://www.tap.cn/
+	CREATED=1291950925
+	VISITED=1356421761
+	DESCRIPTION=tap是新型的自助建站服务平台，易用、专业、高效的Tap能让您轻松摆脱建站过程中技术对创造力的制约。拥有极高自由度的Tap能快速提升您的建站热情。Tap为不同用户配备了完美的个性化解决方案。
+	UNIQUEID=9BC232357A55334F905284E66521CA0F
+
+#FOLDER
+	ID=327
+	NAME=网络资源
+	CREATED=1342667853
+	UNIQUEID=490C39FA7E960B47900343704895FC64
+
+#URL
+	ID=328
+	NAME=meebo.com
+	URL=http://www.meebo.com/messenger
+	CREATED=1294293964
+	DESCRIPTION=Meebo, the web platform for IM on any network or site. Meebo connects you to MSN, Yahoo, AOL/AIM, MySpace, Facebook, Google Talk, and many more!
+	UNIQUEID=195A6B890740C7479A339DFD3362F701
+
+#URL
+	ID=329
+	NAME=BitLet - the BitTorrent Applet
+	URL=http://www.bitlet.org/
+	CREATED=1294294104
+	DESCRIPTION=BitLet is an online torrent downloader which runs entirely in your web browser. It allows you to download files using bittorrent without having to install any client program on your computer.
+	UNIQUEID=89DCE7E533DD7F42B905D0F8D84F8070
+
+#URL
+	ID=330
+	NAME=Java开源大全
+	URL=http://www.open-open.com/
+	CREATED=1294294508
+	VISITED=1323181529
+	DESCRIPTION=Java开源大全,Java开源项目导航,Java开源项目开发教程与文档
+	UNIQUEID=FDA09AA1688DF0479557650854C5D517
+
+#URL
+	ID=331
+	NAME=开源中国社区 - 找到您想要的开源软件，分享和交流
+	URL=http://www.oschina.net/
+	CREATED=1294294753
+	VISITED=1357435210
+	DESCRIPTION=开源中国社区(www.oschina.net)已收录超过一万六千多款开源软件，旨在为中国的IT技术人员提供一个全面的、快捷更新的用来检索开源软件以及交流使用开源经验的平台。
+	UNIQUEID=6AD3FE9561C44F4DB46C344D5DBC3293
+
+#URL
+	ID=332
+	NAME=最好的Java开源项目、开源软件、类库和源码排行榜
+	URL=http://best-java-source.whyandhow.org/
+	CREATED=1294295041
+	VISITED=1319170519
+	DESCRIPTION=最好的Java开源项目、开源软件、类库和源码排行榜; Open Source: 最好的Java开源项目排行榜.
+	UNIQUEID=58293EECE28AA745BB69AB84720AA3D6
+
+#URL
+	ID=333
+	NAME=站酷（ZCOOL） - 设计师互动平台 - 交流设计.分享快乐
+	URL=http://www.zcool.com.cn/
+	CREATED=1297243672
+	VISITED=1356874466
+	DESCRIPTION=站酷（www.zcool.com.cn）提供矢量素材,psd分层素材,图标素材,高清图片,原创作品等内容。
+	UNIQUEID=DEC0F8C8E2AC194ABEB894B7C2B9767C
+
+#URL
+	ID=334
+	NAME=Web Design Library — One-stop Web Design Resource
+	URL=http://www.webdesign.org/
+	CREATED=1297488693
+	VISITED=1324010514
+	DESCRIPTION=Web Design Library offers free web design tutorials, articles, news, interviews, web design showcase, software reviews, free web design stuff.
+	UNIQUEID=53915D93926451419A6BA02D8DF22344
+
+#URL
+	ID=335
+	NAME=Free online tutorials, Tips, Tricks, email, resources, graphics, designing, web promotion, Web page design at WebDevelopersNotes.com
+	URL=http://www.webdevelopersnotes.com/
+	CREATED=1297488735
+	DESCRIPTION=Free online tutorials, Tips, Tricks, Resources, Graphics, Designing, Web promotion, Web page design, Templates at http://www.webdevelopersnotes.com
+	UNIQUEID=4D1F46789636C0499E69988A2E75E845
+
+#URL
+	ID=336
+	NAME=Tizag Tutorials
+	URL=http://www.tizag.com/
+	CREATED=1297488754
+	UNIQUEID=1EEA1F0E3A3F94449478B0C63A8A34DA
+
+#URL
+	ID=337
+	NAME=Best Open Source Resources for Web Developers | WebAppers
+	URL=http://www.webappers.com/
+	CREATED=1297488768
+	VISITED=1324011221
+	DESCRIPTION=- Hunting the Best Open Source Resources for Web Developers | WebAppers
+	UNIQUEID=3067F18792FB7A49BFC8DB80EC6F240C
+
+#URL
+	ID=338
+	NAME=jQuery: The Write Less, Do More, JavaScript Library
+	URL=http://jquery.com/
+	CREATED=1297488785
+	VISITED=1321863277
+	UNIQUEID=B067F2BADA7BA34CA52B075F8389C6B5
+
+#URL
+	ID=339
+	NAME=HTML Code Tutorial - Free Reference Guide for Help with HTML Tags Including Form, Frames, Tables, and more!
+	URL=http://www.htmlcodetutorial.com/
+	CREATED=1297488794
+	DESCRIPTION=HTML Code Tutorial - Free Reference Guide for Help with HTML Tags Including Form,	Frames, Tables, and more!
+	UNIQUEID=A3B0B19A29368646ACFFF18543A6EACD
+
+#URL
+	ID=340
+	NAME=Tutorial | FREE Tutorial | HTML Tutorial | C Tutorial | C++ Tutorial | SQL Tutorial | ASP Tutorial | Ajax Tutorial | Photoshop Tutorial | Microsoft Excel Tutorial | Tutorial Services
+	URL=http://www.academictutorials.com/
+	CREATED=1297488834
+	DESCRIPTION=It provides you free tutorials on HTML XHTML ASP/VB/C# .NET DHTML CSS JavaScript XML XSL ASP SQL ADO VBScript SQL Soft Skills - Communication Time Management etc.
+	UNIQUEID=29034E27971A094BAABF587F36ED9479
+
+#URL
+	ID=341
+	NAME=源码下载 - 源码爱好者
+	URL=http://www.codefans.net/
+	CREATED=1299506877
+	DESCRIPTION=源代码下载,书籍教程,技术文章,网页特效,素材模板,编程资源,有测试截图的源码下载站
+	UNIQUEID=B1E93C3D3CB6EA4DA9C6544077C36A2F
+
+#URL
+	ID=342
+	NAME=程序源码搜索引擎 - HackChina.com
+	URL=http://www.hackchina.com/
+	CREATED=1299567880
+	DESCRIPTION=非常全面，好用的程序源代码，开源程序，开源工程，搜索和下载网站。
+	UNIQUEID=005C6DF99B818743BDB482AF91653970
+
+#URL
+	ID=343
+	NAME=希网动态域名_首页
+	URL=http://www.3322.org/
+	CREATED=1301098993
+	DESCRIPTION=希网(3322)作为专业的动态域名服务提供商，为企业和个人提供稳定可靠的免费动态域名解析服务。
+	UNIQUEID=B024364D76C4DA4485B6EDDF462581C3
+
+#URL
+	ID=344
+	NAME=960 Grid System
+	URL=http://960.gs/
+	CREATED=1306022568
+	DESCRIPTION=The 960 Grid System is an effort to streamline web development workflow.
+	UNIQUEID=9FFABC2775D00447BE882A11FF162AEE
+
+-
+
+#URL
+	ID=345
+	NAME=Web development tutorials, from beginner to advanced | Nettuts+
+	URL=http://net.tutsplus.com/
+	CREATED=1318570662
+	DESCRIPTION=Nettuts+ is a blog and community for Web Development tutorials. Learn php, JavaScript, WordPress, HTML5, CSS, Ruby and much more.
+	UNIQUEID=150F58C9DF43184583DE6BC26A6C5AAF
+
+#URL
+	ID=346
+	NAME=Line25 Web Design Blog
+	URL=http://line25.com/
+	CREATED=1318570669
+	VISITED=1324011907
+	UNIQUEID=F10B85D0A004CD4CB57D3A15B93EA386
+
+#URL
+	ID=347
+	NAME=Art, Design, Photography and Free Resources @ Designzzz
+	URL=http://www.designzzz.com/
+	CREATED=1318570722
+	VISITED=1324011418
+	DESCRIPTION=The art and design blog with tons of free resources Art, Design, Photography and Free Resources
+	UNIQUEID=EA993830AE311347BDCB5EC71EE4AB1C
+
+#URL
+	ID=348
+	NAME=Noupe - The Curious Side of Smashing Magazine
+	URL=http://www.noupe.com/
+	CREATED=1318570740
+	DESCRIPTION=Noupe passionately delivers stylish and dynamic news for designers and Web developers across the globe on all subjects of design; ranging from CSS, Photography, JavaScript, Web design, Graphics, Typography and much more.
+	UNIQUEID=B916802FC4F9A14B84EBB531CDC43840
+
+#URL
+	ID=349
+	NAME=Adobe 开发人员连接
+	URL=http://www.adobe.com/cn/devnet/
+	CREATED=1321594365
+	UNIQUEID=F256E4DA075D5047BEE996F821EE2423
+
+#URL
+	ID=350
+	NAME=6yang创意 - 视觉创意设计 网站开发 WEB前端开发工程师 酷站
+	URL=http://6yang.net/articles.php
+	CREATED=1322794600
+	DESCRIPTION=6yang创意,专注于Web前端设计开发,上海与温州地区著名网站建设服务商,有丰富的网站制作经验,大量网站建设案例,网站设计为一体的服务行业
+	UNIQUEID=3D502A568DE6D74B9059BEF2BEE7EE3A
+
+#URL
+	ID=351
+	NAME=blog.moocss.com|关注Web前端技术，重视Web标准和Web性能优化。
+	URL=http://blog.moocss.com/
+	CREATED=1322809812
+	VISITED=1324010269
+	DESCRIPTION=关注Web前端技术，重视Web标准和Web性能优化。
+	UNIQUEID=56DEC8958D4A9B489AF7BDAED35994EE
+
+#URL
+	ID=352
+	NAME=OWASP Guide Project - OWASP
+	URL=https://www.owasp.org/index.php/Category:OWASP_Guide_Project
+	CREATED=1323259991
+	UNIQUEID=55EB8B53D163CE4585A4AA3F848C754B
+
+#URL
+	ID=353
+	NAME=Tutorialzine | Web Development Tutorials & Resources
+	URL=http://tutorialzine.com/
+	CREATED=1323262122
+	DESCRIPTION=Tutorialzine is the one place for high quality web development tutorials. Learn cutting edge techniques in web development and design, download open source components and participate in the community.
+	UNIQUEID=8C3C8B1E4B49564995FDE37566E44724
+
+#URL
+	ID=354
+	NAME=A List Apart
+	URL=http://www.alistapart.com/
+	CREATED=1323262254
+	VISITED=1323262257
+	UNIQUEID=55869ABF4CA142428FBD17D59B10E490
+
+#URL
+	ID=355
+	NAME=Somethinghitme | Jason Browns personal blog
+	URL=http://www.somethinghitme.com/
+	CREATED=1323826597
+	VISITED=1324010358
+	UNIQUEID=89F1FFE2FA7F40489B704E047B52D2AF
+
+#URL
+	ID=356
+	NAME=Dynamic Drive DHTML(dynamic html) & JavaScript code library
+	URL=http://www.dynamicdrive.com/
+	CREATED=1323826751
+	VISITED=1324011857
+	DESCRIPTION=Click here for Dynamicdrive.com, a comprehensive DHTML site featuring DHTML scripts, tutorials, and more.
+	UNIQUEID=2A468945ACFA8142B03148E4A0AC34E7
+
+#URL
+	ID=357
+	NAME=BetterExplained | Learn Right, Not Rote.
+	URL=http://betterexplained.com/
+	CREATED=1324360987
+	VISITED=1324360994
+	UNIQUEID=DD7D29F8C3590A4FB4331CF5924D0EDB
+
+#URL
+	ID=358
+	NAME=TGideas-腾讯游戏官方设计团队
+	URL=http://tgideas.qq.com/
+	CREATED=1327932191
+	VISITED=1327932213
+	DESCRIPTION=TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队，工作范围涉及各类游戏产品的推广设计工作，由专业的视觉设计师、网站重构工程师、FLASH动画设计师、视频包装设计师构成。
+	UNIQUEID=86EF14B03A93A54A9AB546750653E62A
+
+#URL
+	ID=359
+	NAME=How Secure Is My Password?
+	URL=http://howsecureismypassword.net/
+	CREATED=1327992646
+	DESCRIPTION=Find out how long it would take a desktop PC to hack your password.
+	UNIQUEID=00B8148F01093841858CE621AB7ABEFF
+
+#URL
+	ID=360
+	NAME=ROT13 @ http://www.rot13.de/
+	URL=http://rot13.de/index.php
+	CREATED=1327992788
+	DESCRIPTION=ROT13: rot13 online decryption / encryption | rot13 verschlüsselung / entschlüsselung
+	UNIQUEID=1130D8BCDC80D0449CA7AA9529C5556A
+
+#FOLDER
+	ID=361
+	NAME=CSS
+	CREATED=1342667853
+	UNIQUEID=504252F1C9C5564EB61E3076A7304D3C
+
+#URL
+	ID=362
+	NAME=CSS-Tricks
+	URL=http://css-tricks.com/
+	CREATED=1318571004
+	VISITED=1324011698
+	UNIQUEID=383505A75A778C408B3D4832DBC53E7B
+
+-
+
+#FOLDER
+	ID=363
+	NAME=JS
+	CREATED=1342667853
+	UNIQUEID=458BF1B5E49EE54CBDEFF21C84BD9EE3
+
+#URL
+	ID=364
+	NAME=JavaScript 秘密花园
+	URL=http://bonsaiden.github.com/JavaScript-Garden/zh/
+	CREATED=1322200661
+	VISITED=1324012005
+	DESCRIPTION=JavaScript 语言最古怪用法的文档集合
+	UNIQUEID=4FCC7D902335EA46A55608FEEA64F739
+
+-
+
+#FOLDER
+	ID=365
+	NAME=Ajax
+	CREATED=1342667853
+	UNIQUEID=DF34990D6F916843B76FF4AF93D953C6
+
+#URL
+	ID=366
+	NAME=Ajax/JavaScript脚本大全,JS脚本大全
+	URL=http://ajax.open-open.com/
+	CREATED=1328607558
+	DESCRIPTION=Ajax Web免费开发资源,Aja/JavaScript框架,Aja/JavaScript组件,Aja/JavaScript示例导航,JS脚本大全
+	UNIQUEID=FEAE96F1471DC940AABF0FE39E396335
+
+-
+
+#FOLDER
+	ID=367
+	NAME=Html5
+	CREATED=1342667853
+	UNIQUEID=4D25A68BB7B0D84E93B67100C2A09F83
+
+-
+
+#URL
+	ID=368
+	NAME=我的信息中心 - Google Analytics
+	URL=https://www.google.com/analytics/web/?pli=1#dashboard/default/a25481872w49542617p50046772/
+	CREATED=1340682104
+	UNIQUEID=BD16195F7C64AB41B7741C56FC0FFBEA
+
+#URL
+	ID=369
+	NAME=网页特效大全 - 分享最实用的网页特效代码_JS特效代码_Flash特效代码
+	URL=http://tx.itivy.com/
+	CREATED=1340864503
+	DESCRIPTION=分享最实用的网页特效代码_JS特效代码_Flash特效代码
+	UNIQUEID=511EEE91EC299E4C8C2E04FD1445B2B4
+
+#URL
+	ID=370
+	NAME=不懂产品的技术不是好CEO - LAMP人 - lamper.cn
+	URL=http://www.lamper.cn/
+	CREATED=1334671990
+	UNIQUEID=9B9AD42C1463AB4D9F6E423B2E6FF1DA
+
+#URL
+	ID=371
+	NAME=CSM.COM.CN 的Whois查询结果 - Whois查询 - 域名工具 - 好域名
+	URL=http://whois.haoyuming.com/csm.com.cn
+	CREATED=1355364702
+	DESCRIPTION=快速实时的域名WHOIS查询工具
+	UNIQUEID=9A837D1EC9E1E9468C9D312DF5134877
+
+#URL
+	ID=372
+	NAME=Powered by You! :: XOOPS Web Application System
+	URL=http://xoops.org/
+	CREATED=1355452976
+	DESCRIPTION=XOOPS CMS is an extensible, OO (Object Oriented), easy to use dynamic web content management system (CMS) written in PHP. XOOPS is the ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more.
+	UNIQUEID=BFB8A699E3DC8F46BB89503C009FB32D
+
+-
+
+#FOLDER
+	ID=373
+	NAME=IT资讯
+	CREATED=1342667853
+	UNIQUEID=5F612C576472AA438EF0FEF9E8F78918
+
+#URL
+	ID=374
+	NAME=互联网的那点事 - 聚焦互联网前沿资讯，网络精华内容，交流产品心得！
+	URL=http://www.alibuybuy.com/
+	CREATED=1299670894
+	DESCRIPTION=互联网那点事精心打造国内互联网产品信息门户站点。为产品策划和产品运营人士提供专业的产品资讯文档，以及产品设计、策划、运营、交互设计、用户体验、电子商务信息、互联网创业信息、移动互联网等专业信息服务。
+	UNIQUEID=8AB274E3AD2B5A4D88C7AB0958FFA4DD
+
+#URL
+	ID=375
+	NAME=cnBeta.COM_网友媒体与言论平台
+	URL=http://www.cnbeta.com/
+	CREATED=1294291444
+	VISITED=1355978526
+	DESCRIPTION=cnBeta.com为您提供最新最快IT业界资讯,报导立场公正中立,网友讨论气氛浓厚.创造出最适合目标人群阅读的新闻、评论、观点和专访
+	UNIQUEID=1FB100B021FFA145B0917B4B62018D6E
+
+#URL
+	ID=376
+	NAME=Engadget 中国版
+	URL=http://cn.engadget.com/
+	CREATED=1320819469
+	VISITED=1355390975
+	UNIQUEID=CEAFCEC68FAE0246BF8FFE3DA2B005B2
+
+#URL
+	ID=377
+	NAME=ITPUB技术论坛_中国最专业的IT技术社区
+	URL=http://www.itpub.net/
+	CREATED=1321250274
+	VISITED=1321853235
+	DESCRIPTION=ITPUB,中国最专业的IT技术社区_每天百余篇IT技术资讯,5万活跃技术爱好者,13万热帖话题讨论,主要为高端IT专业技术人员提供媒体信息传播和服务平台-IT168旗下网站
+	UNIQUEID=1C9612B2C5F9684EAEC87ABBDBF5F41E
+
+#URL
+	ID=378
+	NAME=Upload & Share PowerPoint presentations and documents
+	URL=http://www.slideshare.net/
+	CREATED=1321250284
+	VISITED=1346811613
+	UNIQUEID=F99601CE7259A646BB2DBD515E4EE20D
+
+#URL
+	ID=379
+	NAME=SourceForge.net: Find, Create, and Publish Open Source software for free
+	URL=http://sourceforge.net/
+	CREATED=1321341835
+	VISITED=1321853265
+	DESCRIPTION=SourceForge.net. Fast, secure and free downloads from the largest Open Source applications and software directory
+	UNIQUEID=8AF7BF78F43DEC4CB9724E20FD9EE42A
+
+#URL
+	ID=380
+	NAME=Our4.org | 关注自由、科技、淘宝、移动互联网和微博
+	URL=http://our4.org/
+	CREATED=1321947490
+	VISITED=1336031042
+	DESCRIPTION=简单即是美 , Our4.org 是一个关注自由、科技、淘宝、移动互联网和微博等的独立科学技术站点.
+	UNIQUEID=E80CD4A89C9F7A46BE9EF6C425405837
+
+#URL
+	ID=381
+	NAME=Hacker News
+	URL=http://news.ycombinator.com/
+	CREATED=1324974740
+	VISITED=1328172740
+	UNIQUEID=C2F1A2230BD7AA44A95AA33BA04C58CF
+
+#URL
+	ID=382
+	NAME=Startuply: Startup companies. Startup jobs.
+	URL=http://startuply.com/
+	CREATED=1324974752
+	DESCRIPTION=Startuply: Startup Companies, Startup Jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.
+	UNIQUEID=1B0893BE1A3DA0499D0F913204296A24
+
+#URL
+	ID=383
+	NAME=SAI: Tools
+	URL=http://www.businessinsider.com/tools
+	CREATED=1324978755
+	UNIQUEID=86D79D50E610C340B6AE3A3F04607EDA
+
+#URL
+	ID=384
+	NAME=WikiLeaks
+	URL=http://www.wikileaks.ch/
+	CREATED=1325122269
+	UNIQUEID=22220357BC87F843B46157C030675EE4
+
+#URL
+	ID=385
+	NAME=IT牛人网，IT牛人聚集地
+	URL=http://www.itniuren.com/
+	CREATED=1327930980
+	DESCRIPTION=首页
+	UNIQUEID=9E9264F96AF1FB4F8C6C6817200FEEEC
+
+#URL
+	ID=386
+	NAME=TechWeb.com.cn - 新媒体、新技术、新商业互动交流平台
+	URL=http://www.techweb.com.cn/
+	CREATED=1327931012
+	VISITED=1328851565
+	DESCRIPTION=TechWeb 新媒体、新技术、新商业互动交流平台
+	UNIQUEID=C77DFEC4D233164197780E9E173D0D1D
+
+#URL
+	ID=387
+	NAME=Yahoo! News - Latest News & Headlines
+	URL=http://news.yahoo.com/
+	CREATED=1327931085
+	VISITED=1327931089
+	DESCRIPTION=The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.
+	UNIQUEID=F78C2E7BD5779C4087A9B7B22D76C21E
+
+#URL
+	ID=388
+	NAME=RTdot锐推 - 分享,科技,价值
+	URL=http://www.rtdot.com/
+	CREATED=1328489448
+	VISITED=1336031350
+	DESCRIPTION=RTdot是一个专注科技、互联网、消费电子的垂直资讯网站
+	UNIQUEID=C1A837B9060B0E4082F345E89E975487
+
+#URL
+	ID=389
+	NAME=OSNews is Exploring the Future of Computing
+	URL=http://www.osnews.com/
+	CREATED=1330400759
+	DESCRIPTION=OSNews is Exploring the Future of Computing with news on desktop, server, mobile, and specialty operating systems and new computing technology.
+	UNIQUEID=E2FED40B012B9C4F9C6A37A03A9006E5
+
+#URL
+	ID=390
+	NAME=Linux Today - Linux News On Internet Time.
+	URL=http://www.linuxtoday.com/
+	CREATED=1330400822
+	UNIQUEID=5E500290A2A7AA429528B1BC1FB4D85C
+
+#URL
+	ID=391
+	NAME=Tech2IPO - 科技创新创业媒体
+	URL=http://tech2ipo.com/
+	CREATED=1331014060
+	VISITED=1331014100
+	DESCRIPTION=专注国际互联网创业与创新，努力推动中国互联网与国际接轨，旨在为创业者和投资者之间搭建一座有价值的桥梁！
+	UNIQUEID=2AA699E92417DD46A664B13A4A269E20
+
+#URL
+	ID=392
+	NAME=极客观察 | 极客公园
+	URL=http://event.geekpark.net/
+	CREATED=1331386938
+	VISITED=1331387010
+	DESCRIPTION=极客公园可能是中国最好的聚焦于互联网产品的线下沙龙，前卫的想法、良好的产品、优秀的模式在这里能得到最佳的传播效果。
+	UNIQUEID=EDD5774CDA2ED74A8BD6C1B4FAFDE965
+
+#URL
+	ID=393
+	NAME=kenhess.com
+	URL=http://www.kenhess.com/
+	CREATED=1331738939
+	DESCRIPTION=Personal Pages of Ken Hess
+	UNIQUEID=A65A88523D91624EA7E9583310C11AFE
+
+#URL
+	ID=394
+	NAME=Solutions | Storage & Data Management, Data Center Relocation | Advanced Systems Group
+	URL=http://www.virtual.com/solutions
+	CREATED=1331739632
+	DESCRIPTION= Browse through various IT solutions offered by Advanced Systems Group for storage and data management, data center relocation and cloud computing. Visit www.virtual.com to know more.
+	UNIQUEID=5D6E9B5240E3BC4FBACBCF39896D5948
+
+#URL
+	ID=395
+	NAME=爱范儿 · Beats of Bits - 发现创新价值的科技媒体
+	URL=http://www.ifanr.com/
+	CREATED=1331824814
+	VISITED=1331824878
+	DESCRIPTION=爱范儿 · Beats of Bits - 发现创新价值的科技媒体
+	UNIQUEID=F80F1FB3C26E9E4686511532F7293ECE
+
+#URL
+	ID=396
+	NAME=Google 黑板报 - Google （谷歌）中国的博客网志，走近我们的产品、技术和文化
+	URL=http://www.google.com.hk/ggblog/googlechinablog
+	CREATED=1335338453
+	DESCRIPTION=谷歌黑板报
+	UNIQUEID=9979B443AB40E149A54E764BE096CB9E
+
+#URL
+	ID=397
+	NAME=IT运维_IT管理_ISO20000_ITSM-ITIL先锋论坛，国内最大IT服务管理门户 - Powered by Discuz!
+	URL=http://www.itilxf.com/
+	CREATED=1343030740
+	VISITED=1343030833
+	DESCRIPTION=万人IT服务管理社区，IT运维、IT管理交流平台，每月低价团购课程，每周免费网络讲堂，热线城市ITIL聚会，海量资料下载，数十名专家版主答疑解惑，qq群200036764。ITIL先锋，你我同行！http://www.itilxf.com/
+	UNIQUEID=90080FC00FBA6D43940D9CC2E896B9E0
+
+#URL
+	ID=398
+	NAME=moose - 博客园
+	URL=http://www.cnblogs.com/cstudio/
+	CREATED=1344560992
+	VISITED=1356702803
+	UNIQUEID=EB62FCE7BB262E4DB5AFB8B502A583BD
+
+#URL
+	ID=399
+	NAME=用户中心-EPP 戴尔重点客户员工个人采购
+	URL=http://epp.dell-ins.com/user.php#
+	CREATED=1349957434
+	VISITED=1354952753
+	UNIQUEID=7ECE0E5E62C1D549B502E15C88187AF4
+
+-
+
+#FOLDER
+	ID=400
+	NAME=网上商城
+	CREATED=1342667853
+	UNIQUEID=DEC701C7A0F12F42AA7109E6EA6E0BA3
+
+#URL
+	ID=401
+	NAME=VANCL凡客诚品,互联网快时尚品牌，服装、鞋、配饰，箱包，化妆品，网上购物，货到付款，30天无条件退换货
+	URL=http://www.vancl.com/?source=googleppadd730b995b7081a&ad=7675981213&gclid=CJyVyK3_yKoCFUMD4godiy-6zw
+	CREATED=1313125967
+	VISITED=1352036795
+	DESCRIPTION=VANCL 凡客诚品，互联网快时尚品牌。根植互联网，全球时尚潮流，国际一线品质，平民价位。在线销售男装、女装、童装、鞋、家居、配饰等。送货上门、货到付款，无条件退换货。
+	UNIQUEID=7C89A78E640F2043B84F1C927633406A
+
+#URL
+	ID=402
+	NAME=易购网 — 比价返现第一站！
+	URL=http://www.egou.com/
+	CREATED=1290595412
+	VISITED=1328794033
+	DESCRIPTION=易购网主要提供商品搜索比价及购物返现服务；只需通过易购网找到想买的商品，易购网就会帮您比出最低价，您可通过易购网去200多家网上商城购物，在享受该商城最优惠价格后还可从易购网获得最高30%的现金奖励。
+	UNIQUEID=C182CC0F7F873E4BAAB5AF910FCCA3ED
+
+#URL
+	ID=403
+	NAME=::返利网::网购省钱第一站！
+	URL=http://www.51fanli.com/
+	CREATED=1292814247
+	DESCRIPTION=只要三步,网上购物轻松返利!通过返利网去200多家网上商城购物，在享受该商城最优惠价格后还可从返利网获得最高30%的现金奖励
+	UNIQUEID=74E432360AA47C4E9BFAEDB50CB8921F
+
+#URL
+	ID=404
+	NAME=京东网上商城-综合网购首选，正品行货，机打发票，售后上门取件，省钱又放心
+	URL=http://www.360buy.com/
+	CREATED=1328246265
+	VISITED=1356512340
+	DESCRIPTION=京东商城-专业的数码网上购物商城,产品包括数码、家电、手机、电脑配件、网络产品等数万种商品直销,便捷，诚信的服务,为您提供愉悦的网上商城购物体验!
+	UNIQUEID=35AF42A8DA647145ABCC1070E2277D4E
+
+#URL
+	ID=405
+	NAME=淘宝商城正式更名天猫,品质共享为你而变 tmall.com
+	URL=http://www.tmall.com/
+	CREATED=1328246301
+	VISITED=1357036029
+	DESCRIPTION=天猫，亚洲最大网上购物网站——淘宝网打造的在线B2C购物平台。（B2C是Business to Customer的缩写）自2008年4月10日建立淘宝商城以来，众多品牌包括Kappa、levis、esprit、JackJones、乐扣乐扣、苏泊尔、联想、惠普、迪士尼、优衣库等在淘宝商城开设的官方旗舰店，受到了消费者的热烈欢迎。迄今为止，我们已经拥有4亿多买家，40000多家商户，70000多个品牌。目前的淘宝商城处在飞速发展阶段，多种新型网络营销模式正在不断被开创。加入淘宝商城，将拥有更多接触最前沿电子商务的机会，也将为全新的B2C事业创造更多的奇迹。
+	UNIQUEID=D35D083E5519AB4CB46AF6D4A17CADF6
+
+#URL
+	ID=406
+	NAME=当当网—网上购物中心：图书、母婴、美妆、家居、数码、家电、服装、鞋包等，正品低价，货到付款
+	URL=http://www.dangdang.com/?attach=100.1010.00.000.00&QQ_from=100.1010.00.000.00
+	CREATED=1328794120
+	VISITED=1328959600
+	DESCRIPTION=全球领先的综合性网上购物中心。超过100万种商品在线热销！图书、音像、母婴、美妆、家居、数码3C、服装、鞋包等几十大类，正品行货，低至2折，700多城市货到付款，（全场购物满29元免运费。当当网一贯秉承提升顾客体验的承诺，自助退换货便捷又放心）。
+	UNIQUEID=C4DCBE22A6A613439ED813AC6D9E00ED
+
+#URL
+	ID=407
+	NAME=易迅网-专业的电脑、数码家电、手机、汽车用品、鞋服百货网上数码大卖场
+	URL=http://www.51buy.com/?attach=100.1010.00.000.00&QQ_from=100.1010.00.000.00
+	CREATED=1328794131
+	VISITED=1328794188
+	DESCRIPTION=买手机 数码相机 单反相机 MP3/MP4 摄像机 配件 电池 充电器 耳机 存储卡去哪里？就上易迅网。12小时送达、天天低价
+	UNIQUEID=6ED6E174681CA84E9EF88B3974826D06
+
+#URL
+	ID=408
+	NAME=新蛋中国 - 全球领先的网上购物商城-手机、电脑、数码、家电、服装、化妆品、家居、食品等，正品低价，货到付款。
+	URL=http://www.newegg.com.cn/?attach=100.1010.00.000.00&QQ_from=100.1010.00.000.00&cm_mmc=AFC-_-Linktech-_-A10006016454862673%5E100.1010.00.000.00-_-newegg
+	CREATED=1328794731
+	VISITED=1328795322
+	DESCRIPTION=商品齐全的精品购物商城-在线销售电脑·笔记本·手机·数码·家电·服装·运动·礼品·食品等数万类商品。承诺全场正品低价，及时发货，配送到家，货到付款-购物上新蛋·省钱又放心！ - 新蛋中国
+	UNIQUEID=4CE663189DE7ED449C565E1960F78CD4
+
+#URL
+	ID=409
+	NAME=Dell笔记本 | Dell 中国大陆
+	URL=http://china.dell.com/cn/p/laptops?~ck=bt
+	CREATED=1328883719
+	VISITED=1328883725
+	DESCRIPTION=浏览Dell官网笔记本、上网本信息，如笔记本参数、笔记本图片、笔记本报价等。在线选购Dell笔记本、上网本，享受Dell笔记本超值优惠活动。Dell时尚新颖笔记本尽在你的掌控之中。
+	UNIQUEID=ABC1331AC3CE0A4085EFB5A6241A93F7
+
+#URL
+	ID=410
+	NAME=初刻Crucco：原创慢生活品牌 发现日常生活之美
+	URL=http://www.crucco.com/
+	CREATED=1345721975
+	VISITED=1356006302
+	DESCRIPTION=2012年夏装特价专场，创意T恤，清新长裙，棉麻衬衫，POLO衫。初刻Crucco，初刻，原创慢生活服饰品牌。关注城市青年之内心，带你发现日常生活之美。我们专心简约设计、舒适穿着、天然材质与细节创新，期待让每一件产品都有情感。” 应该只能显示这么多：2012年夏装特价专场，创意T恤，清新长裙，棉麻衬衫，POLO衫。初刻Crucco，初刻，原创慢生活服饰品牌。关注城市青年之内心，带你发现日常生活之美。我们专心简约设计、舒适穿着...
+	UNIQUEID=86FE50D05269BB47B3B93CACC5772B53
+
+#URL
+	ID=411
+	NAME=易迅网-专业的电脑、数码家电、手机、汽车用品、鞋服百货网上数码大卖场
+	URL=http://www.51buy.com%2eurl7%2e%6d%65/fjXR
+	CREATED=1351685547
+	DESCRIPTION=买手机 数码相机 单反相机 MP3/MP4 摄像机 配件 电池 充电器 耳机 存储卡去哪里？就上易迅网。12小时送达、天天低价
+	UNIQUEID=2E5700012989ED4ABFFE59102D60B9D2
+
+#URL
+	ID=412
+	NAME=上品折扣网shopin.net- 商场名牌1-3折限量秒杀,正品保障,网上购物!服装品牌,名品折扣,名牌打折,团购价!上品折扣官方购物网站
+	URL=http://www.shopin.net/index.html
+	CREATED=1353461138
+	VISITED=1353505241
+	DESCRIPTION=上品折扣网www.shopin.net女装,男装,运动,户外,鞋,包包,内衣,配饰打折促销特卖会!网上购物,方便省钱!100%品牌正品打折抢购,全场1折起,上品折扣,上品优价实体店供货,商场选款上品下单, 天天打折,省钱网购,10天包退换,正品质量保障!,抢购热线:4006090600
+	UNIQUEID=AB655F2D63A43A41B6F9E04803993F32
+
+-
+
+#FOLDER
+	ID=235
+	NAME=云计算
+	CREATED=1342667853
+	UNIQUEID=963DE0DCDBB3AE4AAC8B716CED377CD0
+
+#URL
+	ID=236
+	NAME=Home » OpenStack Open Source Cloud Computing Software
+	URL=http://www.openstack.org/
+	CREATED=1329117708
+	VISITED=1343122535
+	UNIQUEID=5FFBE4E75CD1FC41AC53F33FC4F84807
+
+#URL
+	ID=237
+	NAME=Heroku | Cloud Application Platform
+	URL=http://www.heroku.com/
+	CREATED=1331386487
+	UNIQUEID=D207ADEBAB95BB4995F8BA0343AA7181
+
+#URL
+	ID=238
+	NAME=Cloud Computing, Managed Hosting, Dedicated Server Hosting by Rackspace
+	URL=http://www.rackspace.com/
+	CREATED=1331386502
+	DESCRIPTION=More than 100,000 businesses trust Rackspace with their hosting and cloud computing. Get cloud, managed and hybrid hosting all backed by Fanatical Support®
+	UNIQUEID=51BCA95B4F1C5742AFCE3D426542FEE6
+
+#URL
+	ID=239
+	NAME=Amazon Web Services
+	URL=http://aws.amazon.com/
+	CREATED=1331551867
+	DESCRIPTION=Amazon Web Services (AWS) delivers a set of services that together form a reliable, scalable, and inexpensive computing platform “in the cloud”. These pay-as-you-use cloud computing services include Also
+	UNIQUEID=FC07254FA4ADC5419BCC9A454AC42D88
+
+#URL
+	ID=240
+	NAME=Joyent Cloud | Home
+	URL=http://www.joyentcloud.com/
+	CREATED=1331738503
+	VISITED=1331739012
+	DESCRIPTION=Joyent's Proven Cloud Computing Infrastructure and sophisticated Cloud Hosting Technology enable you to enjoy Virtual Servers with advanced Cloud Security.
+	UNIQUEID=4DB6979841BB224CBA6A4F2BBB767DBE
+
+#URL
+	ID=241
+	NAME=Joyeur
+	URL=http://joyeur.com/
+	CREATED=1331738575
+	UNIQUEID=8051AD6CE701214E92A97338C96C679C
+
+#URL
+	ID=242
+	NAME=Neostart, Inc. Cloud Begins with Virtualization... | 同德一心，云计算从虚拟化开始...
+	URL=http://www.neostart.cn/index.htm
+	CREATED=1332248055
+	UNIQUEID=46C6FD06F0CE9248A10CBD77E4356D2A
+
+#URL
+	ID=243
+	NAME=OpenShift by Red Hat
+	URL=https://openshift.redhat.com/app/
+	CREATED=1333634726
+	VISITED=1340785505
+	UNIQUEID=6BCCCC54FB1F7A4BAC015271CBD6B589
+
+#URL
+	ID=244
+	NAME=Sheepdog: Distributed Storage Management for qemu/kvm | KVM - The Linux Kernel-Based Virtual Machine
+	URL=http://www.linux-kvm.com/content/sheepdog-distributed-storage-management-qemukvm
+	CREATED=1333718531
+	DESCRIPTION=Linux Virtualization
+	UNIQUEID=AE23160D89FCBD40892560A0E9DE7E2C
+
+#URL
+	ID=245
+	NAME=Welcome to Apache™ Hadoop™!
+	URL=http://hadoop.apache.org/
+	CREATED=1333718614
+	UNIQUEID=71CFB323AA43B14F9885DC3B86E05D28
+
+#URL
+	ID=246
+	NAME=OpenFlow - Enabling Innovation in Your Network
+	URL=http://www.openflow.org/
+	CREATED=1334885879
+	DESCRIPTION=OpenFlow - Enabling Innovation in Networking and Routing Protocols.
+	UNIQUEID=B7F0DDDF18DD6B43A4FAD5E7DB7F52BE
+
+#URL
+	ID=247
+	NAME=博客 | Cloud Foundry
+	URL=http://cnblog.cloudfoundry.com/
+	CREATED=1338339313
+	UNIQUEID=9EDB681A67EDEB4F84ED7A7F4F155D03
+
+#URL
+	ID=248
+	NAME=OpenStack Compute Starter Guide - OpenStack Compute Starter Guide  - essex
+	URL=http://docs.openstack.org/essex/openstack-compute/starter/content/
+	CREATED=1346301737
+	DESCRIPTION=This is a tutorial style beginner's guide for OpenStack™ on Ubuntu 12.04, Precise Pangolin. The aim is to help the reader in setting up a minimal installation of OpenStack.
+	UNIQUEID=29CC4176F4BF27419EC05F629E8110B9
+
+#URL
+	ID=562
+	NAME=从Hadoop框架与MapReduce模式中谈海量数据处理（含淘宝技术架构） - 结构之法 算法之道 - 博客频道 - CSDN.NET
+	URL=http://blog.csdn.net/v_july_v/article/details/6704077
+	CREATED=1357434656
+	DESCRIPTION=从hadoop框架与MapReduce模式中谈海量数据处理前言    几周前，当我最初听到，以致后来初次接触Hadoop与MapReduce这两个东西，我便稍显兴奋，觉得它们很是神秘，而神秘的东西常能勾起我的兴趣，在看过介绍它们的文章或论文之后，觉得Hadoop是一项富有趣味和挑战性的技术，且它还牵扯到了一个我更加感兴趣的话题：海量数据处理。    由此，最近凡是空闲时，便在看“Hadoop”，“
+	UNIQUEID=FC24BAC19D29D24AB22ED067CE362FB9
+
+-
+
+#FOLDER
+	ID=413
+	NAME=数据库技术
+	CREATED=1342667853
+	UNIQUEID=FF1E3D2C43F6154D87E7B9377CFC9245
+
+#URL
+	ID=414
+	NAME=MemSQL
+	URL=http://memsql.com/
+	CREATED=1340242233
+	VISITED=1340242248
+	DESCRIPTION=Your data. Accelerated.
+	UNIQUEID=CB631D03B661184688CDC4A41CA2BD85
+
+-
+
+#FOLDER
+	ID=415
+	NAME=网盘&下载
+	CREATED=1342667853
+	UNIQUEID=F0BA7C51C7A16341BD72D5F743C7CEFC
+
+#URL
+	ID=416
+	NAME=DBank 数据银行
+	URL=http://www.dbank.com/portal/
+	CREATED=1293198266
+	VISITED=1326339905
+	DESCRIPTION=DBank数据银行 - 安全、快捷、稳定、易用、免费、专业的网络硬盘
+	UNIQUEID=868E9321363E9A4E898980E9D0C543E4
+
+#URL
+	ID=417
+	NAME=VeryCD电驴大全 - 要得惊人艺，须下苦功夫
+	URL=http://www.verycd.com/
+	CREATED=1328182549
+	VISITED=1357225114
+	DESCRIPTION=电驴大全，为你提供最多最全面的电影、电视剧在线观看导航。为自己喜欢的资料打分，下载最好玩的游戏，了解全方位的影视资讯、游戏动态。
+	UNIQUEID=E3010FBDFD2AFE49ABCE981FD12AE5D9
+
+#URL
+	ID=418
+	NAME=ThePirateBay.com - The World's Largest Media Repository!
+	URL=http://www.piratebay.com/
+	CREATED=1328613881
+	UNIQUEID=DB3AE304CBA35A4D86F84DB9503630F5
+
+#URL
+	ID=419
+	NAME=迅雷网盘 - 安全 | 海量 | 高速
+	URL=http://www.xlpan.com/login.html
+	CREATED=1328674377
+	VISITED=1337834458
+	DESCRIPTION=迅雷网盘是迅雷推出的新一代网络硬盘，集合存储、点播、分享、下载、文件预览等功能，为用户提供一站式资源服务。百万雷友资源共享，让分享更加顺畅。
+	UNIQUEID=D303D5672E58294C951BE0CBA50C7390
+
+#URL
+	ID=420
+	NAME=115网盘|网盘|115,我的网盘|免费网络硬盘 - 爱分享，云生活
+	URL=http://115.com/
+	CREATED=1328674435
+	VISITED=1355054273
+	DESCRIPTION=115网盘是广东一一五网络有限公司推出的具有存储容量大、免费、高速、稳定、易用，安全等特点的免费网络硬盘，即免费网络存储空间服务。
+	UNIQUEID=C1084964491D8D43980F1575FF0D7DEE
+
+#URL
+	ID=421
+	NAME=RayFile 免费网络硬盘 | 网盘 | 网络U盘 | 上传文件 | 文件共享
+	URL=http://www.rayfile.com/zh-cn/
+	CREATED=1328674451
+	DESCRIPTION=RayFile是一款提供在线存储和网络寄存的服务。我们能够提供价格低廉和快速的线上存储/远程备份能力, 并提供广告支持服务, 同时我们还提供配套的高速便捷的上传和下载工具.
+	UNIQUEID=1B48097A5B1CBD43B96DCFD25FF3B4A4
+
+#URL
+	ID=422
+	NAME=盛大网盘EverBox - 首页
+	URL=http://www.everbox.com/
+	CREATED=1328674491
+	VISITED=1336030767
+	DESCRIPTION=盛大网盘EverBox, 为您提供15G永久免费存储空间; 支持多设备间文件同步, 文件分享, 在线浏览照片, 在线听音乐和在线播放视频等功能.
+	UNIQUEID=5C4B09DCA4B2D24692B3B500F77425F0
+
+#URL
+	ID=423
+	NAME=99盘网盘|网盘|99盘,我的网盘|免费网络硬盘|网盘搜索|网盘下载-爱分享，云生活-99网盘
+	URL=http://www.99pan.com/
+	CREATED=1328674523
+	DESCRIPTION=99盘网盘是全球领先的免费网络硬盘，即免费网络存储空间。99盘网盘正在为全球2000多万网盘用户提供大容量、免费、安全、快速的网络硬盘服务。使用99盘网盘，您可以轻松实现大容量文件云存储、网盘资源共享、超大文件同步、网盘在线阅读等功能；您还可以轻松搜索网盘资源、进行网盘提取，快速下载网盘文件。99盘网盘-爱分享，云生活！
+	UNIQUEID=90561DABE3047946A8BD171CB46766C7
+
+#URL
+	ID=424
+	NAME=Microsoft Download Center
+	URL=http://www.microsoft.com/download/en/default.aspx
+	CREATED=1328752430
+	VISITED=1328756321
+	UNIQUEID=317E43ACB1683640B67385D7F04D2521
+
+#URL
+	ID=425
+	NAME=皮皮书屋 » 分享电子书
+	URL=http://www.ppurl.com/
+	CREATED=1331387563
+	VISITED=1355103420
+	DESCRIPTION=这里只有一些还不错的电子书。如果喜欢，请帮忙向同事和同学推荐本站。
+	UNIQUEID=C213C823DA30A349BB72A4FE6878F3F4
+
+#URL
+	ID=426
+	NAME=我的文件_百度网盘
+	URL=http://pan.baidu.com/netdisk/home
+	CREATED=1332559229
+	VISITED=1342768235
+	UNIQUEID=DB0CD3591A98A143B7A49D52D0E020C2
+
+#URL
+	ID=427
+	NAME=软件街-最新最全 软件资讯 交流平台 - Powered by phpwind
+	URL=http://www.softjie.cn/
+	CREATED=1337524539
+	VISITED=1357046014
+	DESCRIPTION=软件街-最新最全软件资讯交流平台。每天专注发布软件的最新版本更新信息及业界软件资讯，分享、推荐优秀软件、常用软件，同时提供系统美化交流。
+	UNIQUEID=42D9B13524540843A7680727D78833C2
+
+-
+
+#FOLDER
+	ID=428
+	NAME=移动互联网
+	CREATED=1342667853
+	UNIQUEID=119374D6615D08408604D9225AA01F2F
+
+#URL
+	ID=429
+	NAME=Android
+	URL=http://www.android.com/
+	CREATED=1321593946
+	UNIQUEID=213D236642EAF64E800D4952F88AE8D5
+
+#URL
+	ID=430
+	NAME=塞班智能手机论坛-全球最大的综合智能手机中文论坛-塞班_安卓android_苹果iPhone_WP7
+	URL=http://bbs.dospy.com/
+	CREATED=1317217832
+	VISITED=1326197029
+	DESCRIPTION=塞班智能手机论坛-全球最大的综合智能手机中文论坛-塞班_安卓android_苹果iPhone_WP7 ,
+	UNIQUEID=CBB753BC98D06E43BBB65563CC4058E2
+
+#URL
+	ID=431
+	NAME=【新提醒】WP7论坛|WP7手机|WindowsPhone7|Mango|WP7越狱|WP7软件|WP7游戏|中文破解下载|诺基亚Phoenix-MSWP社区
+	URL=http://www.mswp.com/
+	CREATED=1317373101
+	DESCRIPTION=WP7论坛,MSWP社区是国内最活跃的Windows Phone7 用户论坛,为用户提供WP7软件,WP7游戏,WP7越狱,及中文版汉化破解软件下载,以及教程,铃声,主题,壁纸等资源下载
+	UNIQUEID=9F5F5B6F0EE2C24789578889A78ECB1E
+
+#URL
+	ID=432
+	NAME=Android 电子市场中的 Apps
+	URL=https://market.android.com/
+	CREATED=1325144901
+	VISITED=1328749896
+	DESCRIPTION=在网络上光顾 Android 电子市场。购买应用程序后可立即在 Andr​​oid 手机或平板电脑上使用，无需执行同步操作。
+	UNIQUEID=4696DFAB0ADF8C41AC59EA9E15C4A6C5
+
+#URL
+	ID=433
+	NAME=安卓论坛 安卓论坛-中国最大Android手机交流社区 - Powered by Discuz!
+	URL=http://bbs.hiapk.com/
+	CREATED=1320663327
+	DESCRIPTION= 安卓论坛 安卓,android,安卓网,安卓论坛,安卓市场,安卓游戏,安卓软件,安卓分享,安卓交流,Android（安致）手机,Android（安致）手机电影,Android（安致）播放器,Android（安致）RMVB,Android（安致）3GP,Android（安致）格式转换,hiapk.com,91android.com,hiapk,gphone,g1,g2,apk,rom,sdk,视频Android（安致）系统,Android（安致）手机,Android（安致）QQ,Android（安致）论坛,Android（安致）Market,Android（安致）SDK,Android（安致）软件,Google Android（安致）,Android（安致）开发,Android（安致）2.0,Android（安致）中文,Android（安致）模拟器,Android（安致）论坛,Android（安致）源码,Android（安致）游戏,Android（安致）壁纸,Android（安致）下载,Android（安致）ROM,Android（安致）刷机,Android（安致）美化,Android（安致）2.1,Android（安致）2.2,HTC,lephone - Discuz! Board
+	UNIQUEID=83488DB9895A6D46AFD071A88E7BDDF7
+
+#URL
+	ID=434
+	NAME=机锋论坛Android安卓手机平板游戏系统应用,主题壁纸铃声下载分享第一社区
+	URL=http://bbs.gfan.com/
+	CREATED=1320663320
+	VISITED=1322471682
+	DESCRIPTION= 机锋论坛 机锋论坛是国内最大的Android安卓中文论坛,提供机锋市场安卓游戏软件下载,android 安卓手机论坛, android 安卓平板论坛,安卓ROM和刷机教程.创造，发现，分享，机锋论坛做最好的安卓手机游戏中文论坛
+	UNIQUEID=064517128177714598D79BBE52FE36A3
+
+#URL
+	ID=435
+	NAME=手机之家首页_手机之家_最专业的手机社区
+	URL=http://www.imobile.com.cn/
+	CREATED=1307021673
+	UNIQUEID=11B8567428DC2F44B6363CC97A70CCA4
+
+#URL
+	ID=436
+	NAME=首页 - AppChina 应用汇 - Android（安卓）软件下载 ,Android 软件, 最大最全的 Android（安卓）软件
+	URL=http://www.appchina.com/
+	CREATED=1320672093
+	VISITED=1324978865
+	DESCRIPTION=AppChina 应用汇，瞬间让你的手机丰富多彩，致力于打造最全面最方便的Android(安卓)智能手机中文资源平台，提供Android(安卓)各类应用和游戏的下载资源
+	UNIQUEID=866E717D20E02D40A32EE6E8F4798AC9
+
+#URL
+	ID=437
+	NAME=Android Developers
+	URL=http://androidappdocs.appspot.com/index.html
+	CREATED=1292977861
+	VISITED=1072887352
+	UNIQUEID=7924C1355312914BAF0B34E5081A7422
+
+#URL
+	ID=438
+	NAME=NFC Forum : Home
+	URL=http://www.nfc-forum.org/home/
+	CREATED=1329278791
+	UNIQUEID=16353A3A23B656429C511C30E44D69D5
+
+#URL
+	ID=439
+	NAME=AppCan.cn_国内领先的移动应用在线开发平台_HTML5应用开发
+	URL=http://www.appcan.cn/app/index.action
+	CREATED=1338531987
+	VISITED=1338532217
+	DESCRIPTION=AppCan.cn是国内领先的移动应用在线开发平台，支持HTML5，能快速开发出手机应用，同时支持iOS、Android、Symbian。
+	UNIQUEID=F8EAA33BEF310B4AAB82A2DB6F48F280
+
+#URL
+	ID=440
+	NAME=魅族软件中心
+	URL=http://app.meizu.com/
+	CREATED=1338791570
+	VISITED=1354162465
+	DESCRIPTION=魅族软件商店主页
+	UNIQUEID=F5F73E54FE25684F9009D7BBCDED885D
+
+-
+
+#FOLDER
+	ID=441
+	NAME=什么都有
+	CREATED=1342667853
+	UNIQUEID=33B7ABA7B84C564698DA90DEF2CB540F
+
+#URL
+	ID=442
+	NAME=爱酷免费站 免费FTP空间,免费ASP空间,免费空间,免费PHP空间,免费域名
+	URL=http://bbs.hcam.cn/
+	CREATED=1328675405
+	DESCRIPTION=爱酷免费站 介绍免费asp/ftp/php网站空间申请、免费域名、免费网络硬盘、免费赚钱、免费试用等各类免费资源,更新及时,所有内容都经过严格筛选,保证可以使用。
+	UNIQUEID=AE3B26F6C7538045AD5FB6D0AE85F600
+
+#URL
+	ID=443
+	NAME=YippieMove | The easy email transfer service.
+	URL=http://www.yippiemove.com/
+	CREATED=1328708821
+	VISITED=1328752426
+	UNIQUEID=CF0FE47247AFCF47B9F527F6DC04BF9B
+
+#URL
+	ID=444
+	NAME=SEBUG漏洞信息库: 厂商目录、安全文档、漏洞趋势
+	URL=http://sebug.net/
+	CREATED=1329738820
+	DESCRIPTION=Sebug提供最新漏洞信息、漏洞搜索、漏洞修复、厂商目录、安全文档、漏洞趋势分析等
+	UNIQUEID=5E1F1C07F851B443A0988FE01D7ADC9F
+
+#URL
+	ID=445
+	NAME=Mission | Open Source Initiative
+	URL=http://opensource.org/
+	CREATED=1329751780
+	VISITED=1333628948
+	UNIQUEID=99528B3FD5634A49886D6520FE52FB5D
+
+#URL
+	ID=446
+	NAME=脑力智宝健康中心
+	URL=http://healthy.nlzb.cn/
+	CREATED=1330671111
+	DESCRIPTION=脑力智宝 脑力智宝健脑 国家专利健脑产品 脑力智宝有助于激发脑潜能、改善记忆，给疲劳的大脑供氧，从而提高人的理解、判断、推理等综合能力。对于中老年人常见的痴呆、帕金森、脑萎缩等大脑退行性疾病，脑力智宝也可起到良好的作用。有助于提高人体血脑屏障的通透性，并可对脑神经细胞产生营养、保护、激活、增殖等作用。
+	UNIQUEID=8ED99F669E087C479DA83B7C34A02415
+
+#URL
+	ID=447
+	NAME=主页 - Dell 社区
+	URL=http://zh.community.dell.com/
+	CREATED=1330749792
+	VISITED=1330750748
+	DESCRIPTION=欢迎来到我们的社区！在这里你会找到戴尔解决方案的建议，操作，讨论和朋友。请随时浏览我们的博客，论坛，维基，媒体廊，并加入我们的讨论。
+	UNIQUEID=61EF65B1F6F45D469E89EC2D9EBEA4CD
+
+#URL
+	ID=448
+	NAME=歡迎使用 Flickr！
+	URL=http://www.flickr.com/
+	CREATED=1331006082
+	VISITED=1331006104
+	DESCRIPTION=Flickr 可稱得上是世界上當之無愧的最佳線上相片管理和分享應用程式。向世界展示你最愛的相片和視訊，安全及私底下向朋友和家人展示內容，或者在 Blog 上發佈使用照相手機拍攝的相片和視訊。
+	UNIQUEID=AF77038B9AD5884689F0C6DEBA943A6F
+
+#URL
+	ID=449
+	NAME=我的首页 - 乐维UP
+	URL=http://www.leweiup.com/
+	CREATED=1331538198
+	VISITED=1331538336
+	UNIQUEID=7DA70845AFA7EA43AC14AE0BC6556EE3
+
+#URL
+	ID=450
+	NAME=codepad
+	URL=http://codepad.org/
+	CREATED=1331646806
+	VISITED=1333631968
+	UNIQUEID=7C5A3A4F6843A1448A58314ACEECFB92
+
+#URL
+	ID=451
+	NAME=Upload & Share PowerPoint presentations and documents
+	URL=http://www.slideshare.net/?ss
+	CREATED=1331782905
+	VISITED=1331782915
+	UNIQUEID=AEFB43D59ED1B347A9B52ECAB828B625
+
+#URL
+	ID=452
+	NAME=FastMail - reliable email hosting services (IMAP, POP, SMTP, Web)
+	URL=https://www.fastmail.fm/
+	CREATED=1332421020
+	DESCRIPTION=Fast and secure email hosting services. Reliable SMTP, IMAP, POP and web access. SSL available. Personal, business and family options. Free and paid accounts.
+	UNIQUEID=9BCB44A9191E7445A6B90AC69B0F74AB
+
+#URL
+	ID=453
+	NAME=译言网首页
+	URL=http://www.yeeyan.org/
+	CREATED=1333632070
+	VISITED=1338438450
+	DESCRIPTION=译言网首页
+	UNIQUEID=A947D12F75D7924C9B57006BA01AB35E
+
+#URL
+	ID=454
+	NAME=中国万维网联盟(W3CHINA)
+	URL=http://www.w3china.org/index.htm
+	CREATED=1333715070
+	DESCRIPTION=致力于促进W3C技术的广泛应用
+	UNIQUEID=C3C6BEEA8DC8694692B518C4758AF3A9
+
+#URL
+	ID=455
+	NAME=EditPlus注册码在线生成 | Demon's Blog
+	URL=http://demon.tw/my-work/editplus-regcode-online.html
+	CREATED=1334280244
+	UNIQUEID=8E6E99D14867654BB7FB0515555B780D
+
+#URL
+	ID=456
+	NAME=Taocode More code fun
+	URL=http://code.taobao.org/
+	CREATED=1335945890
+	VISITED=1335946331
+	UNIQUEID=0031709F01BE8C4E83A166C587F9F435
+
+#URL
+	ID=457
+	NAME=Watchstor存储论坛 - 中文企业级存储技术论坛
+	URL=http://bbs.watchstor.com/index.php
+	CREATED=1338276824
+	DESCRIPTION= Watchstor存储论坛 - 中文企业级存储技术论坛 致力为广大企业级存储从业者包括技术决策者、IT经理、技术工程师和企业高层管理者打造完美的互动交流平台。 - Discuz! Board
+	UNIQUEID=DCD4571B24EBA243BD44DCFCB6ABEF02
+
+#URL
+	ID=458
+	NAME=被驱逐的扭腰客 - ONLY - 网易博客
+	URL=http://blog.163.com/mlsslm777%40126/
+	CREATED=1339130117
+	VISITED=1339130146
+	DESCRIPTION=可爱是一种很玄的东西,叹骷髅,先时者杀无赦，不及时者杀无赦,一树梨花压海棠，至死尤闻鲜屄香,侧面旧火,声声软,Lost in Nanking,你不要等，你要找,你翻过隔世的黑暗，又做了一片孤云,论通天塔的重建,ONLY的网易博客,沉默若失语，多言如八婆,射手,雄性。沉默若失语,多言如八婆。
+	UNIQUEID=E5F0B1CB40827B41A820F582316846FD
+
+#URL
+	ID=459
+	NAME=face.com developers site. face.com for developers
+	URL=http://developers.face.com/
+	CREATED=1340672598
+	VISITED=1340672601
+	DESCRIPTION=Face.com is the largest and most accurate face recognition platform in the cloud (and a breeze to pick up). What are you waiting for? Sign up now and add face recognition to your app in hours!
+	UNIQUEID=3DFE561F26E2B74DB7BA41AA98DD3DC5
+
+#URL
+	ID=460
+	NAME=Hack a Day
+	URL=http://hackaday.com/
+	CREATED=1340860451
+	DESCRIPTION=Fresh hacks every day
+	UNIQUEID=B32D3BD0A03BE24D986FBB5F14BDE8AF
+
+#URL
+	ID=461
+	NAME=海丁网-智力世界，开放互联
+	URL=http://www.headin.cn/
+	CREATED=1343724632
+	DESCRIPTION=海丁网是一个面向高端服务人才的社交网络电子商务平台，专注于建立一个平等、互信的互连世界
+	UNIQUEID=EF757BCEC31AB142AF0432A283D22EB7
+
+#URL
+	ID=462
+	NAME=Coding Horror
+	URL=http://www.codinghorror.com/blog/
+	CREATED=1336056122
+	UNIQUEID=50E521BFB329DD4899DEDCFC3223CF5F
+
+#URL
+	ID=463
+	NAME=Stack Overflow
+	URL=http://stackoverflow.com/
+	CREATED=1336056128
+	VISITED=1356318121
+	UNIQUEID=18503BC5218EFA4BA1F49B3FBBA12F38
+
+-
+
+#FOLDER
+	ID=464
+	NAME=VBScript
+	CREATED=1342667853
+	UNIQUEID=053174C909DA6A42BC0D304C41E00D1D
+
+#URL
+	ID=465
+	NAME=小顾de杂记 | ihipop | 小顾 | ihipop.info
+	URL=http://ihipop.info/
+	CREATED=1333713170
+	VISITED=1340695596
+	DESCRIPTION=小顾de杂记 – O(∩_∩)O~|Across the great wall we can reach the every corner in the world.
+	UNIQUEID=FF6512664FF6224CB72CB465D8AE1B8A
+
+#URL
+	ID=466
+	NAME=Ray's Blog
+	URL=http://rayyn.net/
+	CREATED=1333713082
+	VISITED=1338263325
+	DESCRIPTION=簡單記錄
+	UNIQUEID=ED85B62953AA5E4D83354E334F177028
+
+#URL
+	ID=467
+	NAME=Kaisir
+	URL=http://www.kaisir.com/
+	CREATED=1333713230
+	VISITED=1338264674
+	DESCRIPTION=这个博客的主人Kaisir是一个N年前来到地球的拉布拉多星人。拉布拉多星人是奇怪的，因为他们有很多地球人不能理解的想法；拉布拉多星人又是智慧的，他们明白入乡随俗的道理，所以跟地球人相处了20多年，倒也相处的很好。不过有时候在夜里，他会站在窗口，望着北方天空出神，那里不仅有北极星，还有他挚爱的拉布拉多星球——一个距离地球130万光年远的淡绿色的星球……
+	UNIQUEID=75CFBEB002CC6A4498763B38A65589A4
+
+#URL
+	ID=468
+	NAME=Demon's Blog | 忘记了，喜欢一个人的感觉
+	URL=http://demon.tw/
+	CREATED=1333712501
+	VISITED=1345013824
+	UNIQUEID=D8F079D0B05AEA47B09DC8F912795A3E
+
+#URL
+	ID=469
+	NAME=linkanyway
+	URL=http://blog.linkanyway.com/
+	CREATED=1333713297
+	VISITED=1340695606
+	DESCRIPTION=linkanyway IT博客
+	UNIQUEID=A460A538B4148A4B8D73D7D18F0C19DB
+
+#URL
+	ID=470
+	NAME=Script Center Home Page
+	URL=http://technet.microsoft.com/en-us/scriptcenter
+	CREATED=1334143324
+	VISITED=1347246226
+	DESCRIPTION=The Microsoft Script Center is the place to start for those system administrators wanting to learn about system administration scripting.
+	UNIQUEID=69C2657DAF845E45A47C4E479741DAD3
+
+#URL
+	ID=471
+	NAME=网络管理员在线工具 - Wmi
+	URL=http://www.mxcz.net/tools/wmi.aspx
+	CREATED=1337569756
+	VISITED=1338166494
+	DESCRIPTION=Windows 管理规范(Windows Management Instrumentation)是一项核心的 Windows 管理技术,用户可以使用 WMI 管理本地和远程计算机,通过生成脚本可以查询计算机的各种信息
+	UNIQUEID=0EDA0DE6236E7144BDFF70AF73804982
+
+#URL
+	ID=472
+	NAME=ASP+VBS - 柳永法(yongfa365)'Blog - 人之所以能，是相信能！
+	URL=http://www.yongfa365.com/ASP/
+	CREATED=1337737644
+	VISITED=1337922107
+	UNIQUEID=156F899E72E3F14686DA67B76F2E8AE7
+
+#URL
+	ID=473
+	NAME=vbs-脚本之家
+	URL=http://www.jb51.net/list/list_114_2.htm
+	CREATED=1339132905
+	VISITED=1340246844
+	DESCRIPTION=vbs
+	UNIQUEID=E9977612DBD3C64A97AA4597CA8C9A39
+
+#URL
+	ID=474
+	NAME=VBS爱好者论坛
+	URL=http://bbs.vbser.org/
+	CREATED=1340173689
+	VISITED=1353476904
+	UNIQUEID=BF6F56B91CFB984EAF3A781DCE6917A5
+
+#URL
+	ID=475
+	NAME=vbs常用脚本收集 - 向启明灯前进！ - 51CTO技术博客
+	URL=http://dongbian.blog.51cto.com/2694115/702317
+	CREATED=1343873143
+	VISITED=1343873265
+	DESCRIPTION=在网上查找资料的时候发现好多经典的vbs代码，收集起来也为了以后学习。有多部分。VBS脚本用途很多：1.计算2.处理文件和文件夹3.管理Windows4.处理Word,Excel,PowerPoint等Office文档5.嵌入网页，驱动dHTML6.编写..
+	UNIQUEID=E5BC8B5112F89B47A5DE8E57B15ACD0A
+
+#URL
+	ID=476
+	NAME=Geek Speak.
+	URL=http://www.naterice.com/blog/
+	CREATED=1347266098
+	DESCRIPTION=NateRice.com writing and reading for the thoughtfully young, techologically literate, politically motivated, indedependently minded citizens of the world...
+	UNIQUEID=C46DC94196CFF644AC0268B3E5E8D8D2
+
+#URL
+	ID=477
+	NAME=中 国 DOS 联 盟
+	URL=http://www.cn-dos.net/
+	CREATED=1334936347
+	DESCRIPTION=中国DOS之家,中国DOS联盟
+	UNIQUEID=C6E45F92A574694C981BA07686D8BF4A
+
+-
+
+#URL
+	ID=478
+	NAME=tomcat与nginx的整合_lzq467826892-ChinaUnix博客
+	URL=http://blog.chinaunix.net/uid-23078678-id-2554505.html
+	CREATED=1337758075
+	VISITED=1338167513
+	UNIQUEID=F01A2318FE64164DAE9F771BDBD22324
+
+#URL
+	ID=479
+	NAME=Virtualization With Xen On CentOS 6.2 (x86_64) (Paravirtualization & Hardware Virtualization) | HowtoForge - Linux Howtos and Tutorials
+	URL=http://www.howtoforge.com/virtualization-with-xen-on-centos-6.2-x86_64-paravirtualization-and-hardware-virtualization
+	CREATED=1337852712
+	VISITED=1348032552
+	DESCRIPTION=Virtualization With Xen On CentOS 6.2 (x86_64) (Paravirtualization & Hardware Virtualization)
+	UNIQUEID=0B2CF75C40C4384B80329AAADF0A0916
+
+#FOLDER
+	ID=480
+	NAME=视频
+	CREATED=1352090166
+	UNIQUEID=01E0BE7EE3A26A46A3FDEF5654FE7C32
+
+#URL
+	ID=481
+	NAME=电影天堂_免费电影_最新电影_dygod
+	URL=http://www.dygod.net/
+	CREATED=1295942117
+	VISITED=1357384202
+	DESCRIPTION=最好的迅雷电影下载，最新电影,电影下载,电影下载网
+	UNIQUEID=13A2B3B2D9DB88468949722B8FA9ADF3
+
+#URL
+	ID=482
+	NAME=YYeTs,人人影视,分享 学习 进步 ——人人影视字幕组,永远为您翻译最快最好的海外影视字幕
+	URL=http://yyets.com/
+	CREATED=1299734232
+	VISITED=1357032969
+	DESCRIPTION=YYeTs人人影视是国内最快最热门的美剧,高清电影,日剧,韩剧,纪录片,大学课程字幕翻译制作发布非盈利性爱好者组织,欢迎您进驻我们网站,我们的宗旨是：分享.学习.进步,欢迎大家一起加入我们的组织
+	UNIQUEID=17EF7DF8337E624982B9E4C8F3A0FEE5
+
+#URL
+	ID=483
+	NAME=兔友网-中国电视掌机游戏第一综合门户 网络游戏 PSP游戏 单机游戏 电视游戏 游戏论坛
+	URL=http://www.2u.com.cn/
+	CREATED=1303196110
+	VISITED=1326630685
+	DESCRIPTION=兔友网提供专业的游戏资讯和下载，并有最强的游戏互动专区。是游戏玩家的乐园。
+	UNIQUEID=F81844306A5111E0865FD97AEF23D2D8
+
+#URL
+	ID=484
+	NAME=魔方小站-实现你童年的小小梦想-魔方的玩法-视频教程+公式图解+3D动画
+	URL=http://www.rubik.com.cn/
+	CREATED=1323999626
+	UNIQUEID=FBAC190727B61341A6BD5908FD0F1A4C
+
+#URL
+	ID=485
+	NAME=论坛首页 - 多玩游戏论坛 - Powered by Discuz!
+	URL=http://bbs.duowan.com/forum.php
+	CREATED=1328328809
+	VISITED=1338565183
+	DESCRIPTION=论坛首页 ,多玩游戏论坛
+	UNIQUEID=66DB0F5FBE89BA438BB330A3BB9660A6
+
+#URL
+	ID=486
+	NAME=单机游戏_单机游戏下载_3DMGAME_中国第一单机游戏论坛 - Powered by Discuz!
+	URL=http://bbs.3dmgame.com/forum.php
+	CREATED=1329141135
+	VISITED=1355925983
+	DESCRIPTION=3DMGAME,单机游戏,PCGAME,游戏汉化
+	UNIQUEID=13F3E2899D659D468CBC0B06BA8E7408
+
+#URL
+	ID=487
+	NAME=我爱P2P,双语字幕,oaBT.org,magnet,磁力下载站,电驴下载,电影,美剧,日剧,韩剧,让网络分享更加自由,联系我们:oabt.org@gmail.com
+	URL=http://oabt.org/
+	CREATED=1330959364
+	VISITED=1338014629
+	DESCRIPTION=BT磁力下载,电驴,ED2K下载,为您奉献最新的海外影视剧,欢迎各字幕组,资源组加入发布,联系我们:oabt.org@gmail.com
+	UNIQUEID=2B07103CBEEDC04A8CDF79F1A351F00A
+
+#URL
+	ID=488
+	NAME=《蜡笔小新剧场版》全集在线观看 - 最新动漫 - 百度影音 - 奇热剧集站
+	URL=http://www.qire123.com/cartoon/CrayonShin/
+	CREATED=1331391540
+	VISITED=1333430695
+	DESCRIPTION=最新动漫《蜡笔小新剧场版》全集，免费在线观看和高清晰播放模式均由奇热电视剧收集于互联网，最新动漫《蜡笔小新剧场版》分为普通视频观看、百度影音高清播放模式，其中普通观看模式需要安装Adobe Flash插件，百度影音需要安装相应的高清播放器，如果你觉得蜡笔小新剧场版不错的话，推荐给你的朋友一起加速观看吧
+	UNIQUEID=712915E618357B4CA07F70DF8FFC145F
+
+#URL
+	ID=489
+	NAME=爱电驴迅雷云点播破解版 迅雷播放特权
+	URL=http://www.iverycd.com/vod99/
+	CREATED=1338981361
+	VISITED=1349697786
+	DESCRIPTION=迅雷播放特权，迅雷云点播不能用了？爱电驴提供的迅雷云点播破解版，迅雷云播放
+	UNIQUEID=FF6DEE20AFC811E1902ACC22AFBA72F9
+
+#URL
+	ID=490
+	NAME=电驴下载,eD2k,BT种子_ED2000资源共享
+	URL=http://www.ed2000.com/
+	CREATED=1354456714
+	VISITED=1356010417
+	DESCRIPTION=ED2000为您提供最新电影、电视剧、综艺、动漫、音乐、游戏、图书、软件、资料、教育等各类资源。ED2000使用eD2k,Magnet,BT,电驴等协议带您进入极速的下载世界。
+	UNIQUEID=E10905F9D4544E46892E04DE4C54D986
+
+-
+
+#FOLDER
+	ID=491
+	NAME=娱乐
+	CREATED=1352090166
+	UNIQUEID=DF6DEB773EE6B841A6AE1A6CD750905E
+
+#URL
+	ID=492
+	NAME=和谐图城-{和谐图库___有你精彩}-HeXieTc.CoM-迅雷电影 - Powered by PHPWind
+	URL=http://hexietc.com/index.php?m=bbs
+	CREATED=1293079829
+	DESCRIPTION=和谐图城-和谐图库-有你精彩-HeXieTc.CoM-迅雷电影
+	UNIQUEID=7BA05F3CFC73F24C8A265D3F207D79CE
+
+#URL
+	ID=493
+	NAME=LOOKBOOK.nu: collective fashion consciousness.
+	URL=http://lookbook.nu/
+	CREATED=1291644756
+	DESCRIPTION=The internet's largest source of fashion inspiration from real people around the world.
+	UNIQUEID=FFE11CE26E4E5C48AD93DCAA541C59A3
+
+#URL
+	ID=494
+	NAME=烦题首页
+	URL=http://www.rfanti.com/dashboard
+	CREATED=1291943882
+	UNIQUEID=103B95728D6FC34EA84265509913E8A7
+
+#URL
+	ID=495
+	NAME=用声音消磨 - xiaomo423 - 朗诵·诗歌朗诵·学习配音·配音学习 - 播客·播音主持·电台DJ创作分享与交流学习的网络第一平台 - 派派网
+	URL=http://my.piekee.com/xiaomo423
+	CREATED=1290523396
+	DESCRIPTION=派派网是全球华语朗诵、配音学习、播音员、电台DJ、播客的网上第一乐园，平台汇集海量的诗歌朗诵、配音学习、有声小说、播客作品，是提供声音训练、声音素材的第一平台。
+	UNIQUEID=96795CAEE5AAFA4D878395549426E241
+
+#URL
+	ID=496
+	NAME=漫画-有妖气原创漫画梦工厂
+	URL=http://www.u17.com/
+	CREATED=1291647030
+	VISITED=1344345447
+	DESCRIPTION=中国唯一且最大的纯原创漫画网站，数千名中国原创漫画作者汇聚于此，在线连载最热门的全新漫画作品，为中国原创漫画作者提供最肥沃的漫画创作土壤。
+	UNIQUEID=88DA8E74E3BE78458B1F4335D20F4B66
+
+#URL
+	ID=497
+	NAME=虾米音乐网(xiami.com) - 高品质在线音乐网站
+	URL=http://www.xiami.com/
+	CREATED=1292751897
+	VISITED=1355285392
+	DESCRIPTION=提供高品质音乐MP3的个性化推荐、发布、P2P下载服务，以及线下音乐活动等互动内容
+	UNIQUEID=43558B667E979D4FA87198048DD8344E
+
+#URL
+	ID=498
+	NAME=音悦台 -- 这里不只有高清MV
+	URL=http://www.yinyuetai.com/
+	CREATED=1291645475
+	VISITED=1344064339
+	UNIQUEID=C63957D096B56945995AFDD3CD224DBD
+
+#URL
+	ID=499
+	NAME=DLL-files.cn - 在这里，您可以找到在您电脑中最常丢失或损坏的档案。随意免费下载！
+	URL=http://www.dll-files.cn/
+	CREATED=1300177574
+	DESCRIPTION=在这里，您可以找到在您电脑中最常丢失或损坏的档案。随意免费下载！
+	UNIQUEID=0B8925A2298B8E48BD956C853B91F40B
+
+#URL
+	ID=500
+	NAME=社区 - CuCn201配音组官方网站 - 天朝下面最给力的草根声优组合思密达!
+	URL=http://www.cucn201.com/bbs/forum.php
+	CREATED=1303971168
+	VISITED=1331706938
+	DESCRIPTION= 社区 Discuz! Board
+	UNIQUEID=8AB4BCC0715E11E086A4A254CF72D25D
+
+#URL
+	ID=501
+	NAME=openSUSE Game Store
+	URL=http://gamestore.gk2.sk/
+	CREATED=1305102462
+	UNIQUEID=8A1578A07BA811E08694B576289D29DC
+
+#URL
+	ID=502
+	NAME=Free Downloads Encyclopedia - Softpedia
+	URL=http://www.softpedia.com/
+	CREATED=1305103319
+	VISITED=1320819369
+	DESCRIPTION=A library of over 500,000 free and free-to-try software programs for Windows, Unix/Linux, Mac, Mobile Phones, Games and Drivers and an up-to-date news and reviews section focused on IT subjects
+	UNIQUEID=88D71A507BAA11E0869683346908166D
+
+#URL
+	ID=503
+	NAME=SHOW100.cn - 个性签名 / 最热个性签名
+	URL=http://www.show100.cn/
+	CREATED=1314974645
+	VISITED=1341629970
+	UNIQUEID=6F7034084B3E51458FB50A02DD8D49B8
+
+#URL
+	ID=504
+	NAME=历史上的今天 :: 首页
+	URL=http://www.todayx.org/
+	CREATED=1328148854
+	DESCRIPTION=回顾历史的今天,历史就像生活的一面镜子;以史为鉴，可以知兴衰;以史为镜,可以知兴替;历史上的每一天，都是喜忧参半;可以了解历史的这一天发生的事件;借古可以鉴今;历史是不能忘记的.要记住历史的每一天
+	UNIQUEID=9CB1790BF6289646B0E3E49ECB82C875
+
+#URL
+	ID=505
+	NAME=多米音乐-多米音乐播放器官方下载_多米音乐盒下载_安卓音乐播放器下载
+	URL=http://www.duomi.com/
+	CREATED=1330100644
+	VISITED=1330100662
+	DESCRIPTION=多米音乐播放器免费提供最高质量的音乐享受，PC端聚合百万高清MV，提供高质量无损mp3下载，手机端和PC无缝同步，功能强大，资源丰富，支持安卓，塞班，JAVA，IPONE各种机型，是最好用的PC和手机音乐播放器。
+	UNIQUEID=F1100305BA0002439C6BB48AC33D869F
+
+#URL
+	ID=506
+	NAME=豆瓣
+	URL=http://www.douban.com/
+	CREATED=1331187955
+	VISITED=1351520717
+	DESCRIPTION=提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+	UNIQUEID=5ADD5D140934204A96958864AC1F8397
+
+-
+
+#URL
+	ID=507
+	NAME=Struts2教程7：上传任意多个文件(1) - 51CTO.COM
+	URL=http://developer.51cto.com/art/200902/108297.htm
+	CREATED=1300370278
+	VISITED=1322133402
+	DESCRIPTION=Struts是Apache基金会Jakarta项目组的一个Open Source项目，它采用MVC模式，能够很好地帮助Java开发者利用J2EE开发Web应用。和其他的Java架构一样，Struts也是面向对象设计，将MVC模式
+	UNIQUEID=3881C419EACBCD4582E576188BCEBAFB
+
+#URL
+	ID=508
+	NAME=专题：深入学习CSS网站布局之道_51CTO.COM - 技术成就梦想 - 中国领先的IT技术网站
+	URL=http://developer.51cto.com/art/201005/202059.htm
+	CREATED=1302092562
+	DESCRIPTION=CSS是用于网站呈现的现代标准，其技术的核心是布局，CSS的强大生命力也在于它的布局能力，本专题将从CSS最基础知识起步，全面系统的探索CSS核心功能，全面弥补读者在CSS知识中的欠缺，帮助你加快学习CSS的进程。
+	UNIQUEID=C13F473A9E47B1428CB0C6A368D6B2BC
+
+#FOLDER
+	ID=509
+	NAME=招聘网站
+	CREATED=1352090166
+	UNIQUEID=9791E682675A2B41872DE26BE283F6F3
+
+#URL
+	ID=510
+	NAME=大街网_职业人脉从大街开始！ - 王鹏
+	URL=http://www.dajie.com/home
+	CREATED=1305873770
+	VISITED=1341497074
+	UNIQUEID=08D48C10EAB0C940B6AA2B80FAECE91A
+
+#URL
+	ID=511
+	NAME=应届生求职网_校园招聘_YingJieSheng.COM_中国大学生求职第一网站
+	URL=http://www.yingjiesheng.com/
+	CREATED=1305017350
+	VISITED=1331277932
+	DESCRIPTION=应届生求职网yingjiesheng.com(中国大学生求职第一网站)提供最新、最全、最准确的应届大学毕业生校园招聘信息，兼职实习信息以及校园宣讲会和校园招聘会信息，覆盖上海北京广州深圳武汉南京天津成都等地区。
+	UNIQUEID=5FBA7E507AE211E08C30EBF10116E12C
+
+#URL
+	ID=512
+	NAME=招聘，找工作求职，上前程无忧
+	URL=http://www.51job.com/
+	CREATED=1297042667
+	VISITED=1346669688
+	DESCRIPTION=前程无忧为个人提供最全最新最准确的企业职位招聘信息，为企业提供人才招聘、猎头、培训、测评和人事外包在内的全方位的人力资源服务，帮助个人求职者与企业搭建最佳的人才招募和人才培养渠道。
+	UNIQUEID=4A28BB5E70F4614A93D9CFABF1F559CB
+
+#URL
+	ID=513
+	NAME=找工作 人才招聘｜中华英才网 Chinahr.com
+	URL=http://www.chinahr.com/index.htm
+	CREATED=1297042674
+	VISITED=1331302689
+	DESCRIPTION=中华英才网chinahr.com为全国人才提供最新的工作机会，搜索职位、投简历、求职指导、职业测评、猎头服务、校园招聘等求职服务，帮求职者找到知名企业和高薪工作。为招聘企业提供职位发布,高级人才的简历搜索,校园招聘,招聘外包代理,教育培训,猎头等服务。
+	UNIQUEID=01EA72C014F09E48BA1D90DE644633CA
+
+#URL
+	ID=514
+	NAME=招聘 求职 找工作其实很简单 | Simply Hired 中国
+	URL=http://www.simplyhired.cn/
+	CREATED=1320390038
+	VISITED=1330792767
+	DESCRIPTION=全球最大的招聘信息搜索引擎“Simply Hired中国”, 为所有求职者提供最全，最新，最准确，最快速的招聘，求职，工作信息。
+	UNIQUEID=9B303884E15D8041BB58E8B5A1E960F3
+
+#URL
+	ID=515
+	NAME=::::北京市工商局::::
+	URL=http://www.hd315.gov.cn/
+	CREATED=1330657913
+	VISITED=1355630027
+	UNIQUEID=078F3E171904D544B7C947D628B49EFB
+
+-
+
+#FOLDER
+	ID=516
+	NAME=Java
+	CREATED=1352090166
+	UNIQUEID=0FE8A4CDBF33C94F9BD5859222B226B1
+
+#URL
+	ID=517
+	NAME=中文JAVA技术网
+	URL=http://www.cn-java.com/www1/
+	CREATED=1294295061
+	DESCRIPTION=中文JAVA技术网 推广和普及Java技术，为国内众多的Java爱好者提供一个“平等自由协作创造”的开放式交流环境，提供Java专题文章、java论坛、资源下载、博客和开源项目等栏目。
+	UNIQUEID=5BDAABEA1DEE5C42873E69D3F8327A8F
+
+#URL
+	ID=518
+	NAME=IBM developerWorks 中国 : IBM's resource for developers and IT professionals
+	URL=http://www.ibm.com/developerworks/cn/
+	CREATED=1299487515
+	VISITED=1346675210
+	DESCRIPTION=IBM developerWorks 专注于 IBM 软件产品技术的普及，如介绍 Rational, WebSphere, DB2, Lotus, Power Architecture, e-Server 等产品技术；同时还致力于推广开放的、跨平台的标准和技术，比如 Java, XML, 网格计算, Linux, 开放源代码项目, 面向方面的体系结构 (SOA) 和 Web 服务等技术。对于开发人员来说，developerWorks (dW) 是一个庞大且日益增长的内容和资源的集合，它提供了大量的文章、示例代码、教程、how-to、工具、新闻、案例分析、讨论论坛 – 实际上就是帮助开发人员完成其工作所需要的任何内容。
+	UNIQUEID=FFD7B51F7ED69C429749450AC8A9A56A
+
+#URL
+	ID=519
+	NAME=J道:解惑授道-国际软件架构前沿
+	URL=http://www.jdon.com/?
+	CREATED=1303041878
+	VISITED=1322717865
+	DESCRIPTION=有关系统分析建模、设计模式、Java架构等研讨和培训咨询
+	UNIQUEID=DE53935068EA11E08DE3A05412CD1D10
+
+#URL
+	ID=520
+	NAME=酷壳 – CoolShell.cn
+	URL=http://coolshell.cn/
+	CREATED=1303106341
+	VISITED=1351520468
+	DESCRIPTION=享受编程和技术所带来的快乐 – http://coolshell.cn
+	UNIQUEID=F59AAD00698011E08EAE9A76D8D4A1AE
+
+#URL
+	ID=521
+	NAME=MBA智库百科，全球最大的中文经管百科
+	URL=http://wiki.mbalib.com/wiki/首页
+	CREATED=1307628750
+	VISITED=1343830071
+	DESCRIPTION=MBA智库百科，专注于经济管理领域知识的创建与分享。包括企业管理、市场营销、管理咨询、人力资源、战略管理、MBA案例、财务会计、广告、品牌、经济、金融、法律、博弈论、证券、股票以及公司企业、商学院、经管人物等介绍。
+	UNIQUEID=5CE2CA8F2BEC9F4B819702FFBA5A5E2D
+
+#URL
+	ID=522
+	NAME=Cloud Application Platform for Spring – Java | SpringSource
+	URL=http://www.springsource.com/
+	CREATED=1323998704
+	VISITED=1323998762
+	UNIQUEID=E37BABF6ED5B8D4A937D5E2FC0786C99
+
+#URL
+	ID=523
+	NAME=Welcome
+	URL=http://struts.apache.org/index.html
+	CREATED=1323998725
+	UNIQUEID=DAC33D4262F2EB4D82FA125B4B0EBAE7
+
+#URL
+	ID=524
+	NAME=架构研究室
+	URL=http://hiadmin.com/
+	CREATED=1323999638
+	VISITED=1330071903
+	UNIQUEID=D0B4778D7A384840A611DAAB6B1D32F1
+
+#URL
+	ID=525
+	NAME=BlogJava - 专注于Java技术
+	URL=http://www.blogjava.net/
+	CREATED=1323999764
+	VISITED=1350993565
+	UNIQUEID=C4B09606152CC7419B7A74F55E88694D
+
+#URL
+	ID=526
+	NAME=赵磊的博客 - ITeye技术网站
+	URL=http://elf8848.iteye.com/
+	CREATED=1324000446
+	VISITED=1324000555
+	DESCRIPTION=大家认识一下,交个朋友
+	UNIQUEID=726A7ACEF4A5BF4CB53269545734DF83
+
+#URL
+	ID=527
+	NAME=comp.lang.java FAQ
+	URL=http://www.cafeaulait.org/javafaq
+	CREATED=1324267652
+	DESCRIPTION=The Java FAQ-- Frequently Asked Questions about Java, answered by Elliotte Rusty Harold at metalab.unc.edu.This page may only be mirrored with explicit, prior permission and only atother sunsites. If the URL doesn't say sunsite, this is an illegal copy.
+	UNIQUEID=9A2F276C2CD15049B73B6EB61887910F
+
+#URL
+	ID=528
+	NAME=Java编程 - Stephen_Liu - 博客园
+	URL=http://www.cnblogs.com/stephen-liu74/category/310367.html
+	CREATED=1328230989
+	UNIQUEID=38264E869BE45F4999F3A943B94FCE86
+
+#URL
+	ID=529
+	NAME=Java开源大全
+	URL=http://open-open.com/
+	CREATED=1328607547
+	DESCRIPTION=Java开源大全(www.open-open.com)收录最全，最新的Java开源软件，发布最新IT资讯，提供开发文档、技术经验在线分享平台。为中国的开源事业添砖加瓦！
+	UNIQUEID=61CD1E0C0F09F643850EF9CF636F038E
+
+#URL
+	ID=530
+	NAME=Java开源Eclipse插件分类列表
+	URL=http://open-open.com/04.htm
+	CREATED=1328607566
+	DESCRIPTION=Java开源Eclipse插件分类列表
+	UNIQUEID=785840C71757A94EADC228F79367B456
+
+#URL
+	ID=531
+	NAME=Welcome to The Apache Software Foundation!
+	URL=http://apache.org/
+	CREATED=1329209195
+	VISITED=1329209207
+	UNIQUEID=6EE3B0A61BA98F49820BD494DC6C0924
+
+#URL
+	ID=532
+	NAME=pinyin4j, a Java library converting Chinese to pinyin
+	URL=http://pinyin4j.sourceforge.net/
+	CREATED=1333267313
+	VISITED=1333267318
+	UNIQUEID=5C3F14DA989FFD4F88A960E93F9D004E
+
+#URL
+	ID=533
+	NAME=一线码农 - 博客园
+	URL=http://www.cnblogs.com/huangxincheng/
+	CREATED=1354772554
+	UNIQUEID=E59E0B9E10B81046A640E6916E060919
+
+-
+
+#FOLDER
+	ID=534
+	NAME=Windchill
+	CREATED=1352090166
+	UNIQUEID=66D662C7C87F8546AA7788A000591027
+
+#URL
+	ID=535
+	NAME=关于 Windchill 商用软件频道 | Windchill 专区_商用软件大全-硅谷动力网站
+	URL=http://www.enet.com.cn/esoftware/atlist0_Windchill.html
+	CREATED=1306904134
+	DESCRIPTION=eNet硅谷动力商用软件频道是中国权威的商用软件资讯及选型中心，提供企业管理软件、数据库、操作系统、协同办公、ERP、CRM、eHR、PLM、CAD、IM、浏览器等商用软件的资讯、应用技巧等内容。为商用软件的应用选型人员及个人软件的关注人员提供信息共享平台。
+	UNIQUEID=64511B0AAF2BDB4881D240955242AEEF
+
+#URL
+	ID=536
+	NAME=湃睿技术社区 - powered by bmforum.com
+	URL=http://www.pisx.com/bbs/index.php
+	CREATED=1312790501
+	VISITED=1319698523
+	UNIQUEID=ACBDED5AE70E5D42AE0B5CFA88A97691
+
+#URL
+	ID=537
+	NAME=PLM论坛 - PLMTOP技术网 ||专注PLM技术，专注企业技术信息化，中国最专业的PLM技术社区 针对PLM从业人员的媒体信息传播与服务平台！
+	URL=http://www.plmtop.com/forum.php
+	CREATED=1312791334
+	DESCRIPTION=专注PLM技术，专注企业技术信息化，中国最专业的PLM技术社区 针对PLM从业人员的媒体信息传播与服务平台！
+	UNIQUEID=F5419B1831DAAC4C863A7CAB815FA06E
+
+-
+
+#FOLDER
+	ID=538
+	NAME=Shell
+	CREATED=1352090166
+	UNIQUEID=F1A731515DCC5846BC21F8D8545E359A
+
+#URL
+	ID=539
+	NAME=Using MS-Dos7 Commands
+	URL=http://users.telenor.dk/~dsl645578/msdos7/
+	CREATED=1334936850
+	DESCRIPTION=Syntax and use of the commands available with the Windows95 version of MS Dos.
+	UNIQUEID=3A69EE183550F341BA46EA38A345B76F
+
+-
+
+#FOLDER
+	ID=540
+	NAME=Hack技术
+	CREATED=1352090166
+	UNIQUEID=DAEBC7ED781C104BACABEB2ECF5AD99D
+
+#URL
+	ID=541
+	NAME=獨特技术论坛 黑客论坛|黑客网站|獨特技术|黑客技术|刷钻|网络技术
+	URL=http://www.dute365.com/
+	CREATED=1294492723
+	VISITED=1335960800
+	DESCRIPTION= 獨特技术论坛 这儿将是你在网络生涯前进的最终出路！ - Discuz! Board
+	UNIQUEID=A341823A89E7AE4A9BCA37D04836BAB5
+
+#URL
+	ID=542
+	NAME=反病毒黑客论坛_狂人影子论坛
+	URL=http://bbs.krshadow.com/
+	CREATED=1300437519
+	VISITED=1328448293
+	DESCRIPTION= 狂人影子论坛 致力于打造成中国最大的免费反病毒论坛,永久性免费提供反病毒黑客技术,电脑网络技术,学习自由交流平台!  - 狂人影子唯一域名：Krshadow.com
+	UNIQUEID=2D35DC4832E637479D2381ABD3DA5269
+
+#URL
+	ID=543
+	NAME=黑基论坛 - 专业网络安全与软件技术社区
+	URL=http://bbs.hackbase.com/index.php
+	CREATED=1300436398
+	VISITED=1328448314
+	DESCRIPTION= 黑基论坛 黑基论坛 -  中国领先的网络安全与软件技术社区 - Discuz! Board
+	UNIQUEID=D89C14566CEA244384DB1F7D46203E38
+
+#URL
+	ID=544
+	NAME=安全学习网(原黑客学习基地论坛)提供黑客软件,黑客动画,黑客文章,营造网络安全技术交流论坛 - Powered by phpwind
+	URL=http://www.hack95.com/
+	CREATED=1328530868
+	VISITED=1328530886
+	DESCRIPTION=黑客学习基地作为国内一流黑客论坛,免费提供黑客软件、黑客视频、IT培训等信息服务-hack95
+	UNIQUEID=3F83E8053C132F408B483ABFAF5EA588
+
+#URL
+	ID=545
+	NAME=黑客网_黑客基地-黑旗安全网·专业提供黑客业务,黑客软件,黑客教程,黑客刷钻
+	URL=http://www.hackwd.com/
+	CREATED=1328530920
+	DESCRIPTION=黑客网_黑客学习基地以黑客,黑客网站,黑客软件,灰鸽子,灰鸽子下载,灰鸽子免杀,黑客技术,黑客教程,qq黑客,qq黑客基地,黑客盗号,刷钻软件,刷钻教程的黑客学习基地
+	UNIQUEID=DD1CD29B27691142A6974B9FE036AC16
+
+#URL
+	ID=546
+	NAME=安全精英网(www.hack29.com) - 黑客学习基地|黑客网站|黑客网|黑客基地|手机刷钻|刷钻代码|刷钻教程|怎么刷钻|刷钻方法|刷钻软件免费版2011|
+	URL=http://www.hack29.com/
+	CREATED=1328530995
+	DESCRIPTION=安全精英网以黑客，黑客基地，黑客学习基地，黑客网站，黑客技术，黑客论坛，黑客网，手机刷钻，刷钻代码，怎么刷钻，刷钻软件免费版2011，qq刷钻，刷钻教程，qq刷钻软件免费版，手机刷钻代码，qq刷钻代码，给我一个身份证号码带名字，居民身份证号码大全，身份证生成器，身份证查询系统，防沉迷身份证号码，身份证查询，身份证号码和真实姓名，居民身份证号码，成人身份证,为主的资源下载站
+	UNIQUEID=A1563C4EDC11674EA83F004C7C2E39DE
+
+#URL
+	ID=547
+	NAME=华夏联盟 - 中国网络安全门户网站 - 为互联网安全导航！
+	URL=http://www.hx95.com/
+	CREATED=1328531955
+	DESCRIPTION=华夏联盟是国内人气最火爆的网络安全门户网站,是最优秀的电脑技术交流站点.致力于网络安全技术研究和普及,为广大网络技术爱好者提供最新技术文章、实用软件、学习教程等服务
+	UNIQUEID=8E97A25663E39546B31958A1D26DDE02
+
+#URL
+	ID=548
+	NAME=暗组技术论坛 - 集思广益 群策群力
+	URL=http://forum.cnsec.org/
+	CREATED=1328531979
+	VISITED=1334236919
+	DESCRIPTION=暗安全技术小组(暗组)是来自民间的安全技术讨论小组 ,暗安全(暗组)
+	UNIQUEID=42FBC9CC1F7C5B49B83F0C47F3BDEA1C
+
+#URL
+	ID=549
+	NAME=剑盟反病毒社区2DAI.COM JANMENG.COM 剑盟社区|janmeng.com - 国内著名的反病毒技术专业讨论社区
+	URL=http://bbs.janmeng.com/
+	CREATED=1328532603
+	VISITED=1328532618
+	DESCRIPTION= 剑盟反病毒社区2DAI.COM JANMENG.COM 国内安全社区 -剑盟社区JANMENG.COM  - 剑盟中国专致于提供各种病毒解决方案和最新病毒资讯,是国内著名的反计算机病毒技术网站
+	UNIQUEID=2B4FCD6A0980154EBD73C5585A402AC6
+
+#URL
+	ID=550
+	NAME=红黑联盟论坛：成就你的IT精英梦想；营造技术爱好者家园氛围
+	URL=http://bbs.2cto.com/
+	CREATED=1329217999
+	VISITED=1333332287
+	DESCRIPTION=作为最早的网络安全门户论坛之一，九年来我们一直致力于为技术爱好者提供最好交流和学习平台，内容含反黑客,网络安全,编程,软件开发,网站建设等内容！氛围融洽,适合新手到高手一起入驻
+	UNIQUEID=F1F814FE927C2A4F912F4E3B44EBA7AF
+
+#URL
+	ID=551
+	NAME=AoGo汇编小站 搜索关键字aogo/masm/masmplus/asm/win32asm/汇编论坛
+	URL=http://www.aogosoft.com/
+	CREATED=1329284623
+	VISITED=1332563531
+	DESCRIPTION=AoGo汇编小站
+	UNIQUEID=66997E6E9B56E04E8AE71161A90C8CC5
+
+#URL
+	ID=552
+	NAME=看雪安全论坛 - www.pediy.com
+	URL=http://bbs.pediy.com/
+	CREATED=1329284745
+	VISITED=1354628917
+	DESCRIPTION=安全,软件安全,WEB安全,加密,解密,加壳,脱壳,加密壳,软件保护,破解,debug,pack,unpack
+	UNIQUEID=B9706347137CE24D95B0EB10A5F7C594
+
+#URL
+	ID=553
+	NAME=Czy_Invicta_新浪博客
+	URL=http://blog.sina.com.cn/streethacker
+	CREATED=1329660885
+	DESCRIPTION=Czy_Invicta_新浪博客,Czy_Invicta,UNDERGROUND EXPLORATION 2011,SSL劫持攻击,时间和状态：利用漏洞改变游戏角色状态,GRE数据包注入攻击,分析DLL劫持攻击,挑战问题 - 有趣的经验综合挑战,SPIKE与Peach Fuzzer相关知识,传递哈希入侵技术,如何打开一个置换锁,自动化操控虚拟战争,入侵本地Mac OS X方针与技巧
+	UNIQUEID=29CFF6AF94B4CE4F9E5007EFD6D857FC
+
+#URL
+	ID=554
+	NAME=无花果-编程驿站(1999-2012)远程控制,黑客,木马,UDP可靠传输,网络过滤,VTCP,SOCKMON.....
+	URL=http://www.cnasm.com/view.asp?classid=50
+	CREATED=1332563582
+	UNIQUEID=60DE41A1D130514F87AD783EE41BF7E1
+
+#URL
+	ID=555
+	NAME=老罗的缤纷天地
+	URL=http://www.luocong.com/
+	CREATED=1332564800
+	VISITED=1333353127
+	UNIQUEID=972D0759DEC052479055E04C74718A95
+
+#URL
+	ID=556
+	NAME=Shell2Me小组论坛 Web安全、软件破解、软件开发、网站渗透、远程控制、教程动画、漏洞利用、提权方法、免杀技术、免杀动画、电子书籍、程序代码 -
+	URL=http://www.shell2me.com/
+	CREATED=1334237005
+	VISITED=1335960772
+	DESCRIPTION=Array
+	UNIQUEID=489AA6726BE5264385817BAEB6C64D66
+
+-
+
+#FOLDER
+	ID=52
+	NAME=Dell
+	CREATED=1356916011
+	ACTIVE=YES
+	UNIQUEID=D0EED84D01C9694E8E7E56930F72B152
+
+#URL
+	ID=53
+	NAME=Support.Dell.Com
+	URL=http://supportapj.dell.com/support/index.aspx?c=cn&l=zh&s=gen
+	CREATED=1356788280
+	UNIQUEID=541BD80361E28F498E25812DA1A5C501
+
+#URL
+	ID=54
+	NAME=Dell
+	URL=http://www1.ap.dell.com/content/default.aspx?c=cn&l=zh&s=gen
+	CREATED=1356788280
+	UNIQUEID=DD6C084E9EB2FB44B7EF52697763AD8D
+
+-
+
+#FOLDER
+	ID=56
+	NAME=OpenStack
+	CREATED=1342667853
+	UNIQUEID=C263336378E347408745082AC04C1DCD
+
+#URL
+	ID=57
+	NAME=车库开源技术小组简介 – 车库开源技术小组
+	URL=http://www.chekuopensource.org/?p=7
+	CREATED=1343377722
+	VISITED=1350624093
+	UNIQUEID=54D78A3EB06FCC49B431E34EB7E40E88
+
+#URL
+	ID=58
+	NAME=OpenStack架构预览
+	URL=http://www.javachen.com/2011/07/openstack-architecture-overview/
+	CREATED=1329118404
+	VISITED=1333634556
+	DESCRIPTION=What is OpenStack?OpenStack提供开放源码软件，建立公共和私有云。 OpenStack是一个社区和一个项目，以及开放源码软件，以帮助企业运行的虚拟计算或者存储云。 OpenStackd开源项目由社区维护，包括OpenStack计算（代号为Nova），OpenStack对象存储（代号为SWIFT），并OpenStack镜像服务（代号Glance）的集合。 OpenStack提供了一个操作平台
+	UNIQUEID=58362D6D4D7D1144A1BA9F23623DCE29
+
+#URL
+	ID=59
+	NAME=TryStack: A Free Way To Try OpenStack With Your Apps
+	URL=https://trystack.org/
+	CREATED=1331442148
+	VISITED=1337674281
+	UNIQUEID=9CAEC640E7882F49B78C530B23F51AFD
+
+-
+
+#FOLDER
+	ID=60
+	NAME=Python
+	CREATED=1342667853
+	UNIQUEID=6662FFE788ADBF4FA722CE6086621547
+
+#URL
+	ID=61
+	NAME=简明 Python 教程
+	URL=http://woodpecker.org.cn/abyteofpython_cn/chinese/
+	CREATED=1327976225
+	VISITED=1331308913
+	UNIQUEID=6204EB62CD142C4E8DE80575CAD99A74
+
+#URL
+	ID=62
+	NAME=FrontPage - PythonInfo Wiki
+	URL=http://wiki.python.org/moin/
+	CREATED=1327976238
+	UNIQUEID=2CAEBC8CCD8CA54CB44CDED4886F1A4D
+
+#URL
+	ID=63
+	NAME=首页 - Woodpecker Wiki for CPUG
+	URL=http://wiki.woodpecker.org.cn/moin/
+	CREATED=1327976308
+	VISITED=1356427098
+	UNIQUEID=47D10F2DA22DEC4BA13606CC9636CBB9
+
+#URL
+	ID=64
+	NAME=python-cn(华蟒用户组,CPyUG 邮件列表) | Google 网上论坛
+	URL=http://groups.google.com/group/python-cn?hl=zh-CN
+	CREATED=1328364822
+	VISITED=1345520490
+	UNIQUEID=C2D63222EB00F9429A5A419924EAE2B5
+
+#URL
+	ID=65
+	NAME=Planet of Woodpecker.org.cn for CPUG
+	URL=http://woodpecker.org.cn/planet/
+	CREATED=1328365067
+	VISITED=1352345193
+	UNIQUEID=D81A2507B680BA49BFA1249FF5DB9F85
+
+#URL
+	ID=66
+	NAME=python官方论坛 django,python教程,python视频,案例,源代码下载,学习手册,手机s60高级编程,IDLE GUI
+	URL=http://www.itlong.com/
+	CREATED=1330396691
+	DESCRIPTION= python官方论坛 Python官方论坛是国内python人气最高的技术社区，分享python大牛的学习过程，心得，案例，python项目源代码,python开发环境,python手机编程，是新手入快速手门的必选网站，是高手交流切磋python技巧,项目经验经必选社区.Python 具有脚本语言中最丰富和强大的类库，足以支持绝大多数日常应用。它的名字来源于一个喜剧,也许最初设计Python这种语言的人并没有想到今天Python会在工业和科研上获得如此广泛的使用。著名的自由软件作者Eric Raymond在他的文章《如何成为一名黑客》中，将Python列为黑客应当学习的四种编程语言之一，并建议人们从Python开始学习编程。这的确是一个中肯的建议，对于那些从来没有学习过编程或者并非计算机专业的编程学习者而言，Python是最好的选择之一。
+	UNIQUEID=5BE4943F800B88428D54C4E5E2F4CD0D
+
+#URL
+	ID=67
+	NAME=The Python Standard Library — Python v2.7.2 documentation
+	URL=http://docs.python.org/library/index.html
+	CREATED=1330398859
+	UNIQUEID=7C4DF1DFA4193F468FD8F6734D46C072
+
+#URL
+	ID=68
+	NAME=Django | The Web framework for perfectionists with deadlines
+	URL=https://www.djangoproject.com/
+	CREATED=1330398939
+	VISITED=1344331974
+	DESCRIPTION=Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+	UNIQUEID=543DBF941410ED40A843775FE6302D94
+
+#URL
+	ID=69
+	NAME=Pygame 教程：《用 Python 和 Pygame 写游戏 - 从入门到精通》 - 游戏开发 - python.cn(news, jobs)
+	URL=http://simple-is-better.com/news/361
+	CREATED=1330480303
+	UNIQUEID=C4CA944FEBBCF740A3B213F191B0D04E
+
+#URL
+	ID=70
+	NAME=用Python和Pygame写游戏-从入门到精通（目录） | eyeHere
+	URL=http://eyehere.net/2011/python-pygame-novice-professional-index/
+	CREATED=1330480486
+	VISITED=1355054704
+	UNIQUEID=FD5FBE163EF23944B7818D0E206020DF
+
+#URL
+	ID=71
+	NAME=wxPython
+	URL=http://wxpython.org/
+	CREATED=1331097533
+	VISITED=1347031167
+	UNIQUEID=B0620BCB997618429C315680289A6873
+
+#URL
+	ID=72
+	NAME=Think PY | Python | Think In Python
+	URL=http://thinkpy.com/
+	CREATED=1331187819
+	VISITED=1337562332
+	UNIQUEID=0FA2C6B69B43E9499EC61F9225C1486A
+
+#URL
+	ID=73
+	NAME=Download — IPython
+	URL=http://ipython.org/download.html
+	CREATED=1331648548
+	UNIQUEID=3C94BB677613474E8487C026C603AE72
+
+#URL
+	ID=74
+	NAME=python.cn(news, jobs)
+	URL=http://simple-is-better.com/
+	CREATED=1333632000
+	VISITED=1352380796
+	UNIQUEID=8A275A8722860044AEC337F0904EE408
+
+#URL
+	ID=75
+	NAME=The Go Programming Language
+	URL=http://golang.org/
+	CREATED=1334821544
+	VISITED=1334821588
+	UNIQUEID=FE1A331E0ABF894EB70013D954964BD4
+
+#URL
+	ID=76
+	NAME=Code codex
+	URL=http://www.codecodex.com/wiki/Main_Page
+	CREATED=1335937635
+	VISITED=1335937877
+	UNIQUEID=7C66630A55D8F445934BA32E8394660A
+
+#URL
+	ID=77
+	NAME=Python - iTech - 博客园
+	URL=http://www.cnblogs.com/itech/category/170012.html
+	CREATED=1338963426
+	VISITED=1346737516
+	UNIQUEID=9F3850B884D6684F8C8BBB7C09EEAEFA
+
+#URL
+	ID=78
+	NAME=沈崴的 Python 博客 - 博客频道 - CSDN.NET
+	URL=http://blog.csdn.net/eishn/
+	CREATED=1340608816
+	VISITED=1340608831
+	UNIQUEID=32CEEF7985E20B4B937346CB61D25F33
+
+#URL
+	ID=79
+	NAME=Apache Lucene - Welcome to PyLucene
+	URL=http://lucene.apache.org/pylucene/
+	CREATED=1340696430
+	VISITED=1345015018
+	UNIQUEID=F4D16D7C83A3DB4B89C7CB003D75016D
+
+#URL
+	ID=80
+	NAME=Python 基础
+	URL=http://blog.whiledo.com/archives/category/python/python-基础
+	CREATED=1344492256
+	UNIQUEID=488CC38869BCE2488597E1F59BAEA75F
+
+#URL
+	ID=81
+	NAME=DarkBull's Blog -- 记录成长中的点点滴滴，分享生活中的喜怒哀乐
+	URL=http://darkbull.net/python/
+	CREATED=1344580504
+	DESCRIPTION=darkbull's blog 记录成长中的点点滴滴，分享生活中的喜怒哀乐
+	UNIQUEID=A2BDCC206EFB9541946ECABF1484EFEB
+
+#URL
+	ID=82
+	NAME=http://www.icodeit.org/
+	URL=http://www.icodeit.org/
+	CREATED=1345519685
+	VISITED=1345519696
+	UNIQUEID=007CD6B32227AA4CB1C89614C493F900
+
+#URL
+	ID=83
+	NAME=首页 - OpenCV China ：图像处理,计算机视觉库,Image Processing, Computer Vision
+	URL=http://www.opencv.org.cn/index.php/首页
+	CREATED=1345520319
+	UNIQUEID=C8FB164476455A459A3745EDBD537931
+
+#URL
+	ID=84
+	NAME=Python Scholars - 人人小站
+	URL=http://zhan.renren.com/pythoners?tagId=113827&from=template&checked=true
+	CREATED=1346218592
+	VISITED=1346218646
+	DESCRIPTION=Python简单易学 易于开发 配合django框架 wxpython 擦出不一样的火花 - 人人小站
+	UNIQUEID=24A669A6CEAEA841AF34DD3BC663A006
+
+#URL
+	ID=85
+	NAME=阮一峰的网络日志 ： 全部文章（按分类查看）
+	URL=http://www.ruanyifeng.com/blog/archives.html
+	CREATED=1347414078
+	VISITED=1347416046
+	UNIQUEID=4D845BA207EB3F48AFFEA55B69E90D8E
+
+#URL
+	ID=86
+	NAME=DjangoResources – Django
+	URL=https://code.djangoproject.com/wiki/DjangoResources
+	CREATED=1347938842
+	UNIQUEID=C9B2FE2FDFEADF459B39094817403E1B
+
+#URL
+	ID=87
+	NAME=Nginx开发从入门到精通 — Nginx开发从入门到精通
+	URL=http://tengine.taobao.org/book/index.html
+	CREATED=1348565013
+	UNIQUEID=75EA83340FC7854F851CAAEB39172AB1
+
+#URL
+	ID=88
+	NAME=cacique - 博客园
+	URL=http://www.cnblogs.com/cacique/
+	CREATED=1350548410
+	VISITED=1350868000
+	UNIQUEID=C6EA1AA1C22DA94E9FB38CAD79F7E543
+
+#URL
+	ID=89
+	NAME=python教程-1老王python
+	URL=http://www.cnpythoner.com/catalog.asp?cate=1
+	CREATED=1351475886
+	UNIQUEID=2FC1245BD9BFD74FA3F97C678D646417
+
+#URL
+	ID=90
+	NAME=包子 - hi
+	URL=http://www.baozi.in/
+	CREATED=1351477314
+	UNIQUEID=B117E4E23DA2C444930A0CC434E03A40
+
+#URL
+	ID=91
+	NAME=第一章：介紹Django
+	URL=http://djangobook.py3k.cn/2.0/chapter01/
+	CREATED=1351573953
+	VISITED=1351733504
+	UNIQUEID=3B7DAB25E2BA7846AB6D651F84C88F40
+
+#URL
+	ID=92
+	NAME=Python Web Development with Django
+	URL=http://withdjango.com/
+	CREATED=1351518023
+	UNIQUEID=9D4C8E7E8E43A44DAA6922B4A6B5FC30
+
+#URL
+	ID=93
+	NAME=The Django Book
+	URL=http://djangobook.py3k.cn/2.0
+	CREATED=1352090351
+	UNIQUEID=EF84406F0AE29D44A5FFCF1B7027DA5D
+
+#URL
+	ID=94
+	NAME=Python Extension Packages for Windows - Christoph Gohlke
+	URL=http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
+	CREATED=1352102830
+	VISITED=1352103254
+	UNIQUEID=105005A2B0930141BEBAA526015F75E3
+
+#URL
+	ID=95
+	NAME=Web development blog - App Engine, NoSQL, client-side Python | All Buttons Pressed
+	URL=http://www.allbuttonspressed.com/
+	CREATED=1353908583
+	DESCRIPTION=Web development, App Engine, NoSQL, client-side Python
+	UNIQUEID=2BEEED68F622E44D9DFD732AAE14CFC3
+
+#URL
+	ID=96
+	NAME=The Mouse Vs. The Python
+	URL=http://www.blog.pythonlibrary.org/
+	CREATED=1355982051
+	UNIQUEID=90DD18997BB8BC4696B05FA429CDA393
+
+#URL
+	ID=97
+	NAME=PythonTab ：Python中文开发者社区门户.python|python教程|python开发
+	URL=http://www.pythontab.com/
+	CREATED=1356509998
+	DESCRIPTION=PythonTab致力于成为Python中文开发者学习交流平台,内容涵盖：python教程、python基础、puthon入门、python学习、python web、python中文手册
+	UNIQUEID=CF615B0983AAEB429D8CF8E379A2513C
+
+-
+
+#FOLDER
+	ID=98
+	NAME=英语学习
+	CREATED=1342667853
+	UNIQUEID=A970E7C58C352044B65CC8D999EBDB99
+
+#URL
+	ID=99
+	NAME=选课程 - baicizhan.com
+	URL=http://www.baicizhan.com/user/select_book
+	CREATED=1345616722
+	VISITED=1345616740
+	UNIQUEID=531A12C018CFB843A21842F2DBDC11F9
+
+-
+
