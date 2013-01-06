@@ -1,0 +1,7 @@
+exportbookmark.py is a file just generate bookmark files 
+and html2urllink can convert bookmark to lnk file
+
+environment:
+    windows 7 pro x64
+    python 2.7 x64
+    IDLE
