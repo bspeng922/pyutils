@@ -15,48 +15,72 @@ import time
 
 def convertfile(infile, outfile):
     
-    fread = open(infile, "rb")  #1.67    
-    instr = fread.read().encode('hex')  #1.72
+    fread = open(infile, "rb")  #1.67
+    findedstr = ""
+    
+    while 1:
+        strpart = fread.read(8192).encode('hex')
+
+        '''if at the end or less than 32 char'''
+        if strpart == "" or len(strpart) < 32 :
+            break
+
+        strposition = strpart.find("11111111222222223333333344444444")
+        if strposition <> -1:
+            '''if pos at end'''
+            remainstrlen = len(strpart)-strposition - 32
+            if remainstrlen < 64:
+                findedstr = strpart[strposition+32:] + fread.read((64-remainstrlen)/2).encode('hex')
+            else:
+                findedstr = strpart[strposition+32:strposition+64]
+                
+            break
+
+        '''current file point'''        
+        #currpoint = fread.tell()
+        #print currpoint
+        
+        '''get top32 char and end32 char'''
+        prepartendstr = strpart[-64:]
+
+        '''read next 64 char'''
+        nextpartstartstr = fread.read(64).encode('hex')
+        joinstr = prepartendstr + nextpartstartstr
+
+        strposition = joinstr.find("11111111222222223333333344444444")
+        if strposition <> -1:
+            remainstrlen = len()-strposition-32
+            if remainstrlen < 64:
+                findedstr = strpart[strposition+32:] + fread.read((64-remainstrlen)/2).encode('hex')
+            else:
+                findedstr = strpart[strposition+32:strposition+64]
+        
+            break
+
+        fread.seek(-64,1)
+        
     fread.close()    #2.67
+    print "String find: %s"%findedstr
 
-    '''find the strings position'''
-    placefind = kmp_matcher(instr, "11111111222222223333333344444444")
-    newstr = instr[placefind+32:placefind+64]
-    print "String find: %s"%newstr    #3 --> 2.67
-    
-    instr = instr[:32] + newstr + instr[64:]
-    instr = instr[:72] + "08" + instr[74:]      
-    
-    '''write to new file'''
+    '''reread and write to new file'''
+    reread = open(infile, "rb")
     fwrite = open(outfile, "wb")
-    fwrite.write(instr.decode('hex'))    #2.70
+    partcount = 1
+
+    while 1:
+        instr = reread.read(8192).encode('hex')
+        if instr == "" :
+            break
+        if partcount == 1:
+            instr = instr[:32] + findedstr + instr[64:]
+            instr = instr[:72] + "08" + instr[74:]
+
+        fwrite.write(instr.decode('hex'))
+        partcount += 1
+
     fwrite.close()
+    reread.close()    
 
-def compute_prefix_function(p):
-    m = len(p)
-    pi = [0] * m
-    k = 0
-    for q in xrange(1, m):
-        while k > 0 and p[k] != p[q]:
-            k = pi[k - 1]
-        if p[k] == p[q]:
-            k = k + 1
-        pi[q] = k
-    return pi
-
-def kmp_matcher(t, p):
-    n = len(t)
-    m = len(p)
-    pi = compute_prefix_function(p)
-    q = 0
-    for i in xrange(n):
-        while q > 0 and p[q] != t[i]:
-            q = pi[q - 1]
-        if p[q] == t[i]:
-            q = q + 1
-        if q == m:
-            return i - m + 1
-    return -1
 
 
 if __name__ == "__main__":
@@ -80,5 +104,7 @@ if __name__ == "__main__":
     print "Done ."    #2.70
     endtime = time.time()
     print "Time used: ",(endtime - starttime)," s"
+
+
 
 
