@@ -1,13 +1,20 @@
 '''
-Created on 2013-1-21
+Created on 2013-1-16
 
 @author: wang_peng
 '''
-import ConfigParser
+import ConfigParser, os
 
-inifile = "proxy.ini"
-cfg = ConfigParser.ConfigParser()
-cfg.read(inifile)
-
-print cfg.sections()
-print cfg.get(cfg.sections()[0], "host")
+def getNewProxy(flag):
+    proxyinifile = "proxy.ini"
+        
+    proxycfg = ConfigParser.ConfigParser()
+    proxycfg.read(proxyinifile)
+    
+    sections = proxycfg.sections()
+    print sections
+    if flag > len(sections) : flag %= len(sections)
+    
+    return proxycfg.get(sections[flag], "host"),proxycfg.get(sections[flag], "port"),proxycfg.get(sections[flag], "user"),proxycfg.get(sections[flag], "pass")
+    
+print getNewProxy(1)
