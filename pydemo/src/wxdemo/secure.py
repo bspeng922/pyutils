@@ -1,5 +1,6 @@
 import wx
 import random
+import time
 
 debug = True
 
@@ -15,19 +16,27 @@ class MyFrame(wx.Frame):
         self.label_random.SetForegroundColour("Red")
         self.label_random.SetFont(wx.Font(28,wx.DEFAULT,wx.NORMAL, wx.BOLD))
         
+        '''clock'''
+        self.label_timer = wx.StaticText(self.panel, -1, "", pos=(110, 130))
+        self.timer2 = wx.Timer(self)
+        self.Bind(wx.EVT_TIMER, self.OnTimeChange, self.timer2)
+        self.timer2.Start(1000)
+        
         
         '''set time out'''
         self.timer = wx.Timer(self)
         self.Bind(wx.EVT_TIMER, self.ontimeout, self.timer)
-        self.timer.Start(6000)
+        self.timer.Start(8000)
 
         self.label_validate = wx.StaticText(self.panel,-1, "Input Your Code",pos=(70, 200))
         self.label_validate.SetFont(wx.Font(12, wx.DEFAULT, wx.NORMAL, wx.BOLD))
         
-        self.txtctrl_validate = wx.TextCtrl(self.panel, -1, "", pos=(90, 240)) 
+        self.txtctrl_validate = wx.TextCtrl(self.panel, -1, "", pos=(90, 240))
+        #self.Bind(wx.EVT_CHAR, self.OnKeyInput) 
         
         self.btn_commit = wx.Button(self.panel, -1, "Validate", pos=(100,270))
         self.Bind(wx.EVT_BUTTON, self.OnBtnClick, self.btn_commit)
+        #self.btn_commit.Disable()
         
         self.Label_result = wx.StaticText(self.panel,-1, "",pos=(100, 330))
         self.Label_result.SetForegroundColour("Red")
@@ -53,6 +62,20 @@ class MyFrame(wx.Frame):
     def ontimeout(self, event):
         self.label_random.SetLabel(self.randcode())
         self.Refresh()
+        
+    def OnTimeChange(self, event):
+        t = time.localtime(time.time())
+        st = time.strftime("%I:%M:%S", t)
+        self.label_timer.SetLabel(st)
+        
+    def OnKeyInput(self, event):
+        self.btn_commit.Enable()
+        if debug: print "Input keys: ",int(event.GetKeyCode())
+        keycode = event.GetKeyCode()
+        if keycode<255:
+            if chr(keycode).isalnum():
+                event.skip()
+        
 
 
 if __name__ == "__main__":
