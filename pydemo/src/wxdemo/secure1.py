@@ -66,7 +66,7 @@ class ValidateFrame(wx.Frame):
         self.Bind(wx.EVT_BUTTON, self.OnNumBtnClick, self.button9)
         self.Bind(wx.EVT_BUTTON, self.OnNumBtnClick, self.button0)
         
-        self.Bind(wx.EVT_CHAR, self.KeyPress)
+        self.textctrl_password.Bind(wx.EVT_CHAR, self.KeyPress)
         
     
     def randcode(self):
@@ -80,12 +80,13 @@ class ValidateFrame(wx.Frame):
     def OnNumBtnClick(self, event):
         btnchar = event.GetEventObject().GetLabel()    #get label of button
         self.currentvalue = self.textctrl_password.GetValue()    #get data in password box
+        self.CheckData(btnchar)
         
-        
+    def CheckData(self, btnchar):
         #if len>6 then go next loop
         if len(self.currentvalue) == 0:
             self.starttime = datetime.datetime.now()
-            self.textctrl_password.SetValue(self.currentvalue + btnchar) 
+            self.textctrl_password.AppendText(btnchar) 
         elif len(self.currentvalue) >= 5:
             self.currentvalue += btnchar
             self.endtime = datetime.datetime.now()
@@ -115,7 +116,8 @@ class ValidateFrame(wx.Frame):
                 if msgbox.ShowModal() == wx.ID_OK:
                     self.Destroy()
         else:
-            self.textctrl_password.SetValue(self.currentvalue + btnchar)
+            self.textctrl_password.AppendText(btnchar)   
+       
     
     def DateDiffInSeconds(self, stime, etime):
         timedelta = etime - stime
@@ -130,7 +132,12 @@ class ValidateFrame(wx.Frame):
         
     def KeyPress(self, event):
         keycode = event.GetKeyCode()
-        print keycode
+        self.currentvalue = self.textctrl_password.GetValue()
+        
+        if 48<= keycode <= 57:
+            self.CheckData(chr(keycode))
+        else:
+            event.Skip()
 
 
 class LoginFrame(wx.Frame):
@@ -153,12 +160,14 @@ class LoginFrame(wx.Frame):
         #add login button and reset button
         self.button_login = wx.Button(self.panel, -1, "Login", pos=(50, 120))
         self.button_reset = wx.Button(self.panel, -1, "Reset", pos=(150, 120))
-        #self.button_login.Disable()    #if username is null, login button will disable
         
         #bind event
-        self.Bind(wx.EVT_CHAR, self.OnKeyPressed, self.textctrl_username)
         self.Bind(wx.EVT_BUTTON, self.OnLoginBtnClick, self.button_login)
         self.Bind(wx.EVT_BUTTON, self.OnResetBtnClick, self.button_reset)
+        
+        '''not used !'''
+        #self.button_login.Disable()    #if username is null, login button will disable
+        #self.textctrl_username.Bind(wx.EVT_KEY_DOWN, self.OnKeyPressed)
     
     #when login button clicked , this function execute
     def OnLoginBtnClick(self, event):
@@ -177,9 +186,12 @@ class LoginFrame(wx.Frame):
     
     #enable login button
     def OnKeyPressed(self, event):
-        if debug : print "Key pressed"
-        self.button_login.Enable()
-        self.Refresh()
+        #if debug : print "Key pressed"
+        keycode = event.GetKeyCode()
+        
+        if 32< keycode < 126:
+            self.button_login.Enable()
+            self.textctrl_username.AppendText(chr(keycode))
     
     #when reset button clicked , this function execute    
     def OnResetBtnClick(self, event):
