@@ -8,12 +8,14 @@ __version__ = "0.1"
 debug = True    #print debug info
 username=""
 gender = ""
-inputtimeslimit = 6
-expiretime = 5000
+inputtimeslimit = 100    #times limit
+expiretime = 5000    #expire time + 1s
 
 class ValidateFrame(wx.Frame):
     def __init__(self, parent, id, title):
         wx.Frame.__init__(self, parent, id, title, size=(300,400), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
+        self.Center()
+        self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
         
         self.panel = wx.Panel(self)
         self.numberoftimes = 1
@@ -217,6 +219,9 @@ class ValidateFrame(wx.Frame):
 class LoginFrame(wx.Frame):
     def __init__(self, parent, id):
         wx.Frame.__init__(self, parent, id, "Please Login", size=(300, 200), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
+        self.Center()
+        self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
+        
         self.panel = wx.Panel(self)
         
         #add text label

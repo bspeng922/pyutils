@@ -8,11 +8,57 @@ __version__ = "0.1"
 debug = True    #print debug info
 username=""
 gender = ""
-inputtimeslimit = 100
+inputtimeslimit = 100    #times limit
+
+class TaskBarIcon(wx.TaskBarIcon):
+    ID_About = wx.NewId()
+    ID_Close = wx.NewId()
+    
+    def __init__(self, frame):
+        wx.TaskBarIcon.__init__(self)
+        self.frame = frame
+        
+        #set icon for task bar
+        self.SetIcon(wx.Icon(name="secure.ico", type=wx.BITMAP_TYPE_ICO), "My Homework")
+        self.Bind(wx.EVT_TASKBAR_LEFT_DCLICK, self.OnTaskBarLeftDClick)
+        
+        #bind menu event
+        self.Bind(wx.EVT_MENU, self.OnAbout, id=self.ID_About)
+        self.Bind(wx.EVT_MENU, self.OnClose, id=self.ID_Close)
+    
+    #when double clicked    
+    def OnTaskBarLeftDClick(self, event):
+        if self.frame.IsIconized():
+            self.frame.Iconize(False)
+            
+        if not self.frame.IsShown():
+            self.frame.Show()
+        
+        self.frame.Raise()
+    
+    #when menu about clicked    
+    def OnAbout(self, event):
+        wx.MessageBox("This is my homework.", "About")
+    
+    #when menu close clicked    
+    def OnClose(self, event):
+        self.frame.Close(True)
+    
+    #when right click , show the menu    
+    def CreatePopupMenu(self):
+        menu = wx.Menu()
+        
+        menu.Append(self.ID_About, "About")
+        menu.Append(self.ID_Close, "Close")
+        
+        return menu
+        
 
 class ValidateFrame(wx.Frame):
     def __init__(self, parent, id, title):
         wx.Frame.__init__(self, parent, id, title, size=(300,400), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
+        self.Center()    #center on the screen
+        self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
         
         self.panel = wx.Panel(self)
         self.numberoftimes = 1
@@ -23,6 +69,11 @@ class ValidateFrame(wx.Frame):
         #log file
         self.logfile = open(title.replace(",","_")+".log",'w')
         self.logfile.write(title+"\n")
+        
+        #set taskbar icon and bind minisize event
+        self.taskbaricon = TaskBarIcon(self)
+        self.Bind(wx.EVT_ICONIZE, self.OnIconfiy)
+        self.Bind(wx.EVT_CLOSE, self.OnCloseFrame)
         
         #random code on the frame
         self.label_random = wx.StaticText(self.panel, -1, self.randcode(), pos=(75, 20))
@@ -72,6 +123,15 @@ class ValidateFrame(wx.Frame):
         
         #bind textctrl event
         self.textctrl_password.Bind(wx.EVT_CHAR, self.KeyPress)
+    
+    #when minisize button clicked
+    def OnIconfiy(self, event):
+        self.Hide()
+        event.Skip()
+        
+    def OnCloseFrame(self, event):
+        self.taskbaricon.Destroy()
+        self.Destroy()
         
     #generate random code
     def randcode(self):
@@ -161,6 +221,9 @@ class ValidateFrame(wx.Frame):
 class LoginFrame(wx.Frame):
     def __init__(self, parent, id):
         wx.Frame.__init__(self, parent, id, "Please Login", size=(300, 200), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
+        self.Center()
+        self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
+        
         self.panel = wx.Panel(self)
         
         #add text label
