@@ -8,7 +8,8 @@ __version__ = "0.1"
 debug = True    #print debug info
 username=""
 gender = ""
-inputtimeslimit = 100
+inputtimeslimit = 6
+expiretime = 5000
 
 class ValidateFrame(wx.Frame):
     def __init__(self, parent, id, title):
@@ -18,6 +19,7 @@ class ValidateFrame(wx.Frame):
         self.numberoftimes = 1
         self.cmpcount = 0.0
         self.secondscount = 0.0
+        self.starttime = datetime.datetime.now()    #use frame start time as starttime
         self.randomset = []
         
         #log file
@@ -34,9 +36,21 @@ class ValidateFrame(wx.Frame):
         
         #clock on the frame
         self.label_timer = wx.StaticText(self.panel, -1, "", pos=(120, 130))
+        
         self.timer2 = wx.Timer(self)
         self.Bind(wx.EVT_TIMER, self.OnTimeChange, self.timer2)
         self.timer2.Start(1000)
+        
+        #expire time set
+        self.timer1 = wx.Timer(self)
+        self.Bind(wx.EVT_TIMER, self.OnTimeExpired, self.timer1)
+        self.timer1.Start(expiretime)
+        
+        #gauge on the frame
+        self.gauge = wx.Gauge(self.panel, -1, (expiretime-1000)/100, (75,160), (150,20))
+        self.gauge.SetBezelFace(3)
+        self.gauge.SetShadowWidth(3)
+        self.gaugecount = 0
         
         #textctrl of user input on the frame
         self.textctrl_password = wx.TextCtrl(self.panel, -1, "", pos=(75, 200), size=(150,30), style=wx.PASSWORD)
@@ -85,24 +99,56 @@ class ValidateFrame(wx.Frame):
     
     #when seconds change, update the clock
     def OnTimeChange(self, event):
+        self.gaugecount += 1
+        
         t = time.localtime(time.time())
         st = time.strftime("%I:%M:%S", t)
         self.label_timer.SetLabel(st)
+        
+        self.gauge.SetValue(self.gaugecount * 10)
+        
+    #when time expired >4s
+    def OnTimeExpired(self, event):
+        #check data inputed with random code
+        #if debug : print "Time expired"
+        currdata = self.textctrl_password.GetValue()
+        
+        #if current inputed char less than 6 then append space char
+        if len(currdata) < 6:
+            #if self.starttime == ""  : self.starttime = datetime.datetime.now()
+            self.textctrl_password.AppendText(" "*(6-len(currdata)))
+        
+        self.CheckData()
+    
+    def BeforeRestart(self):
+        #update gauge
+        self.gauge.SetValue(0)
+        self.gaugecount = 0
+        
+        #update random code
+        self.label_random.SetLabel(self.randcode())
+        self.label_numberoftimes.SetLabel("The %sth Time"%self.numberoftimes) 
+        self.textctrl_password.SetValue("")
+        
+        #reset timer
+        self.starttime = datetime.datetime.now()  #use restart time as starttimr
+        self.timer1.Start(expiretime)
+        self.timer2.Start(1000)
+        
     
     #when numernic button clicked 
     def OnNumBtnClick(self, event):
         btnchar = event.GetEventObject().GetLabel()    #get label of button
-        self.currentvalue = self.textctrl_password.GetValue()    #get data in password box
-        self.CheckData(btnchar)
+        self.textctrl_password.AppendText(btnchar)
+        self.CheckData()
     
     #check user's input  
-    def CheckData(self, btnchar):
+    def CheckData(self):
         #if len>6 then go next loop
-        if len(self.currentvalue) == 0:
-            self.starttime = datetime.datetime.now()
-            self.textctrl_password.AppendText(btnchar) 
-        elif len(self.currentvalue) >= 5:
-            self.currentvalue += btnchar
+        self.currentvalue = self.textctrl_password.GetValue()
+        
+        
+        if len(self.currentvalue) >= 6:
             self.endtime = datetime.datetime.now()
             self.secondscount += self.DateDiffInSeconds(self.starttime, self.endtime)
                 
@@ -116,26 +162,36 @@ class ValidateFrame(wx.Frame):
                 
             if debug : print infostr
             self.logfile.write(infostr + "\n")    
-            #limit 60 times
+            
+            #all data inputed
             if self.numberoftimes < inputtimeslimit:                 
                 self.numberoftimes += 1 #number of time plus 1
-                self.label_random.SetLabel(self.randcode())
-                self.textctrl_password.SetValue("") 
-                self.label_numberoftimes.SetLabel("The %sth Time"%self.numberoftimes)                      
+                #self.label_random.SetLabel(self.randcode()) 
             else:
                 totalstr = "avg time: %.5ss    cmp rate: %.5s "%(self.secondscount/self.numberoftimes, self.cmpcount/self.numberoftimes)
+                
+                #close log file
                 self.logfile.write(totalstr)
                 self.logfile.close()
+                
+                #stop the timer
+                self.timer1.Stop()
+                self.timer2.Stop()
+                
+                #show message dialog
                 msgbox = wx.MessageDialog(None, totalstr,"Statistical information",wx.OK | wx.ICON_INFORMATION)
                 if msgbox.ShowModal() == wx.ID_OK:
                     self.Destroy()
+            
+            #restart a new round        
+            self.BeforeRestart()
         else:
-            self.textctrl_password.AppendText(btnchar)   
+            pass   
        
     #get seconds between two times
     def DateDiffInSeconds(self, stime, etime):
         timedelta = etime - stime
-        return timedelta.days*24*3600 + timedelta.seconds
+        return timedelta.days*24*3600 + timedelta.seconds - 1
     
     #when r button clicked
     def OnClearBtnClick(self, event):
@@ -149,12 +205,12 @@ class ValidateFrame(wx.Frame):
     #get user input
     def KeyPress(self, event):
         keycode = event.GetKeyCode()
-        self.currentvalue = self.textctrl_password.GetValue()
         
         if 32<= keycode <= 126:
-            self.CheckData(chr(keycode))
+            self.textctrl_password.AppendText(chr(keycode))
+            self.CheckData()
         else:
-            self.textctrl_password.AppendText("")
+            #self.textctrl_password.AppendText("")
             event.Skip()
 
 
