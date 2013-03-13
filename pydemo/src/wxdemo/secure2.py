@@ -265,6 +265,7 @@ class LoginFrame(wx.Frame):
     
     #when user press the keyboard
     def OnKeyPressed(self, event):
+        '''not used'''
         #if debug : print "Key pressed"
         keycode = event.GetKeyCode()
         
