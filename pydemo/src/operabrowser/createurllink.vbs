@@ -3,6 +3,7 @@ Set args = WScript.Arguments
 Set ws = CreateObject("wscript.shell")
 
 GenerateUrl args(0),args(1)
+wscript.echo args(0),args(1)
 
 Function GenerateUrl(bmurl, bmpath)
 	Set scut = ws.CreateShortcut(bmpath)

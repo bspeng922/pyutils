@@ -11,7 +11,7 @@ class ConvertFrame(wx.Frame):
     def __init__(self, parent, id):
         wx.Frame.__init__(self, parent, id, "Opera Bookmark Convert",size=(400,600), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
         self.Center()
-        self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
+        self.SetIcon(wx.Icon("convert.ico", wx.BITMAP_TYPE_ICO))
         
         panel = wx.Panel(self)
         
@@ -100,7 +100,6 @@ class ConvertFrame(wx.Frame):
                 self.textctrl_log.AppendText("Url links save to: %s"%currsp)
             self.StartConvert(currbm, currsp)
         else:
-            #errdlg = wx.MessageBox("Information needs to be complete","Error")
             self.textctrl_log.AppendText("Error: Information needs to be complete\n")
             event.Skip()
     
@@ -166,9 +165,6 @@ class ConvertFrame(wx.Frame):
                         bmurlid = bmfile.readline().split("=")[1]
                         bmurlname = bmfile.readline().split("=")[1].strip().encode("utf8")
                         bmurlurl = bmfile.readline().split("=")[1].strip().encode("utf8")
-                        #bmfile.readline()
-                        #bmfile.readline()
-                        #bmurldesc = bmfile.readline().split("=")[1].strip().encode("utf8")
                         
                         bmurlname = self.LegalFileName(bmurlname)
                         bmurlpath = os.path.join(bmfldpath,bmurlname+".url")
