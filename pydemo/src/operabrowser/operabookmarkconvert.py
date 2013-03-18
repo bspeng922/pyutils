@@ -1,44 +1,63 @@
-#-*- coding:utf-8 -*-
+#-*- coding: utf-8 -*-
 
 import wx
 import sys
 import os
 
 debug = True
+vbsfile = os.path.join(os.getcwd(),"createurllink.vbs")
 
 class ConvertFrame(wx.Frame):
     def __init__(self, parent, id):
-        wx.Frame.__init__(self, parent, id, "Opera Bookmark Convert",size=(600,400), style=wx.CAPTION | wx.CLOSE_BOX | wx.MINIMIZE_BOX | wx.SYSTEM_MENU)
+        wx.Frame.__init__(self, parent, id, "Opera Bookmark Convert",size=(400,600), style=wx.CAPTION|wx.CLOSE_BOX|wx.MINIMIZE_BOX|wx.SYSTEM_MENU)
         self.Center()
         self.SetIcon(wx.Icon("secure.ico", wx.BITMAP_TYPE_ICO))
+        
         panel = wx.Panel(self)
         
         #set menu bar
         self.SetMenuBar(self.CreateMenubar())
-                
+        
+        #sizer     
+        framesizer = wx.BoxSizer(wx.VERTICAL)   
+        
         #bookmark button
-        self.textctrl_bm = wx.TextCtrl(panel, -1, "", size=(400,20))
-        self.button_bm = wx.Button(panel, -1, "Choose Bookmark File")
+        self.textctrl_bm = wx.TextCtrl(panel, -1, "", size=(380,26))
+        self.button_bm = wx.Button(panel, -1, "Choose Bookmark File",size=(-1,40))
         self.Bind(wx.EVT_BUTTON, self.OnBMBtnClick, self.button_bm)
         self.textctrl_bm.Bind(wx.EVT_LEFT_DCLICK, self.OnBMBtnClick)
         
         #save path
-        self.textctrl_sp = wx.TextCtrl(panel, -1, "", size=(400,20))
-        self.button_sp = wx.Button(panel, -1, "Save To")
+        self.textctrl_sp = wx.TextCtrl(panel, -1, "", size=(380,26))
+        self.button_sp = wx.Button(panel, -1, "Save To",size=(-1,40))
         self.Bind(wx.EVT_BUTTON, self.OnSPBtnClick, self.button_sp)
-        self.textctrl_sp.Bind(wx.EVT_LEFT_DCLICK, self.OnSPBtnClick)
+        self.textctrl_sp.Bind(wx.EVT_LEFT_DCLICK, self.OnSPBtnClick)        
         
         #start convert
-        self.button_start = wx.Button(panel, -1, "Start Convert")
-        self.Bind(wx.EVT_BUTTON, self.OnSCBtnClick, self.button_start)
+        self.button_start = wx.Button(panel, -1, "Start Convert",size=(-1,40))
+        self.Bind(wx.EVT_BUTTON, self.OnSCBtnClick, self.button_start)        
         
         #log text info
-        self.textctrl_log = wx.TextCtrl(panel, -1, "")
+        self.textctrl_log = wx.TextCtrl(panel, -1, "", style=wx.TE_MULTILINE,size=(-1,160))
+        
+        #layout
+        framesizer.Add(self.textctrl_bm,0,wx.ALL|wx.EXPAND,2)
+        framesizer.Add(self.button_bm,0,wx.CENTER)
+        framesizer.Add((-1,10))
+        framesizer.Add(self.textctrl_sp,0,wx.ALL|wx.EXPAND,2)
+        framesizer.Add(self.button_sp,0,wx.CENTER)
+        framesizer.Add((-1,10))
+        framesizer.Add(self.button_start,0,wx.CENTER)
+        framesizer.Add((-1,10))
+        framesizer.Add(self.textctrl_log,0,wx.ALL|wx.EXPAND,2)
         
         #status bar
         self.statusbar = self.CreateStatusBar()
         self.statusbar.SetFieldsCount(2)
         self.statusbar.SetStatusWidths([-4,-2])
+        
+        panel.SetSizer(framesizer)
+        framesizer.Fit(self)
         
     def CreateMenubar(self):
         #menu bar
@@ -72,10 +91,17 @@ class ConvertFrame(wx.Frame):
         self.OnSavepath(event)
         
     def OnSCBtnClick(self, event):
-        if self.textctrl_bm.GetValue() and self.textctrl_sp.GetValue():
-            self.StartConvert()
+        currbm = self.textctrl_bm.GetValue()
+        currsp = self.textctrl_sp.GetValue()
+        
+        if currbm:
+            if not currsp:
+                currsp = os.path.basename(currbm)
+                self.textctrl_log.AppendText("Url links save to: %s"%currsp)
+            self.StartConvert(currbm, currsp)
         else:
-            errdlg = wx.MessageBox("Information needs to be complete","Error")
+            #errdlg = wx.MessageBox("Information needs to be complete","Error")
+            self.textctrl_log.AppendText("Error: Information needs to be complete\n")
             event.Skip()
     
     def OnSavepath(self, event):
@@ -86,6 +112,7 @@ class ConvertFrame(wx.Frame):
             self.textctrl_sp.SetValue(savepath)
             if debug:
                 print "Save To: %s"%savepath
+            self.textctrl_log.AppendText("Save To: %s\n"%savepath)
         
         dirdlg.Destroy()
     
@@ -98,6 +125,7 @@ class ConvertFrame(wx.Frame):
             self.textctrl_bm.SetValue(bmpath)
             if debug:
                 print "Bookmark: %s"%bmpath
+            self.textctrl_log.AppendText("Bookmark: %s\n"%bmpath)
             
         opendlg.Destroy()
     
@@ -108,8 +136,72 @@ class ConvertFrame(wx.Frame):
         self.Destroy()
         
     def StartConvert(self, bmfile, sppath):
-        pass
-        
+        self.textctrl_log.AppendText("Start converting...\n")
+        if os.path.exists(vbsfile):
+            if os.path.exists(bmfile) and os.path.exists(sppath):                
+                #read bookmark file
+                bmfile = open(bmfile, 'r')
+                bmfldpath = ""
+                foldercount = 0
+                urlcount = 0
+                urlok = 0
+                
+                while 1:
+                    bmline = bmfile.readline()
+                    if len(bmline) == 0:
+                        break
+                    
+                    if bmline.find("#FOLDER") <> -1:
+                        bmfldid = bmfile.readline().split("=")[1]
+                        bmfldname = bmfile.readline().split("=")[1].strip().encode("utf8")
+                        
+                        bmfldpath = os.path.join(sppath, bmfldname)
+                        if not os.path.exists(bmfldpath):
+                            os.mkdir(bmfldpath)
+                            if debug : print "+ Create folder: %s"%bmfldpath
+                            self.textctrl_log.AppendText("+ Create folder: %s\n"%bmfldpath)
+                        foldercount += 1
+                    elif bmline.find("#URL") <> -1:
+                        urlcount += 1
+                        bmurlid = bmfile.readline().split("=")[1]
+                        bmurlname = bmfile.readline().split("=")[1].strip().encode("utf8")
+                        bmurlurl = bmfile.readline().split("=")[1].strip().encode("utf8")
+                        #bmfile.readline()
+                        #bmfile.readline()
+                        #bmurldesc = bmfile.readline().split("=")[1].strip().encode("utf8")
+                        
+                        bmurlname = self.LegalFileName(bmurlname)
+                        bmurlpath = os.path.join(bmfldpath,bmurlname+".url")
+                        
+                        if not os.path.exists(bmurlpath):
+                            self.GenerateUrlLink(bmurlurl, bmurlpath)
+                            if debug: print "  + Create Url (%s)"%bmurlname
+                            self.textctrl_log.AppendText("  + Create Url (%s)\n"%bmurlurl)
+                            urlok += 1
+                        else:
+                            if debug: print "Url exists ! (%s)"%bmurlname
+                            self.textctrl_log.AppendText("Url exists ! (%s)\n"%bmurlurl)
+                        
+                    
+                bmfile.close()
+                self.textctrl_log.AppendText("FolderCount: %s    UrlCount: %s    UrlCreated: %s\n"%(foldercount, urlcount, urlok))
+                self.textctrl_log.AppendText("Finish convert.\n\n")
+            else:
+                self.textctrl_log.AppendText("Error: Bookmark file not exists !\nPlease check you input...\n\n")
+        else:
+            self.textctrl_log.AppendText("Missing files, Please reinstall the program...\n\n")
+            
+    def LegalFileName(self, fname):
+        illegalchars = ['<','>','/','|','\\',':','"','*','?']
+        for illchar in illegalchars:
+            if fname.find(illchar) <> -1:
+                fname = fname.replace(illchar, " ")
+                
+        return fname
+    
+    def GenerateUrlLink(self, bmurl, bmpath):        
+        os.system(r"\"%s\" \"%s\" \"%s\""%(vbsfile, bmurl, bmpath))
+        if debug: print "\"%s\" \"%s\" \"%s\""%(vbsfile, bmurl, bmpath)
         
 if __name__ == "__main__":
     app = wx.PySimpleApp()
