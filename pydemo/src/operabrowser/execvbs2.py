@@ -7,5 +7,5 @@ bmpath = unicode(r"C:\Users\wang_peng\Desktop\bm\技术论坛\论坛首页 - 欢
 ws = win32com.client.Dispatch("wscript.shell")
 scut = ws.CreateShortcut(bmpath)
 scut.TargetPath=bmurl  
-scut.Save
+scut.Save()
 print bmurl,bmpath

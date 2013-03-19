@@ -1,5 +1,19 @@
 #-*- coding: utf-8 -*-
-
+## 
+#  Copyright (C) 
+# 
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation.
+# 
+##
+# @file: operabookmarkconvert.py
+# @author: moose
+# @blog: http://www.pystack.org
+# @mail: admin@pystack.org
+# @QQ: 852354673
+# @date: 2013-3-19
+# 
 import wx
 import sys
 import os
@@ -139,18 +153,16 @@ class ConvertFrame(wx.Frame):
     def StartConvert(self, bmfile, sppath):
         self.textctrl_log.AppendText("Running...\n")
         if os.path.exists(vbsfile):
-            if os.path.exists(bmfile) and os.path.exists(sppath):                
-                #read bookmark file
-#                tempfilename = "opera.temp"
-#                tempfilepath = os.path.join(sppath, tempfilename)
+            if os.path.exists(bmfile) and os.path.exists(sppath):                 
+                self.ws = win32com.client.Dispatch("wscript.shell")   
+                
                 bmfile = open(bmfile, 'r')
-#                tempfile = open(tempfilepath,'w')
                 issubfld = 0
                 bmfldpath = ""
                 bmfldname = ""
                 foldercount = 0
                 urlcount = 0
-                urlok = 0
+                self.urlok = 0
                 
                 while 1:
                     bmline = bmfile.readline()
@@ -184,19 +196,14 @@ class ConvertFrame(wx.Frame):
                         
                         if not os.path.exists(bmurlpath):
                             self.GenerateUrlLink(bmurlurl, bmurlpath)
-                            #tempfile.write(bmurlurl+"|*|"+bmurlpath+"\n")
                             if debug: print "  + Create Url (%s)"%bmurlname
                             self.textctrl_log.AppendText("  + Create Url (%s)\n"%bmurlurl)
-                            urlok += 1
                         else:
                             if debug: print "Url exists ! (%s)"%bmurlname
                             self.textctrl_log.AppendText("Url exists ! (%s)\n"%bmurlurl)
                         
-#                tempfile.close()    
                 bmfile.close()
-#                self.textctrl_log.AppendText("\nConverting Urls...\n")
-#                self.GenerateUrlLink(tempfilepath)
-                self.textctrl_log.AppendText("\nFolderCount: %s    UrlCount: %s    UrlCreated: %s\n"%(foldercount, urlcount, urlok))
+                self.textctrl_log.AppendText("\nFolderCount: %s    UrlCount: %s    UrlCreated: %s\n"%(foldercount, urlcount, self.urlok))
                 self.textctrl_log.AppendText("Finish convert.\n\n")
             else:
                 self.textctrl_log.AppendText("Error: Bookmark file not exists !\nPlease check you input...\n\n")
@@ -215,10 +222,14 @@ class ConvertFrame(wx.Frame):
         if debug: print 'Exec: "%s" "%s"'%(bmurl, bmpath)
         
         #use py win32
-        ws = win32com.client.Dispatch("wscript.shell")
-        scut = ws.CreateShortcut(bmpath)
-        scut.TargetPath=bmurl  
-        scut.Save
+        try:
+            scut = self.ws.CreateShortcut(bmpath)
+            scut.TargetPath=bmurl  
+            scut.Save()
+            self.urlok += 1
+        except :
+            if debug: print "Unable to generate shortcut for: %s"%bmurl
+            self.textctrl_log.AppendText("  --Unable to generate shortcut: %s"%bmurl)
         
 if __name__ == "__main__":
     app = wx.PySimpleApp()

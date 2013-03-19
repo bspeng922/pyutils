@@ -11,7 +11,7 @@ scode="""Function GenerateUrl(bmurl, bmpath)
 set ws = createobject("wscript.shell")
 scut = ws.CreateShortcut(bmpath)
 scut.TargetPath=bmurl  
-scut.Save
+scut.Save()
 End Function 
 """ 
 vbs.addcode(scode) 
