@@ -20,8 +20,6 @@ import os
 import win32com.client
 
 debug = True
-vbsfile = os.path.join(os.getcwd(),"createurllink.vbs")
-#vbsfile = "createurllink.vbs"
 
 class ConvertFrame(wx.Frame):
     def __init__(self, parent, id):
@@ -152,63 +150,60 @@ class ConvertFrame(wx.Frame):
         
     def StartConvert(self, bmfile, sppath):
         self.textctrl_log.AppendText("Running...\n")
-        if os.path.exists(vbsfile):
-            if os.path.exists(bmfile) and os.path.exists(sppath):                 
-                self.ws = win32com.client.Dispatch("wscript.shell")   
+        if os.path.exists(bmfile) and os.path.exists(sppath):                 
+            self.ws = win32com.client.Dispatch("wscript.shell")   
                 
-                bmfile = open(bmfile, 'r')
-                issubfld = 0
-                bmfldpath = ""
-                bmfldname = ""
-                foldercount = 0
-                urlcount = 0
-                self.urlok = 0
+            bmfile = open(bmfile, 'r')
+            issubfld = 0
+            bmfldpath = ""
+            bmfldname = ""
+            foldercount = 0
+            urlcount = 0
+            self.urlok = 0
                 
-                while 1:
-                    bmline = bmfile.readline()
-                    if len(bmline) == 0:
-                        break
+            while 1:
+                bmline = bmfile.readline()
+                if len(bmline) == 0:
+                    break
                     
-                    if bmline.strip() == "-":
-                        issubfld = 0
-                    elif bmline.find("#FOLDER") <> -1:
-                        bmfldid = bmfile.readline().split("=")[1]
-                        if issubfld:
-                            bmfldname = os.path.join(bmfldname, unicode(bmfile.readline().split("=")[1].strip(),"utf-8"))
-                        else:
-                            bmfldname = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
-                        
-                        bmfldpath = os.path.join(sppath, bmfldname)
-                        if not os.path.exists(bmfldpath):
-                            os.mkdir(bmfldpath)
-                            if debug : print "+ Create folder: %s"%bmfldpath
-                            self.textctrl_log.AppendText("+ Create folder: %s\n"%bmfldpath)
-                        foldercount += 1
-                        issubfld=1
-                    elif bmline.find("#URL") <> -1:
-                        urlcount += 1
-                        bmurlid = bmfile.readline().split("=")[1]
-                        bmurlname = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
-                        bmurlurl = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
-                        
-                        bmurlname = self.LegalFileName(bmurlname)
-                        bmurlpath = os.path.join(bmfldpath,bmurlname+".url")
-                        
-                        if not os.path.exists(bmurlpath):
-                            self.GenerateUrlLink(bmurlurl, bmurlpath)
-                            if debug: print "  + Create Url (%s)"%bmurlname
-                            self.textctrl_log.AppendText("  + Create Url (%s)\n"%bmurlurl)
-                        else:
-                            if debug: print "Url exists ! (%s)"%bmurlname
-                            self.textctrl_log.AppendText("Url exists ! (%s)\n"%bmurlurl)
-                        
-                bmfile.close()
-                self.textctrl_log.AppendText("\nFolderCount: %s    UrlCount: %s    UrlCreated: %s\n"%(foldercount, urlcount, self.urlok))
-                self.textctrl_log.AppendText("Finish convert.\n\n")
-            else:
-                self.textctrl_log.AppendText("Error: Bookmark file not exists !\nPlease check you input...\n\n")
+                if bmline.strip() == "-":
+                    issubfld = 0
+                elif bmline.find("#FOLDER") <> -1:
+                    bmfldid = bmfile.readline().split("=")[1]
+                    if issubfld:
+                        bmfldname = os.path.join(bmfldname, unicode(bmfile.readline().split("=")[1].strip(),"utf-8"))
+                    else:
+                        bmfldname = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
+                    
+                    bmfldpath = os.path.join(sppath, bmfldname)
+                    if not os.path.exists(bmfldpath):
+                        os.mkdir(bmfldpath)
+                        if debug : print "+ Create folder: %s"%bmfldpath
+                        self.textctrl_log.AppendText("+ Create folder: %s\n"%bmfldpath)
+                    foldercount += 1
+                    issubfld=1
+                elif bmline.find("#URL") <> -1:
+                    urlcount += 1
+                    bmurlid = bmfile.readline().split("=")[1]
+                    bmurlname = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
+                    bmurlurl = unicode(bmfile.readline().split("=")[1].strip(),"utf-8")
+                    
+                    bmurlname = self.LegalFileName(bmurlname)
+                    bmurlpath = os.path.join(bmfldpath,bmurlname+".url")
+                    
+                    if not os.path.exists(bmurlpath):
+                        self.GenerateUrlLink(bmurlurl, bmurlpath)
+                        if debug: print "  + Create Url (%s)"%bmurlname
+                        self.textctrl_log.AppendText("  + Create Url (%s)\n"%bmurlurl)
+                    else:
+                        if debug: print "Url exists ! (%s)"%bmurlname
+                        self.textctrl_log.AppendText("Url exists ! (%s)\n"%bmurlurl)
+                    
+            bmfile.close()
+            self.textctrl_log.AppendText("\nFolderCount: %s    UrlCount: %s    UrlCreated: %s\n"%(foldercount, urlcount, self.urlok))
+            self.textctrl_log.AppendText("Finish convert.\n\n")
         else:
-            self.textctrl_log.AppendText("Missing files, Please reinstall the program...\n\n")
+            self.textctrl_log.AppendText("Error: Bookmark file not exists !\nPlease check you input...\n\n")
             
     def LegalFileName(self, fname):
         illegalchars = ['<','>','/','|','\\',':','"','*','?']
