@@ -228,8 +228,8 @@ class ConvertFrame(wx.Frame):
             scut.Save()
             self.urlok += 1
         except :
-            if debug: print "Unable to generate shortcut for: %s"%bmurl
-            self.textctrl_log.AppendText("  --Unable to generate shortcut: %s"%bmurl)
+            if debug: print "Unable to generate shortcut for: %s\n"%bmurl
+            self.textctrl_log.AppendText("  --Unable to generate shortcut: %s\n"%bmurl)
         
 if __name__ == "__main__":
     app = wx.PySimpleApp()
