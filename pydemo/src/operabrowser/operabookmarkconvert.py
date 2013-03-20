@@ -81,6 +81,7 @@ class ConvertFrame(wx.Frame):
         self.statusbar = self.CreateStatusBar()
         self.statusbar.SetFieldsCount(2)
         self.statusbar.SetStatusWidths([-4,-2])
+        self.statusbar.SetStatusText("www.pystack.org",1)
         
         panel.SetSizer(framesizer)
         framesizer.Fit(self)
@@ -97,6 +98,7 @@ class ConvertFrame(wx.Frame):
         
         menu_open = menu_file.Append(wx.NewId(), "&Open Bookmark","Open an opera...")
         menu_path = menu_file.Append(wx.NewId(), "&Save To","Save bookmark To...")
+        menu_log = menu_file.Append(wx.NewId(),"E&xport Log","Export log...")
         menu_file.AppendSeparator()
         menu_exit = menu_file.Append(wx.ID_EXIT,"&Exit","Exit this application.")
                 
@@ -105,6 +107,7 @@ class ConvertFrame(wx.Frame):
         
         self.Bind(wx.EVT_MENU, self.OnOpenBookmark, menu_open)
         self.Bind(wx.EVT_MENU, self.OnSavepath, menu_path)
+        self.Bind(wx.EVT_MENU, self.OnExportLog, menu_log)
         self.Bind(wx.EVT_MENU, self.OnAbout, menu_about)
         self.Bind(wx.EVT_MENU, self.OnExit, menu_exit)
         
@@ -153,6 +156,22 @@ class ConvertFrame(wx.Frame):
             self.textctrl_log.AppendText("Bookmark: %s\n"%bmpath)
             
         opendlg.Destroy()
+        
+    def OnExportLog(self, event):
+        file_wildcard = "log files(*.log)|*.log|All files(*.*)|*.*"
+        filedlg = wx.FileDialog(self, "Save log to...", os.getcwd(), style=wx.SAVE|wx.OVERWRITE_PROMPT, wildcard=file_wildcard)
+        
+        if filedlg.ShowModal() == wx.ID_OK:
+            bmlogpath = filedlg.GetPath()
+            
+            if not os.path.splitext(bmlogpath[1]):        
+                bmlogpath += ".log"
+            
+            bmlogfile = open(bmlogpath,'w')
+            bmlogfile.write(self.textctrl_log.GetValue())
+            bmlogfile.close()
+            
+        filedlg.Destroy()
     
     def OnAbout(self, event):
         msgbox = wx.MessageBox("This is a bookmark convert application\nAuthor: www.pystack.org\nVersion: 1.0","About Me")
