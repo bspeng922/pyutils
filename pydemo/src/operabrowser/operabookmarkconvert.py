@@ -21,6 +21,14 @@ import win32com.client
 
 debug = True
 
+class FileDrop(wx.FileDropTarget):
+    def __init__(self, window):
+        wx.FileDropTarget.__init__(self)
+        self.window = window
+        
+    def OnDropFiles(self, x, y, filenames):
+        self.window.SetValue(str(filenames[0]))
+
 class ConvertFrame(wx.Frame):
     def __init__(self, parent, id):
         wx.Frame.__init__(self, parent, id, "Opera Bookmark Convert",size=(400,600))
@@ -40,12 +48,16 @@ class ConvertFrame(wx.Frame):
         self.button_bm = wx.Button(panel, -1, "Choose Bookmark File",size=(-1,40))
         self.Bind(wx.EVT_BUTTON, self.OnBMBtnClick, self.button_bm)
         self.textctrl_bm.Bind(wx.EVT_LEFT_DCLICK, self.OnBMBtnClick)
+        droptarget = FileDrop(self.textctrl_bm)
+        self.textctrl_bm.SetDropTarget(droptarget)
         
         #save path
         self.textctrl_sp = wx.TextCtrl(panel, -1, "", size=(380,26))
         self.button_sp = wx.Button(panel, -1, "Save To",size=(-1,40))
         self.Bind(wx.EVT_BUTTON, self.OnSPBtnClick, self.button_sp)
         self.textctrl_sp.Bind(wx.EVT_LEFT_DCLICK, self.OnSPBtnClick)        
+        droptarget = FileDrop(self.textctrl_sp)
+        self.textctrl_sp.SetDropTarget(droptarget)
         
         #start convert
         self.button_start = wx.Button(panel, -1, "Start Convert",size=(-1,40))
