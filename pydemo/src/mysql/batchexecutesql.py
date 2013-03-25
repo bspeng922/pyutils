@@ -72,6 +72,8 @@ class MainFrame(wx.Frame):
         #load dbuser and dbpassword
         self.dbuser, self.dbpasswd = self.GetDbUserandPasswd(dbconfigfile)
         self.dbcharset = "utf8"
+        self.hostcount = 0
+        self.errorhost = 0
         
         
     def InitMenuBar(self):
@@ -188,7 +190,8 @@ class MainFrame(wx.Frame):
             
             file_ip.close()
             
-            self.textctrl_log.AppendText("\nAll sql executed !\n\n")
+            self.textctrl_log.AppendText("\nHostCount: %s    HostError: %s\n"%(self.hostcount, self.errorhost))
+            self.textctrl_log.AppendText("All sql executed !\n\n")
         else:
             if debug: print "Ip File or SQL File not found ! Please check your input..."
             self.textctrl_log.AppendText("Ip File or SQL File not found ! Please check your input...\n\n")
@@ -197,6 +200,7 @@ class MainFrame(wx.Frame):
     def ExecuteSqlFileOnServer(self, ipaddr, sqlfile):
         if debug: "+ Executing sql on server (%s)\n"%ipaddr
         self.textctrl_log.AppendText("+ Executing sql on server (%s)\n"%ipaddr)
+        self.hostcount += 1
         
         #check if the db connectable.
         try :
@@ -208,13 +212,9 @@ class MainFrame(wx.Frame):
                             %(ipaddr, self.dbuser, self.dbpasswd, self.dbcharset), stdout=PIPE, stdin=PIPE, shell=True)
             output = process.communicate('source '+sqlfile)
         except MySQLdb.Error, e:
+            self.errorhost += 1
             if debug: print "? Unreachable host: %s"%ipaddr
-            self.textctrl_log.AppendText("- Unreachable host: %s\n"%ipaddr)
-            
-#        process = Popen('mysql -h%s -u%s -p%s --default-character-set=%s' \
-#                        %(ipaddr, self.dbuser, self.dbpasswd, self.dbcharset), stdout=PIPE, stdin=PIPE, shell=True)
-#        output = process.communicate('source '+sqlfile)
-#        print output
+            self.textctrl_log.AppendText("  - Unreachable host: %s\n"%ipaddr)
     
     
     def GetDbUserandPasswd(self, dbcfgfile):
