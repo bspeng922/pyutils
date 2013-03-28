@@ -1,5 +1,19 @@
 #-*- coding: utf-8 -*-
-
+## 
+#  Copyright (C) 
+# 
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation.
+# 
+##
+# @file: batchexexutesql.py
+# @author: moose
+# @blog: http://www.pystack.org
+# @mail: admin@pystack.org
+# @QQ: 852354673
+# @date: 2013-3-25
+# 
 import wx
 import os
 import sys

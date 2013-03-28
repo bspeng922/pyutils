@@ -32,6 +32,7 @@ class Reader(threading.Thread):
     def run(self):
         while 1:
             host = self.queue.get()
+            print "------"+host
             read(host)
             self.queue.task_done()
             
