@@ -5,6 +5,7 @@ encoding//src/logsplit/AnalysisLog.py=utf8
 encoding//src/musicplayer/MusicPlayer.py=utf-8
 encoding//src/musicplayer/getmp3files.py=utf-8
 encoding//src/musicplayer/listctrldemo.py=utf-8
+encoding//src/musicplayer/playmusic.py=utf-8
 encoding//src/mysql/batchexecutesql.py=utf-8
 encoding//src/operabrowser/createurllink.vbs=UTF-8
 encoding//src/operabrowser/execvbs.py=cp936
