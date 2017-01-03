@@ -20,5 +20,13 @@ if __name__ == "__main__":
     pool.join()    #wait for process end
     
     print who
+
+    pool2 = Pool(3)
+    result = []
+    for i in range(5):
+        result.append(pool2.apply(hello, (i, )))
+    pool2.close()
+    pool2.join()
+    print result
     
     print "Done"
