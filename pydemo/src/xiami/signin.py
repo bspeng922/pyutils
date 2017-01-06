@@ -50,8 +50,8 @@ def login(account, pw):
 
 
 def main():
-    account = "852354673@qq.com"
-    pw = "TjFH5aS4tGjnskk"
+    account = "*******"
+    pw = "*******"
     login(account, pw)
 
 
